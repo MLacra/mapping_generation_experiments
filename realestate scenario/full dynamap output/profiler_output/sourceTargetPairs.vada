@@ -1,0 +1,15 @@
+map_schemas(deprivation_data_pc_man,target).
+map_schemas(m_zoopla,target).
+map_schemas(olm_openaddresses,target).
+map_schemas(oxlets,target).
+map_schemas(m_agent,target).
+map_schemas(jpknight,target).
+map_schemas(m_rightmove,target).
+map_schemas(l_belvoir,target).
+map_schemas(m_onthemarket,target).
+map_schemas(unique_openaddresses,target).
+map_schemas(cotswold,target).
+map_schemas(m_deprivation,target).
+map_schemas(l_deprivation,target).
+map_schemas(l_savills,target).
+map_schemas(trinity,target).

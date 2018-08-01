@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile-data>
+	<keyCandidates>
+		<attribute schema = "public" relation = "compare_me_1_nl0_ce0" name = "society_me_1_nl0_ae0comp0_joinattr_0"/>
+		<attribute schema = "public" relation = "nut_cp_1_nl0_ce0" name = "art_cp_1_nl0_ae0ke0"/>
+		<attribute schema = "public" relation = "different_ad_1_nl0_ce0" name = "society_ad_1_nl0_ae0ke0"/>
+		<attribute schema = "public" relation = "past_dl_1_nl0_ce0" name = "wheel_dl_1_nl0_ae0ke0"/>
+		<attribute schema = "public" relation = "attention_adl_1_nl0_ce0" name = "discover_adl_1_nl0_ae0ke0"/>
+		<attribute schema = "public" relation = "expansion_cp_2_nl0_ce0" name = "pipe_cp_2_nl0_ae0ke0"/>
+		<attribute schema = "public" relation = "account_me_2_nl0_ce0" name = "twist_me_2_nl0_ae0comp0_joinattr_0"/>
+		<attribute schema = "public" relation = "brain_ad_2_nl0_ce0" name = "branch_ad_2_nl0_ae0ke0"/>
+		<attribute schema = "public" relation = "division_dl_2_nl0_ce0" name = "ready_dl_2_nl0_ae0ke0"/>
+		<attribute schema = "public" relation = "use_adl_2_nl0_ce0" name = "paint_adl_2_nl0_ae0ke0"/>
+	</keyCandidates>
+	<inclusion-dependencies>
+		<inclusion-dependency>
+			<is-included distinct_values = "206">
+				<attribute schema = "public" relation = "great_me_1_nl0_ce1" name = "society_me_1_nl0_ae0comp1_joinref_0"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="compare_me_1_nl0_ce0" name = "society_me_1_nl0_ae0comp0_joinattr_0"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "232">
+				<attribute schema = "public" relation = "compare_me_1_nl0_ce0" name = "society_me_1_nl0_ae0comp0_joinattr_0"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="great_me_1_nl0_ce1" name = "society_me_1_nl0_ae0comp1_joinref_0"/>
+			</includes>
+			<coeficient value = "0.8879310344827587"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "236">
+				<attribute schema = "public" relation = "mixed_me_2_nl0_ce1" name = "twist_me_2_nl0_ae0comp1_joinref_0"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="account_me_2_nl0_ce0" name = "twist_me_2_nl0_ae0comp0_joinattr_0"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "278">
+				<attribute schema = "public" relation = "account_me_2_nl0_ce0" name = "twist_me_2_nl0_ae0comp0_joinattr_0"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="mixed_me_2_nl0_ce1" name = "twist_me_2_nl0_ae0comp1_joinref_0"/>
+			</includes>
+			<coeficient value = "0.8489208633093526"></coeficient>
+		</inclusion-dependency>
+	</inclusion-dependencies></profile-data>

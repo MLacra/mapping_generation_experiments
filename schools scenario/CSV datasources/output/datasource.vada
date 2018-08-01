@@ -1,0 +1,13 @@
+datasource(eal_may2017,localhost:5432/calderdale,JDBC_POSTGRES,null).
+datasource(eal_may16,localhost:5432/calderdale,JDBC_POSTGRES,null).
+datasource(bikeability,localhost:5432/calderdale,JDBC_POSTGRES,null).
+datasource(eal_oct2016,localhost:5432/calderdale,JDBC_POSTGRES,null).
+datasource(eal_oct2017,localhost:5432/calderdale,JDBC_POSTGRES,null).
+datasource(all_schools,localhost:5432/calderdale,JDBC_POSTGRES,null).
+datasource(eal_oct15,localhost:5432/calderdale,JDBC_POSTGRES,null).
+datasource(eal_jan16,localhost:5432/calderdale,JDBC_POSTGRES,null).
+datasource(road_safety_training,localhost:5432/calderdale,JDBC_POSTGRES,null).
+datasource(eal_january2017,localhost:5432/calderdale,JDBC_POSTGRES,null).
+datasource(free_meals_schools,localhost:5432/calderdale,JDBC_POSTGRES,null).
+datasource(defibrillators,localhost:5432/calderdale,JDBC_POSTGRES,null).
+datasource(target,localhost:5432/calderdale,JDBC_POSTGRES,null).

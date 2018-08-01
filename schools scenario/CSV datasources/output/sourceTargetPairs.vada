@@ -1,0 +1,12 @@
+map_schemas(eal_may2017,target).
+map_schemas(eal_may16,target).
+map_schemas(bikeability,target).
+map_schemas(eal_oct2016,target).
+map_schemas(eal_oct2017,target).
+map_schemas(all_schools,target).
+map_schemas(eal_oct15,target).
+map_schemas(eal_jan16,target).
+map_schemas(road_safety_training,target).
+map_schemas(eal_january2017,target).
+map_schemas(free_meals_schools,target).
+map_schemas(defibrillators,target).

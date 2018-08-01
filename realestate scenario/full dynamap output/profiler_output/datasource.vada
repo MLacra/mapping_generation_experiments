@@ -1,0 +1,16 @@
+datasource(deprivation_data_pc_man,localhost:5432/extended_realestate,JDBC_POSTGRES,null).
+datasource(m_zoopla,localhost:5432/extended_realestate,JDBC_POSTGRES,null).
+datasource(olm_openaddresses,localhost:5432/extended_realestate,JDBC_POSTGRES,null).
+datasource(oxlets,localhost:5432/extended_realestate,JDBC_POSTGRES,null).
+datasource(m_agent,localhost:5432/extended_realestate,JDBC_POSTGRES,null).
+datasource(jpknight,localhost:5432/extended_realestate,JDBC_POSTGRES,null).
+datasource(m_rightmove,localhost:5432/extended_realestate,JDBC_POSTGRES,null).
+datasource(l_belvoir,localhost:5432/extended_realestate,JDBC_POSTGRES,null).
+datasource(m_onthemarket,localhost:5432/extended_realestate,JDBC_POSTGRES,null).
+datasource(unique_openaddresses,localhost:5432/extended_realestate,JDBC_POSTGRES,null).
+datasource(cotswold,localhost:5432/extended_realestate,JDBC_POSTGRES,null).
+datasource(m_deprivation,localhost:5432/extended_realestate,JDBC_POSTGRES,null).
+datasource(l_deprivation,localhost:5432/extended_realestate,JDBC_POSTGRES,null).
+datasource(l_savills,localhost:5432/extended_realestate,JDBC_POSTGRES,null).
+datasource(trinity,localhost:5432/extended_realestate,JDBC_POSTGRES,null).
+datasource(target,localhost:5432/extended_realestate,JDBC_POSTGRES,null).

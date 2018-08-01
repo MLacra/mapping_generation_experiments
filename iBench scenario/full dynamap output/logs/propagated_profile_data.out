@@ -1,0 +1,446 @@
+[02:57:02.057] 
+No size estimations were given in the profile data file...reading them from data sources...
+[02:57:02.057] Reading cardinalities for relations in public
+[02:57:02.088] |public.different_ad_1_nl0_ce0|=289
+[02:57:02.088] |public.attention_adl_1_nl0_ce0|=279
+[02:57:02.090] |public.account_me_2_nl0_ce0|=278
+[02:57:02.090] |public.great_me_1_nl0_ce1|=206
+[02:57:02.091] |public.brain_ad_2_nl0_ce0|=276
+[02:57:02.092] |public.division_dl_2_nl0_ce0|=260
+[02:57:02.093] |public.compare_me_1_nl0_ce0|=232
+[02:57:02.094] |public.expansion_cp_2_nl0_ce0|=243
+[02:57:02.095] |public.mixed_me_2_nl0_ce1|=236
+[02:57:02.096] |public.nut_cp_1_nl0_ce0|=239
+[02:57:02.105] |public.past_dl_1_nl0_ce0|=257
+[02:57:02.109] |public.use_adl_2_nl0_ce0|=201
+[02:57:02.109] 
+No null estimations were given in the profile data file...reading them from data sources...
+[02:57:02.109] Reading number of nulls for relations in public
+[02:57:02.118] nulls(public.different_ad_1_nl0_ce0.tail_ad_1_nl0_ae1)=0
+[02:57:02.119] nulls(public.different_ad_1_nl0_ce0.red_ad_1_nl0_ae2)=0
+[02:57:02.120] nulls(public.different_ad_1_nl0_ce0.society_ad_1_nl0_ae0ke0)=0
+[02:57:02.121] nulls(public.different_ad_1_nl0_ce0.wrong_ad_1_nl0_ae3)=0
+[02:57:02.123] nulls(public.attention_adl_1_nl0_ce0.discover_adl_1_nl0_ae0ke0)=0
+[02:57:02.124] nulls(public.attention_adl_1_nl0_ce0.rest_adl_1_nl0_ae4)=0
+[02:57:02.124] nulls(public.attention_adl_1_nl0_ce0.reveal_adl_1_nl0_ae1)=0
+[02:57:02.125] nulls(public.attention_adl_1_nl0_ce0.narrow_adl_1_nl0_ae3)=0
+[02:57:02.126] nulls(public.attention_adl_1_nl0_ce0.oven_adl_1_nl0_ae2)=0
+[02:57:02.127] nulls(public.attention_adl_1_nl0_ce0.place_adl_1_nl0_ae5)=0
+[02:57:02.141] nulls(public.account_me_2_nl0_ce0.chin_me_2_nl0_ae1)=0
+[02:57:02.141] nulls(public.account_me_2_nl0_ce0.future_me_2_nl0_ae0)=0
+[02:57:02.142] nulls(public.account_me_2_nl0_ce0.twist_me_2_nl0_ae0comp0_joinattr_0)=0
+[02:57:02.145] nulls(public.great_me_1_nl0_ce1.society_me_1_nl0_ae0comp1_joinref_0)=0
+[02:57:02.145] nulls(public.great_me_1_nl0_ce1.affect_me_1_nl1_ae1)=0
+[02:57:02.146] nulls(public.great_me_1_nl0_ce1.board_me_1_nl1_ae0)=0
+[02:57:02.150] nulls(public.brain_ad_2_nl0_ce0.place_ad_2_nl0_ae1)=0
+[02:57:02.151] nulls(public.brain_ad_2_nl0_ce0.approval_ad_2_nl0_ae2)=0
+[02:57:02.151] nulls(public.brain_ad_2_nl0_ce0.branch_ad_2_nl0_ae0ke0)=0
+[02:57:02.152] nulls(public.brain_ad_2_nl0_ce0.blow_ad_2_nl0_ae3)=0
+[02:57:02.153] nulls(public.division_dl_2_nl0_ce0.involve_dl_2_nl0_ae6)=0
+[02:57:02.153] nulls(public.division_dl_2_nl0_ce0.gun_dl_2_nl0_ae1)=0
+[02:57:02.154] nulls(public.division_dl_2_nl0_ce0.work_dl_2_nl0_ae4)=0
+[02:57:02.154] nulls(public.division_dl_2_nl0_ce0.discuss_dl_2_nl0_ae5)=0
+[02:57:02.155] nulls(public.division_dl_2_nl0_ce0.ready_dl_2_nl0_ae0ke0)=0
+[02:57:02.156] nulls(public.division_dl_2_nl0_ce0.winter_dl_2_nl0_ae2)=0
+[02:57:02.156] nulls(public.division_dl_2_nl0_ce0.powder_dl_2_nl0_ae3)=0
+[02:57:02.160] nulls(public.compare_me_1_nl0_ce0.branch_me_1_nl0_ae0)=0
+[02:57:02.160] nulls(public.compare_me_1_nl0_ce0.society_me_1_nl0_ae0comp0_joinattr_0)=0
+[02:57:02.161] nulls(public.compare_me_1_nl0_ce0.demand_me_1_nl0_ae1)=0
+[02:57:02.169] nulls(public.expansion_cp_2_nl0_ce0.indicate_cp_2_nl0_ae1)=0
+[02:57:02.170] nulls(public.expansion_cp_2_nl0_ce0.thank_cp_2_nl0_ae2)=0
+[02:57:02.170] nulls(public.expansion_cp_2_nl0_ce0.pipe_cp_2_nl0_ae0ke0)=0
+[02:57:02.171] nulls(public.expansion_cp_2_nl0_ce0.stick_cp_2_nl0_ae3)=0
+[02:57:02.172] nulls(public.expansion_cp_2_nl0_ce0.order_cp_2_nl0_ae4)=0
+[02:57:02.175] nulls(public.mixed_me_2_nl0_ce1.small_me_2_nl1_ae0)=0
+[02:57:02.176] nulls(public.mixed_me_2_nl0_ce1.twist_me_2_nl0_ae0comp1_joinref_0)=0
+[02:57:02.177] nulls(public.mixed_me_2_nl0_ce1.broken_me_2_nl1_ae1)=0
+[02:57:02.178] nulls(public.nut_cp_1_nl0_ce0.slope_cp_1_nl0_ae1)=0
+[02:57:02.179] nulls(public.nut_cp_1_nl0_ce0.cheese_cp_1_nl0_ae4)=0
+[02:57:02.179] nulls(public.nut_cp_1_nl0_ce0.touch_cp_1_nl0_ae3)=0
+[02:57:02.181] nulls(public.nut_cp_1_nl0_ce0.measure_cp_1_nl0_ae2)=0
+[02:57:02.181] nulls(public.nut_cp_1_nl0_ce0.art_cp_1_nl0_ae0ke0)=0
+[02:57:02.182] nulls(public.past_dl_1_nl0_ce0.find_dl_1_nl0_ae6)=0
+[02:57:02.183] nulls(public.past_dl_1_nl0_ce0.night_dl_1_nl0_ae5)=0
+[02:57:02.183] nulls(public.past_dl_1_nl0_ce0.describe_dl_1_nl0_ae3)=0
+[02:57:02.184] nulls(public.past_dl_1_nl0_ce0.wheel_dl_1_nl0_ae0ke0)=0
+[02:57:02.185] nulls(public.past_dl_1_nl0_ce0.blue_dl_1_nl0_ae2)=0
+[02:57:02.186] nulls(public.past_dl_1_nl0_ce0.letter_dl_1_nl0_ae1)=0
+[02:57:02.186] nulls(public.past_dl_1_nl0_ce0.report_dl_1_nl0_ae4)=0
+[02:57:02.187] nulls(public.use_adl_2_nl0_ce0.draw_adl_2_nl0_ae1)=0
+[02:57:02.188] nulls(public.use_adl_2_nl0_ce0.paint_adl_2_nl0_ae0ke0)=0
+[02:57:02.189] nulls(public.use_adl_2_nl0_ce0.knee_adl_2_nl0_ae4)=0
+[02:57:02.190] nulls(public.use_adl_2_nl0_ce0.send_adl_2_nl0_ae2)=0
+[02:57:02.190] nulls(public.use_adl_2_nl0_ce0.regular_adl_2_nl0_ae3)=0
+[02:57:02.191] nulls(public.use_adl_2_nl0_ce0.leave_adl_2_nl0_ae5)=0
+[02:57:02.191] 
+No info about attribute's distinct values were given in the profile data file...reading them from data sources...
+[02:57:02.191] Reading distinct values for relations in public
+[02:57:02.202] distinct_vals(public.different_ad_1_nl0_ce0.tail_ad_1_nl0_ae1)=289
+[02:57:02.211] distinct_vals(public.different_ad_1_nl0_ce0.red_ad_1_nl0_ae2)=289
+[02:57:02.226] distinct_vals(public.different_ad_1_nl0_ce0.society_ad_1_nl0_ae0ke0)=289
+[02:57:02.236] distinct_vals(public.different_ad_1_nl0_ce0.wrong_ad_1_nl0_ae3)=289
+[02:57:02.249] distinct_vals(public.attention_adl_1_nl0_ce0.discover_adl_1_nl0_ae0ke0)=279
+[02:57:02.259] distinct_vals(public.attention_adl_1_nl0_ce0.rest_adl_1_nl0_ae4)=279
+[02:57:02.271] distinct_vals(public.attention_adl_1_nl0_ce0.reveal_adl_1_nl0_ae1)=279
+[02:57:02.282] distinct_vals(public.attention_adl_1_nl0_ce0.narrow_adl_1_nl0_ae3)=279
+[02:57:02.291] distinct_vals(public.attention_adl_1_nl0_ce0.oven_adl_1_nl0_ae2)=279
+[02:57:02.301] distinct_vals(public.attention_adl_1_nl0_ce0.place_adl_1_nl0_ae5)=279
+[02:57:02.313] distinct_vals(public.account_me_2_nl0_ce0.chin_me_2_nl0_ae1)=278
+[02:57:02.324] distinct_vals(public.account_me_2_nl0_ce0.future_me_2_nl0_ae0)=278
+[02:57:02.332] distinct_vals(public.account_me_2_nl0_ce0.twist_me_2_nl0_ae0comp0_joinattr_0)=278
+[02:57:02.339] distinct_vals(public.great_me_1_nl0_ce1.society_me_1_nl0_ae0comp1_joinref_0)=206
+[02:57:02.350] distinct_vals(public.great_me_1_nl0_ce1.affect_me_1_nl1_ae1)=206
+[02:57:02.358] distinct_vals(public.great_me_1_nl0_ce1.board_me_1_nl1_ae0)=206
+[02:57:02.368] distinct_vals(public.brain_ad_2_nl0_ce0.place_ad_2_nl0_ae1)=276
+[02:57:02.376] distinct_vals(public.brain_ad_2_nl0_ce0.approval_ad_2_nl0_ae2)=276
+[02:57:02.387] distinct_vals(public.brain_ad_2_nl0_ce0.branch_ad_2_nl0_ae0ke0)=276
+[02:57:02.396] distinct_vals(public.brain_ad_2_nl0_ce0.blow_ad_2_nl0_ae3)=276
+[02:57:02.413] distinct_vals(public.division_dl_2_nl0_ce0.involve_dl_2_nl0_ae6)=260
+[02:57:02.421] distinct_vals(public.division_dl_2_nl0_ce0.gun_dl_2_nl0_ae1)=260
+[02:57:02.432] distinct_vals(public.division_dl_2_nl0_ce0.work_dl_2_nl0_ae4)=260
+[02:57:02.438] distinct_vals(public.division_dl_2_nl0_ce0.discuss_dl_2_nl0_ae5)=260
+[02:57:02.447] distinct_vals(public.division_dl_2_nl0_ce0.ready_dl_2_nl0_ae0ke0)=260
+[02:57:02.453] distinct_vals(public.division_dl_2_nl0_ce0.winter_dl_2_nl0_ae2)=260
+[02:57:02.462] distinct_vals(public.division_dl_2_nl0_ce0.powder_dl_2_nl0_ae3)=260
+[02:57:02.471] distinct_vals(public.compare_me_1_nl0_ce0.branch_me_1_nl0_ae0)=232
+[02:57:02.478] distinct_vals(public.compare_me_1_nl0_ce0.society_me_1_nl0_ae0comp0_joinattr_0)=232
+[02:57:02.484] distinct_vals(public.compare_me_1_nl0_ce0.demand_me_1_nl0_ae1)=232
+[02:57:02.496] distinct_vals(public.expansion_cp_2_nl0_ce0.indicate_cp_2_nl0_ae1)=243
+[02:57:02.505] distinct_vals(public.expansion_cp_2_nl0_ce0.thank_cp_2_nl0_ae2)=243
+[02:57:02.513] distinct_vals(public.expansion_cp_2_nl0_ce0.pipe_cp_2_nl0_ae0ke0)=243
+[02:57:02.525] distinct_vals(public.expansion_cp_2_nl0_ce0.stick_cp_2_nl0_ae3)=243
+[02:57:02.553] distinct_vals(public.expansion_cp_2_nl0_ce0.order_cp_2_nl0_ae4)=243
+[02:57:02.589] distinct_vals(public.mixed_me_2_nl0_ce1.small_me_2_nl1_ae0)=236
+[02:57:02.611] distinct_vals(public.mixed_me_2_nl0_ce1.twist_me_2_nl0_ae0comp1_joinref_0)=236
+[02:57:02.640] distinct_vals(public.mixed_me_2_nl0_ce1.broken_me_2_nl1_ae1)=236
+[02:57:02.667] distinct_vals(public.nut_cp_1_nl0_ce0.slope_cp_1_nl0_ae1)=239
+[02:57:02.698] distinct_vals(public.nut_cp_1_nl0_ce0.cheese_cp_1_nl0_ae4)=239
+[02:57:02.715] distinct_vals(public.nut_cp_1_nl0_ce0.touch_cp_1_nl0_ae3)=239
+[02:57:02.724] distinct_vals(public.nut_cp_1_nl0_ce0.measure_cp_1_nl0_ae2)=239
+[02:57:02.732] distinct_vals(public.nut_cp_1_nl0_ce0.art_cp_1_nl0_ae0ke0)=239
+[02:57:02.741] distinct_vals(public.past_dl_1_nl0_ce0.find_dl_1_nl0_ae6)=257
+[02:57:02.748] distinct_vals(public.past_dl_1_nl0_ce0.night_dl_1_nl0_ae5)=257
+[02:57:02.756] distinct_vals(public.past_dl_1_nl0_ce0.describe_dl_1_nl0_ae3)=257
+[02:57:02.765] distinct_vals(public.past_dl_1_nl0_ce0.wheel_dl_1_nl0_ae0ke0)=257
+[02:57:02.787] distinct_vals(public.past_dl_1_nl0_ce0.blue_dl_1_nl0_ae2)=257
+[02:57:02.798] distinct_vals(public.past_dl_1_nl0_ce0.letter_dl_1_nl0_ae1)=257
+[02:57:02.806] distinct_vals(public.past_dl_1_nl0_ce0.report_dl_1_nl0_ae4)=257
+[02:57:02.817] distinct_vals(public.use_adl_2_nl0_ce0.draw_adl_2_nl0_ae1)=201
+[02:57:02.823] distinct_vals(public.use_adl_2_nl0_ce0.paint_adl_2_nl0_ae0ke0)=201
+[02:57:02.832] distinct_vals(public.use_adl_2_nl0_ce0.knee_adl_2_nl0_ae4)=201
+[02:57:02.838] distinct_vals(public.use_adl_2_nl0_ce0.send_adl_2_nl0_ae2)=201
+[02:57:02.847] distinct_vals(public.use_adl_2_nl0_ce0.regular_adl_2_nl0_ae3)=201
+[02:57:02.852] distinct_vals(public.use_adl_2_nl0_ce0.leave_adl_2_nl0_ae5)=201
+[02:57:02.855] Initial Profile Data:
+
+[02:57:02.861] Profile Data for relation public.division_dl_2_nl0_ce0:
+[02:57:02.861] ProfileData [keyCandidates=1, inclusionDependencies=0] 
+KeyConstraint [keyAttributes=[public.division_dl_2_nl0_ce0.ready_dl_2_nl0_ae0ke0], isPrimaryKey=false]
+
+[02:57:02.861] Profile Data for relation public.great_me_1_nl0_ce1:
+[02:57:02.861] ProfileData [keyCandidates=0, inclusionDependencies=2] 
+IND [ [(public.great_me_1_nl0_ce1.society_me_1_nl0_ae0comp1_joinref_0, public.compare_me_1_nl0_ce0.society_me_1_nl0_ae0comp0_joinattr_0)], ov=1.0, included_distinct_vals=206, degr = 0 ]
+IND [ [(public.compare_me_1_nl0_ce0.society_me_1_nl0_ae0comp0_joinattr_0, public.great_me_1_nl0_ce1.society_me_1_nl0_ae0comp1_joinref_0)], ov=0.8879310344827587, included_distinct_vals=232, degr = 0 ]
+
+[02:57:02.861] Profile Data for relation public.different_ad_1_nl0_ce0:
+[02:57:02.861] ProfileData [keyCandidates=1, inclusionDependencies=0] 
+KeyConstraint [keyAttributes=[public.different_ad_1_nl0_ce0.society_ad_1_nl0_ae0ke0], isPrimaryKey=false]
+
+[02:57:02.862] Profile Data for relation public.compare_me_1_nl0_ce0:
+[02:57:02.862] ProfileData [keyCandidates=1, inclusionDependencies=2] 
+KeyConstraint [keyAttributes=[public.compare_me_1_nl0_ce0.society_me_1_nl0_ae0comp0_joinattr_0], isPrimaryKey=false]
+IND [ [(public.great_me_1_nl0_ce1.society_me_1_nl0_ae0comp1_joinref_0, public.compare_me_1_nl0_ce0.society_me_1_nl0_ae0comp0_joinattr_0)], ov=1.0, included_distinct_vals=206, degr = 0 ]
+IND [ [(public.compare_me_1_nl0_ce0.society_me_1_nl0_ae0comp0_joinattr_0, public.great_me_1_nl0_ce1.society_me_1_nl0_ae0comp1_joinref_0)], ov=0.8879310344827587, included_distinct_vals=232, degr = 0 ]
+
+[02:57:02.862] Profile Data for relation public.past_dl_1_nl0_ce0:
+[02:57:02.862] ProfileData [keyCandidates=1, inclusionDependencies=0] 
+KeyConstraint [keyAttributes=[public.past_dl_1_nl0_ce0.wheel_dl_1_nl0_ae0ke0], isPrimaryKey=false]
+
+[02:57:02.862] Profile Data for relation public.brain_ad_2_nl0_ce0:
+[02:57:02.862] ProfileData [keyCandidates=1, inclusionDependencies=0] 
+KeyConstraint [keyAttributes=[public.brain_ad_2_nl0_ce0.branch_ad_2_nl0_ae0ke0], isPrimaryKey=false]
+
+[02:57:02.862] Profile Data for relation public.expansion_cp_2_nl0_ce0:
+[02:57:02.862] ProfileData [keyCandidates=1, inclusionDependencies=0] 
+KeyConstraint [keyAttributes=[public.expansion_cp_2_nl0_ce0.pipe_cp_2_nl0_ae0ke0], isPrimaryKey=false]
+
+[02:57:02.862] Profile Data for relation public.use_adl_2_nl0_ce0:
+[02:57:02.862] ProfileData [keyCandidates=1, inclusionDependencies=0] 
+KeyConstraint [keyAttributes=[public.use_adl_2_nl0_ce0.paint_adl_2_nl0_ae0ke0], isPrimaryKey=false]
+
+[02:57:02.862] Profile Data for relation public.attention_adl_1_nl0_ce0:
+[02:57:02.862] ProfileData [keyCandidates=1, inclusionDependencies=0] 
+KeyConstraint [keyAttributes=[public.attention_adl_1_nl0_ce0.discover_adl_1_nl0_ae0ke0], isPrimaryKey=false]
+
+[02:57:02.862] Profile Data for relation public.mixed_me_2_nl0_ce1:
+[02:57:02.862] ProfileData [keyCandidates=0, inclusionDependencies=2] 
+IND [ [(public.mixed_me_2_nl0_ce1.twist_me_2_nl0_ae0comp1_joinref_0, public.account_me_2_nl0_ce0.twist_me_2_nl0_ae0comp0_joinattr_0)], ov=1.0, included_distinct_vals=236, degr = 0 ]
+IND [ [(public.account_me_2_nl0_ce0.twist_me_2_nl0_ae0comp0_joinattr_0, public.mixed_me_2_nl0_ce1.twist_me_2_nl0_ae0comp1_joinref_0)], ov=0.8489208633093526, included_distinct_vals=278, degr = 0 ]
+
+[02:57:02.862] Profile Data for relation public.account_me_2_nl0_ce0:
+[02:57:02.862] ProfileData [keyCandidates=1, inclusionDependencies=2] 
+KeyConstraint [keyAttributes=[public.account_me_2_nl0_ce0.twist_me_2_nl0_ae0comp0_joinattr_0], isPrimaryKey=false]
+IND [ [(public.mixed_me_2_nl0_ce1.twist_me_2_nl0_ae0comp1_joinref_0, public.account_me_2_nl0_ce0.twist_me_2_nl0_ae0comp0_joinattr_0)], ov=1.0, included_distinct_vals=236, degr = 0 ]
+IND [ [(public.account_me_2_nl0_ce0.twist_me_2_nl0_ae0comp0_joinattr_0, public.mixed_me_2_nl0_ce1.twist_me_2_nl0_ae0comp1_joinref_0)], ov=0.8489208633093526, included_distinct_vals=278, degr = 0 ]
+
+[02:57:02.862] Profile Data for relation public.nut_cp_1_nl0_ce0:
+[02:57:02.862] ProfileData [keyCandidates=1, inclusionDependencies=0] 
+KeyConstraint [keyAttributes=[public.nut_cp_1_nl0_ce0.art_cp_1_nl0_ae0ke0], isPrimaryKey=false]
+
+[02:57:02.865] 
+Propagating profile data for public.nut_cp_1_nl0_ce0 (InitialMappingOperator) = ir_1...
+[02:57:02.866] PROPAGATED KEY:KeyConstraint [keyAttributes=[public.nut_cp_1_nl0_ce0.art_cp_1_nl0_ae0ke0], isPrimaryKey=false] INTO KeyConstraint [keyAttributes=[ir_1.A_4], isPrimaryKey=false]
+[02:57:02.867] 
+Propagating profile data for public.compare_me_1_nl0_ce0 (InitialMappingOperator) = ir_3...
+[02:57:02.867] PROPAGATED KEY:KeyConstraint [keyAttributes=[public.compare_me_1_nl0_ce0.society_me_1_nl0_ae0comp0_joinattr_0], isPrimaryKey=false] INTO KeyConstraint [keyAttributes=[ir_3.A_6], isPrimaryKey=false]
+[02:57:02.867] PROPAGATED IND (right attributes):IND [ [(public.great_me_1_nl0_ce1.society_me_1_nl0_ae0comp1_joinref_0, public.compare_me_1_nl0_ce0.society_me_1_nl0_ae0comp0_joinattr_0)], ov=1.0, included_distinct_vals=206, degr = 0 ] INTO IND [ [(public.great_me_1_nl0_ce1.society_me_1_nl0_ae0comp1_joinref_0, ir_3.A_6)], ov=1.0, included_distinct_vals=206, degr = 0 ]
+[02:57:02.867] PROPAGATED IND (left attributes):IND [ [(public.compare_me_1_nl0_ce0.society_me_1_nl0_ae0comp0_joinattr_0, public.great_me_1_nl0_ce1.society_me_1_nl0_ae0comp1_joinref_0)], ov=0.8879310344827587, included_distinct_vals=232, degr = 0 ] INTO IND [ [(ir_3.A_6, public.great_me_1_nl0_ce1.society_me_1_nl0_ae0comp1_joinref_0)], ov=0.8879310344827587, included_distinct_vals=232, degr = 0 ]
+[02:57:02.868] 
+Propagating profile data for public.great_me_1_nl0_ce1 (InitialMappingOperator) = ir_5...
+[02:57:02.870] PROPAGATED IND (left attributes):IND [ [(public.great_me_1_nl0_ce1.society_me_1_nl0_ae0comp1_joinref_0, ir_3.A_6)], ov=1.0, included_distinct_vals=206, degr = 0 ] INTO IND [ [(ir_5.A_8, ir_3.A_6)], ov=1.0, included_distinct_vals=206, degr = 0 ]
+[02:57:02.870] PROPAGATED IND (right attributes):IND [ [(ir_3.A_6, public.great_me_1_nl0_ce1.society_me_1_nl0_ae0comp1_joinref_0)], ov=0.8879310344827587, included_distinct_vals=232, degr = 0 ] INTO IND [ [(ir_3.A_6, ir_5.A_8)], ov=0.8879310344827587, included_distinct_vals=232, degr = 0 ]
+[02:57:02.870] PROPAGATED IND (left attributes):IND [ [(public.great_me_1_nl0_ce1.society_me_1_nl0_ae0comp1_joinref_0, public.compare_me_1_nl0_ce0.society_me_1_nl0_ae0comp0_joinattr_0)], ov=1.0, included_distinct_vals=206, degr = 0 ] INTO IND [ [(ir_5.A_8, public.compare_me_1_nl0_ce0.society_me_1_nl0_ae0comp0_joinattr_0)], ov=1.0, included_distinct_vals=206, degr = 0 ]
+[02:57:02.871] PROPAGATED IND (right attributes):IND [ [(public.compare_me_1_nl0_ce0.society_me_1_nl0_ae0comp0_joinattr_0, public.great_me_1_nl0_ce1.society_me_1_nl0_ae0comp1_joinref_0)], ov=0.8879310344827587, included_distinct_vals=232, degr = 0 ] INTO IND [ [(public.compare_me_1_nl0_ce0.society_me_1_nl0_ae0comp0_joinattr_0, ir_5.A_8)], ov=0.8879310344827587, included_distinct_vals=232, degr = 0 ]
+[02:57:02.872] 
+Propagating profile data for public.different_ad_1_nl0_ce0 (InitialMappingOperator) = ir_7...
+[02:57:02.872] PROPAGATED KEY:KeyConstraint [keyAttributes=[public.different_ad_1_nl0_ce0.society_ad_1_nl0_ae0ke0], isPrimaryKey=false] INTO KeyConstraint [keyAttributes=[ir_7.A_13], isPrimaryKey=false]
+[02:57:02.873] 
+Propagating profile data for public.past_dl_1_nl0_ce0 (InitialMappingOperator) = ir_9...
+[02:57:02.873] PROPAGATED KEY:KeyConstraint [keyAttributes=[public.past_dl_1_nl0_ce0.wheel_dl_1_nl0_ae0ke0], isPrimaryKey=false] INTO KeyConstraint [keyAttributes=[ir_9.A_18], isPrimaryKey=false]
+[02:57:02.873] 
+Propagating profile data for public.attention_adl_1_nl0_ce0 (InitialMappingOperator) = ir_11...
+[02:57:02.873] PROPAGATED KEY:KeyConstraint [keyAttributes=[public.attention_adl_1_nl0_ce0.discover_adl_1_nl0_ae0ke0], isPrimaryKey=false] INTO KeyConstraint [keyAttributes=[ir_11.A_22], isPrimaryKey=false]
+[02:57:02.874] 
+Propagating profile data for public.expansion_cp_2_nl0_ce0 (InitialMappingOperator) = ir_13...
+[02:57:02.874] PROPAGATED KEY:KeyConstraint [keyAttributes=[public.expansion_cp_2_nl0_ce0.pipe_cp_2_nl0_ae0ke0], isPrimaryKey=false] INTO KeyConstraint [keyAttributes=[ir_13.A_30], isPrimaryKey=false]
+[02:57:02.875] 
+Propagating profile data for public.account_me_2_nl0_ce0 (InitialMappingOperator) = ir_15...
+[02:57:02.875] PROPAGATED KEY:KeyConstraint [keyAttributes=[public.account_me_2_nl0_ce0.twist_me_2_nl0_ae0comp0_joinattr_0], isPrimaryKey=false] INTO KeyConstraint [keyAttributes=[ir_15.A_35], isPrimaryKey=false]
+[02:57:02.875] PROPAGATED IND (right attributes):IND [ [(public.mixed_me_2_nl0_ce1.twist_me_2_nl0_ae0comp1_joinref_0, public.account_me_2_nl0_ce0.twist_me_2_nl0_ae0comp0_joinattr_0)], ov=1.0, included_distinct_vals=236, degr = 0 ] INTO IND [ [(public.mixed_me_2_nl0_ce1.twist_me_2_nl0_ae0comp1_joinref_0, ir_15.A_35)], ov=1.0, included_distinct_vals=236, degr = 0 ]
+[02:57:02.875] PROPAGATED IND (left attributes):IND [ [(public.account_me_2_nl0_ce0.twist_me_2_nl0_ae0comp0_joinattr_0, public.mixed_me_2_nl0_ce1.twist_me_2_nl0_ae0comp1_joinref_0)], ov=0.8489208633093526, included_distinct_vals=278, degr = 0 ] INTO IND [ [(ir_15.A_35, public.mixed_me_2_nl0_ce1.twist_me_2_nl0_ae0comp1_joinref_0)], ov=0.8489208633093526, included_distinct_vals=278, degr = 0 ]
+[02:57:02.876] 
+Propagating profile data for public.mixed_me_2_nl0_ce1 (InitialMappingOperator) = ir_17...
+[02:57:02.876] PROPAGATED IND (left attributes):IND [ [(public.mixed_me_2_nl0_ce1.twist_me_2_nl0_ae0comp1_joinref_0, public.account_me_2_nl0_ce0.twist_me_2_nl0_ae0comp0_joinattr_0)], ov=1.0, included_distinct_vals=236, degr = 0 ] INTO IND [ [(ir_17.A_37, public.account_me_2_nl0_ce0.twist_me_2_nl0_ae0comp0_joinattr_0)], ov=1.0, included_distinct_vals=236, degr = 0 ]
+[02:57:02.876] PROPAGATED IND (right attributes):IND [ [(public.account_me_2_nl0_ce0.twist_me_2_nl0_ae0comp0_joinattr_0, public.mixed_me_2_nl0_ce1.twist_me_2_nl0_ae0comp1_joinref_0)], ov=0.8489208633093526, included_distinct_vals=278, degr = 0 ] INTO IND [ [(public.account_me_2_nl0_ce0.twist_me_2_nl0_ae0comp0_joinattr_0, ir_17.A_37)], ov=0.8489208633093526, included_distinct_vals=278, degr = 0 ]
+[02:57:02.877] PROPAGATED IND (left attributes):IND [ [(public.mixed_me_2_nl0_ce1.twist_me_2_nl0_ae0comp1_joinref_0, ir_15.A_35)], ov=1.0, included_distinct_vals=236, degr = 0 ] INTO IND [ [(ir_17.A_37, ir_15.A_35)], ov=1.0, included_distinct_vals=236, degr = 0 ]
+[02:57:02.877] PROPAGATED IND (right attributes):IND [ [(ir_15.A_35, public.mixed_me_2_nl0_ce1.twist_me_2_nl0_ae0comp1_joinref_0)], ov=0.8489208633093526, included_distinct_vals=278, degr = 0 ] INTO IND [ [(ir_15.A_35, ir_17.A_37)], ov=0.8489208633093526, included_distinct_vals=278, degr = 0 ]
+[02:57:02.878] 
+Propagating profile data for public.brain_ad_2_nl0_ce0 (InitialMappingOperator) = ir_19...
+[02:57:02.878] PROPAGATED KEY:KeyConstraint [keyAttributes=[public.brain_ad_2_nl0_ce0.branch_ad_2_nl0_ae0ke0], isPrimaryKey=false] INTO KeyConstraint [keyAttributes=[ir_19.A_41], isPrimaryKey=false]
+[02:57:02.879] 
+Propagating profile data for public.division_dl_2_nl0_ce0 (InitialMappingOperator) = ir_21...
+[02:57:02.879] PROPAGATED KEY:KeyConstraint [keyAttributes=[public.division_dl_2_nl0_ce0.ready_dl_2_nl0_ae0ke0], isPrimaryKey=false] INTO KeyConstraint [keyAttributes=[ir_21.A_47], isPrimaryKey=false]
+[02:57:02.879] 
+Propagating profile data for public.use_adl_2_nl0_ce0 (InitialMappingOperator) = ir_23...
+[02:57:02.880] PROPAGATED KEY:KeyConstraint [keyAttributes=[public.use_adl_2_nl0_ce0.paint_adl_2_nl0_ae0ke0], isPrimaryKey=false] INTO KeyConstraint [keyAttributes=[ir_23.A_51], isPrimaryKey=false]
+[02:57:02.934] 
+Propagating profile data for (attention_adl_1_nl0_ce0) UnionOperator (brain_ad_2_nl0_ce0) = ir_38...
+[02:57:02.934] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_11.A_22], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_38.A_98], isPrimaryKey=false]
+[02:57:02.934] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_11.A_22], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_38.A_98], isPrimaryKey=false]
+[02:57:02.934] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_19.A_41], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_38.A_102], isPrimaryKey=false]
+[02:57:02.934] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_19.A_41], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_38.A_102], isPrimaryKey=false]
+[02:57:02.935] 
+Propagating profile data for (past_dl_1_nl0_ce0) UnionOperator (division_dl_2_nl0_ce0) = ir_30...
+[02:57:02.935] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_9.A_18], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_30.A_68], isPrimaryKey=false]
+[02:57:02.935] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_9.A_18], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_30.A_68], isPrimaryKey=false]
+[02:57:02.935] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_21.A_47], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_30.A_73], isPrimaryKey=false]
+[02:57:02.935] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_21.A_47], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_30.A_73], isPrimaryKey=false]
+[02:57:02.935] 
+Propagating profile data for (mixed_me_2_nl0_ce1) UnionOperator (great_me_1_nl0_ce1) = ir_28...
+[02:57:02.937] 
+Propagating profile data for (mixed_me_2_nl0_ce1) JoinOperator (account_me_2_nl0_ce0) = ir_26...
+[02:57:02.937] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_15.A_35], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_26.A_57], isPrimaryKey=false]
+[02:57:02.937] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_15.A_35], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_26.A_57], isPrimaryKey=false]
+[02:57:02.938] 
+Propagating profile data for (use_adl_2_nl0_ce0) UnionOperator (different_ad_1_nl0_ce0) = ir_34...
+[02:57:02.938] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_23.A_51], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_34.A_84], isPrimaryKey=false]
+[02:57:02.938] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_23.A_51], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_34.A_84], isPrimaryKey=false]
+[02:57:02.938] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_7.A_13], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_34.A_88], isPrimaryKey=false]
+[02:57:02.938] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_7.A_13], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_34.A_88], isPrimaryKey=false]
+[02:57:02.939] 
+Propagating profile data for (nut_cp_1_nl0_ce0) UnionOperator (expansion_cp_2_nl0_ce0) = ir_40...
+[02:57:02.939] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_1.A_4], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_40.A_106], isPrimaryKey=false]
+[02:57:02.939] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_1.A_4], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_40.A_106], isPrimaryKey=false]
+[02:57:02.939] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_13.A_30], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_40.A_111], isPrimaryKey=false]
+[02:57:02.939] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_13.A_30], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_40.A_111], isPrimaryKey=false]
+[02:57:02.940] 
+Propagating profile data for (account_me_2_nl0_ce0) UnionOperator (compare_me_1_nl0_ce0) = ir_32...
+[02:57:02.941] PROPAGATED IND:
+IND [ [(ir_17.A_37, ir_15.A_35)], ov=1.0, included_distinct_vals=236, degr = 0 ] INTO
+IND [ [(ir_17.A_37, ir_32.A_77)], ov=1.0, included_distinct_vals=236, degr = 0 ]
+[02:57:02.941] PROPAGATED IND:
+IND [ [(ir_15.A_35, ir_17.A_37)], ov=0.8489208633093526, included_distinct_vals=278, degr = 0 ] INTO
+IND [ [(ir_32.A_77, ir_17.A_37)], ov=0.4627450980392157, included_distinct_vals=510, degr = 0 ]
+[02:57:02.941] PROPAGATED IND:
+IND [ [(ir_15.A_35, ir_17.A_37)], ov=0.8489208633093526, included_distinct_vals=278, degr = 0 ] INTO
+IND [ [(ir_32.A_77, ir_17.A_37)], ov=0.4627450980392157, included_distinct_vals=510, degr = 0 ]
+[02:57:02.941] PROPAGATED IND:
+IND [ [(ir_5.A_8, ir_3.A_6)], ov=1.0, included_distinct_vals=206, degr = 0 ] INTO
+IND [ [(ir_5.A_8, ir_32.A_77)], ov=1.0, included_distinct_vals=206, degr = 0 ]
+[02:57:02.941] PROPAGATED IND:
+IND [ [(ir_3.A_6, ir_5.A_8)], ov=0.8879310344827587, included_distinct_vals=232, degr = 0 ] INTO
+IND [ [(ir_32.A_77, ir_5.A_8)], ov=0.403921568627451, included_distinct_vals=510, degr = 0 ]
+[02:57:02.941] PROPAGATED IND:
+IND [ [(ir_3.A_6, ir_5.A_8)], ov=0.8879310344827587, included_distinct_vals=232, degr = 0 ] INTO
+IND [ [(ir_32.A_77, ir_5.A_8)], ov=0.403921568627451, included_distinct_vals=510, degr = 0 ]
+[02:57:02.941] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_15.A_35], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_32.A_77], isPrimaryKey=false]
+[02:57:02.941] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_15.A_35], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_32.A_77], isPrimaryKey=false]
+[02:57:02.941] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_3.A_6], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_32.A_80], isPrimaryKey=false]
+[02:57:02.941] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_3.A_6], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_32.A_80], isPrimaryKey=false]
+[02:57:02.942] 
+Propagating profile data for (compare_me_1_nl0_ce0) JoinOperator (great_me_1_nl0_ce1) = ir_36...
+[02:57:02.942] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_3.A_6], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_36.A_91], isPrimaryKey=false]
+[02:57:02.942] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_3.A_6], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_36.A_91], isPrimaryKey=false]
+[02:57:02.953] 
+Propagating profile data for (past_dl_1_nl0_ce0) UnionOperator (compare_me_1_nl0_ce0..great_me_1_nl0_ce1) = ir_44...
+[02:57:02.953] 
+Propagating profile data for (nut_cp_1_nl0_ce0) UnionOperator (compare_me_1_nl0_ce0..great_me_1_nl0_ce1) = ir_52...
+[02:57:02.954] 
+Propagating profile data for (expansion_cp_2_nl0_ce0) UnionOperator (account_me_2_nl0_ce0..mixed_me_2_nl0_ce1) = ir_54...
+[02:57:02.954] 
+Propagating profile data for (expansion_cp_2_nl0_ce0) UnionOperator (compare_me_1_nl0_ce0..great_me_1_nl0_ce1) = ir_56...
+[02:57:02.954] 
+Propagating profile data for (past_dl_1_nl0_ce0) UnionOperator (account_me_2_nl0_ce0..mixed_me_2_nl0_ce1) = ir_42...
+[02:57:02.954] 
+Propagating profile data for (division_dl_2_nl0_ce0) UnionOperator (compare_me_1_nl0_ce0..great_me_1_nl0_ce1) = ir_48...
+[02:57:02.955] 
+Propagating profile data for (nut_cp_1_nl0_ce0) UnionOperator (account_me_2_nl0_ce0..mixed_me_2_nl0_ce1) = ir_50...
+[02:57:02.955] 
+Propagating profile data for (division_dl_2_nl0_ce0) UnionOperator (account_me_2_nl0_ce0..mixed_me_2_nl0_ce1) = ir_46...
+[02:57:02.985] 
+Propagating profile data for (division_dl_2_nl0_ce0) UnionOperator (compare_me_1_nl0_ce0..expansion_cp_2_nl0_ce0..great_me_1_nl0_ce1) = ir_76...
+[02:57:02.986] 
+Propagating profile data for (past_dl_1_nl0_ce0) UnionOperator (compare_me_1_nl0_ce0..division_dl_2_nl0_ce0..great_me_1_nl0_ce1) = ir_64...
+[02:57:02.986] 
+Propagating profile data for (past_dl_1_nl0_ce0) UnionOperator (account_me_2_nl0_ce0..expansion_cp_2_nl0_ce0..mixed_me_2_nl0_ce1) = ir_60...
+[02:57:02.987] 
+Propagating profile data for (nut_cp_1_nl0_ce0) UnionOperator (account_me_2_nl0_ce0..expansion_cp_2_nl0_ce0..mixed_me_2_nl0_ce1) = ir_84...
+[02:57:02.987] 
+Propagating profile data for (division_dl_2_nl0_ce0) UnionOperator (account_me_2_nl0_ce0..expansion_cp_2_nl0_ce0..mixed_me_2_nl0_ce1) = ir_74...
+[02:57:02.988] 
+Propagating profile data for (past_dl_1_nl0_ce0) UnionOperator (compare_me_1_nl0_ce0..great_me_1_nl0_ce1..nut_cp_1_nl0_ce0) = ir_58...
+[02:57:02.988] 
+Propagating profile data for (past_dl_1_nl0_ce0) UnionOperator (account_me_2_nl0_ce0..mixed_me_2_nl0_ce1..nut_cp_1_nl0_ce0) = ir_66...
+[02:57:02.989] 
+Propagating profile data for (division_dl_2_nl0_ce0) UnionOperator (compare_me_1_nl0_ce0..great_me_1_nl0_ce1..nut_cp_1_nl0_ce0) = ir_72...
+[02:57:02.990] 
+Propagating profile data for (past_dl_1_nl0_ce0) UnionOperator (account_me_2_nl0_ce0..division_dl_2_nl0_ce0..mixed_me_2_nl0_ce1) = ir_68...
+[02:57:02.990] 
+Propagating profile data for (nut_cp_1_nl0_ce0) UnionOperator (compare_me_1_nl0_ce0..expansion_cp_2_nl0_ce0..great_me_1_nl0_ce1) = ir_86...
+[02:57:02.992] 
+Propagating profile data for (division_dl_2_nl0_ce0) UnionOperator (account_me_2_nl0_ce0..mixed_me_2_nl0_ce1..nut_cp_1_nl0_ce0) = ir_80...
+[02:57:02.992] 
+Propagating profile data for (past_dl_1_nl0_ce0) UnionOperator (compare_me_1_nl0_ce0..expansion_cp_2_nl0_ce0..great_me_1_nl0_ce1) = ir_62...
+[02:57:03.011] 
+Propagating profile data for (attention_adl_1_nl0_ce0..brain_ad_2_nl0_ce0) UnionOperator (different_ad_1_nl0_ce0..use_adl_2_nl0_ce0) = ir_106...
+[02:57:03.011] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_38.A_98], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_106.A_434], isPrimaryKey=false]
+[02:57:03.011] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_38.A_98], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_106.A_434], isPrimaryKey=false]
+[02:57:03.011] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_34.A_84], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_106.A_438], isPrimaryKey=false]
+[02:57:03.011] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_34.A_84], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_106.A_438], isPrimaryKey=false]
+[02:57:03.056] 
+Propagating profile data for (past_dl_1_nl0_ce0) UnionOperator (account_me_2_nl0_ce0..expansion_cp_2_nl0_ce0..mixed_me_2_nl0_ce1..nut_cp_1_nl0_ce0) = ir_126...
+[02:57:03.056] 
+Propagating profile data for (past_dl_1_nl0_ce0) UnionOperator (compare_me_1_nl0_ce0..expansion_cp_2_nl0_ce0..great_me_1_nl0_ce1..nut_cp_1_nl0_ce0) = ir_132...
+[02:57:03.057] 
+Propagating profile data for (past_dl_1_nl0_ce0) UnionOperator (compare_me_1_nl0_ce0..division_dl_2_nl0_ce0..great_me_1_nl0_ce1..nut_cp_1_nl0_ce0) = ir_130...
+[02:57:03.058] 
+Propagating profile data for (past_dl_1_nl0_ce0) UnionOperator (account_me_2_nl0_ce0..division_dl_2_nl0_ce0..mixed_me_2_nl0_ce1..nut_cp_1_nl0_ce0) = ir_134...
+[02:57:03.058] 
+Propagating profile data for (past_dl_1_nl0_ce0) UnionOperator (account_me_2_nl0_ce0..division_dl_2_nl0_ce0..expansion_cp_2_nl0_ce0..mixed_me_2_nl0_ce1) = ir_128...
+[02:57:03.059] 
+Propagating profile data for (past_dl_1_nl0_ce0) UnionOperator (compare_me_1_nl0_ce0..division_dl_2_nl0_ce0..expansion_cp_2_nl0_ce0..great_me_1_nl0_ce1) = ir_124...
+[02:57:03.059] 
+Propagating profile data for (division_dl_2_nl0_ce0) UnionOperator (compare_me_1_nl0_ce0..expansion_cp_2_nl0_ce0..great_me_1_nl0_ce1..nut_cp_1_nl0_ce0) = ir_144...
+[02:57:03.059] 
+Propagating profile data for (division_dl_2_nl0_ce0) UnionOperator (account_me_2_nl0_ce0..expansion_cp_2_nl0_ce0..mixed_me_2_nl0_ce1..nut_cp_1_nl0_ce0) = ir_138...
+[02:57:03.095] 
+Propagating profile data for (account_me_2_nl0_ce0..mixed_me_2_nl0_ce1) UnionOperator (compare_me_1_nl0_ce0..expansion_cp_2_nl0_ce0..great_me_1_nl0_ce1) = ir_184...
+[02:57:03.096] 
+Propagating profile data for (account_me_2_nl0_ce0..mixed_me_2_nl0_ce1) UnionOperator (compare_me_1_nl0_ce0..great_me_1_nl0_ce1..nut_cp_1_nl0_ce0) = ir_182...
+[02:57:03.096] 
+Propagating profile data for (account_me_2_nl0_ce0..mixed_me_2_nl0_ce1) UnionOperator (compare_me_1_nl0_ce0..great_me_1_nl0_ce1..past_dl_1_nl0_ce0) = ir_180...
+[02:57:03.097] 
+Propagating profile data for (account_me_2_nl0_ce0..mixed_me_2_nl0_ce1) UnionOperator (compare_me_1_nl0_ce0..division_dl_2_nl0_ce0..great_me_1_nl0_ce1) = ir_186...
+[02:57:03.138] 
+Propagating profile data for (past_dl_1_nl0_ce0) UnionOperator (account_me_2_nl0_ce0..division_dl_2_nl0_ce0..expansion_cp_2_nl0_ce0..mixed_me_2_nl0_ce1..nut_cp_1_nl0_ce0) = ir_212...
+[02:57:03.138] 
+Propagating profile data for (past_dl_1_nl0_ce0) UnionOperator (account_me_2_nl0_ce0..compare_me_1_nl0_ce0..division_dl_2_nl0_ce0..great_me_1_nl0_ce1..mixed_me_2_nl0_ce1) = ir_208...
+[02:57:03.138] 
+Propagating profile data for (past_dl_1_nl0_ce0) UnionOperator (account_me_2_nl0_ce0..compare_me_1_nl0_ce0..expansion_cp_2_nl0_ce0..great_me_1_nl0_ce1..mixed_me_2_nl0_ce1) = ir_204...
+[02:57:03.139] 
+Propagating profile data for (nut_cp_1_nl0_ce0) UnionOperator (account_me_2_nl0_ce0..compare_me_1_nl0_ce0..expansion_cp_2_nl0_ce0..great_me_1_nl0_ce1..mixed_me_2_nl0_ce1) = ir_224...
+[02:57:03.139] 
+Propagating profile data for (past_dl_1_nl0_ce0) UnionOperator (account_me_2_nl0_ce0..compare_me_1_nl0_ce0..great_me_1_nl0_ce1..mixed_me_2_nl0_ce1..nut_cp_1_nl0_ce0) = ir_206...
+[02:57:03.139] 
+Propagating profile data for (past_dl_1_nl0_ce0) UnionOperator (compare_me_1_nl0_ce0..division_dl_2_nl0_ce0..expansion_cp_2_nl0_ce0..great_me_1_nl0_ce1..nut_cp_1_nl0_ce0) = ir_210...
+[02:57:03.140] 
+Propagating profile data for (division_dl_2_nl0_ce0) UnionOperator (account_me_2_nl0_ce0..compare_me_1_nl0_ce0..expansion_cp_2_nl0_ce0..great_me_1_nl0_ce1..mixed_me_2_nl0_ce1) = ir_216...
+[02:57:03.140] 
+Propagating profile data for (division_dl_2_nl0_ce0) UnionOperator (account_me_2_nl0_ce0..compare_me_1_nl0_ce0..great_me_1_nl0_ce1..mixed_me_2_nl0_ce1..nut_cp_1_nl0_ce0) = ir_220...
+[02:57:03.250] 
+Propagating profile data for (past_dl_1_nl0_ce0) UnionOperator (account_me_2_nl0_ce0..compare_me_1_nl0_ce0..division_dl_2_nl0_ce0..expansion_cp_2_nl0_ce0..great_me_1_nl0_ce1..mixed_me_2_nl0_ce1) = ir_326...
+[02:57:03.251] 
+Propagating profile data for (past_dl_1_nl0_ce0) UnionOperator (account_me_2_nl0_ce0..compare_me_1_nl0_ce0..division_dl_2_nl0_ce0..great_me_1_nl0_ce1..mixed_me_2_nl0_ce1..nut_cp_1_nl0_ce0) = ir_328...
+[02:57:03.251] 
+Propagating profile data for (past_dl_1_nl0_ce0) UnionOperator (account_me_2_nl0_ce0..compare_me_1_nl0_ce0..expansion_cp_2_nl0_ce0..great_me_1_nl0_ce1..mixed_me_2_nl0_ce1..nut_cp_1_nl0_ce0) = ir_324...
+[02:57:03.251] 
+Propagating profile data for (division_dl_2_nl0_ce0) UnionOperator (account_me_2_nl0_ce0..compare_me_1_nl0_ce0..expansion_cp_2_nl0_ce0..great_me_1_nl0_ce1..mixed_me_2_nl0_ce1..nut_cp_1_nl0_ce0) = ir_332...
+[02:57:03.324] 
+Propagating profile data for (past_dl_1_nl0_ce0) UnionOperator (account_me_2_nl0_ce0..compare_me_1_nl0_ce0..division_dl_2_nl0_ce0..expansion_cp_2_nl0_ce0..great_me_1_nl0_ce1..mixed_me_2_nl0_ce1..nut_cp_1_nl0_ce0) = ir_416...
+[02:57:03.397] -- end of file --

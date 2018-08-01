@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mappingtask>
+  <config>
+    <rewriteSubsumptions>true</rewriteSubsumptions>
+    <rewriteCoverages>true</rewriteCoverages>
+    <rewriteSelfJoins>true</rewriteSelfJoins>
+    <rewriteEGDs>true</rewriteEGDs>
+    <sortStrategy>-1</sortStrategy>
+    <skolemTableStrategy>-1</skolemTableStrategy>
+    <useLocalSkolem>false</useLocalSkolem>
+  </config>
+  <source>
+    <type>relational</type>
+    <relational>
+      <driver>org.postgresql.Driver</driver>
+      <uri>jdbc:postgresql://localhost:5432/spicy_join5</uri>
+      <login>postgres</login>
+      <password>postgres</password>
+    </relational>
+    <inclusions />
+    <exclusions />
+    <duplications />
+    <functionalDependencies />
+    <selectionConditions />
+     <joinConditions>
+ <joinCondition>
+ <join>
+<from>spicy_join5.relation_6.relation_6Tuple.attribute_11</from>
+<to>spicy_join5.relation_7.relation_7Tuple.attribute_10</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_join5.relation_7.relation_7Tuple.attribute_12</from>
+<to>spicy_join5.relation_10.relation_10Tuple.attribute_13</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_join5.relation_10.relation_10Tuple.attribute_15</from>
+<to>spicy_join5.relation_9.relation_9Tuple.attribute_14</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_join5.relation_2.relation_2Tuple.attribute_7</from>
+<to>spicy_join5.relation_3.relation_3Tuple.attribute_6</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_join5.relation_3.relation_3Tuple.attribute_8</from>
+<to>spicy_join5.relation_6.relation_6Tuple.attribute_9</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ </joinConditions>
+
+  </source>
+  <target>
+    <type>relational</type>
+    <relational>
+      <driver>org.postgresql.Driver</driver>
+      <uri>jdbc:postgresql://localhost:5432/spicy_join5</uri>
+      <login>postgres</login>
+      <password>postgres</password>
+    </relational>
+    <inclusions />
+    <exclusions />
+    <duplications />
+    <functionalDependencies />
+    <selectionConditions />
+    <joinConditions />
+  </target>
+  <correspondences>
+   <correspondence>
+<source-paths>
+<source-path>spicy_join5.relation_10.relation_10Tuple.attribute_4</source-path>
+</source-paths>
+<target-path>spicy_join5.relation_0.relation_0Tuple.attribute_4</target-path>
+<transformation-function>spicy_join5.relation_10.relation_10Tuple.attribute_4</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_join5.relation_2.relation_2Tuple.attribute_0</source-path>
+</source-paths>
+<target-path>spicy_join5.relation_0.relation_0Tuple.attribute_0</target-path>
+<transformation-function>spicy_join5.relation_2.relation_2Tuple.attribute_0</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_join5.relation_3.relation_3Tuple.attribute_1</source-path>
+</source-paths>
+<target-path>spicy_join5.relation_0.relation_0Tuple.attribute_1</target-path>
+<transformation-function>spicy_join5.relation_3.relation_3Tuple.attribute_1</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_join5.relation_6.relation_6Tuple.attribute_2</source-path>
+</source-paths>
+<target-path>spicy_join5.relation_0.relation_0Tuple.attribute_2</target-path>
+<transformation-function>spicy_join5.relation_6.relation_6Tuple.attribute_2</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_join5.relation_7.relation_7Tuple.attribute_3</source-path>
+</source-paths>
+<target-path>spicy_join5.relation_0.relation_0Tuple.attribute_3</target-path>
+<transformation-function>spicy_join5.relation_7.relation_7Tuple.attribute_3</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_join5.relation_9.relation_9Tuple.attribute_5</source-path>
+</source-paths>
+<target-path>spicy_join5.relation_0.relation_0Tuple.attribute_5</target-path>
+<transformation-function>spicy_join5.relation_9.relation_9Tuple.attribute_5</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+  </correspondences>
+</mappingtask>
+

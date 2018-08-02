@@ -1,0 +1,1337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mappingtask>
+  <config>
+    <rewriteSubsumptions>true</rewriteSubsumptions>
+    <rewriteCoverages>true</rewriteCoverages>
+    <rewriteSelfJoins>true</rewriteSelfJoins>
+    <rewriteEGDs>true</rewriteEGDs>
+    <sortStrategy>-1</sortStrategy>
+    <skolemTableStrategy>-1</skolemTableStrategy>
+    <useLocalSkolem>false</useLocalSkolem>
+  </config>
+  <source>
+    <type>relational</type>
+    <relational>
+      <driver>org.postgresql.Driver</driver>
+      <uri>jdbc:postgresql://localhost:5432/spicy_10join_50union</uri>
+      <login>postgres</login>
+      <password>postgres</password>
+    </relational>
+    <inclusions />
+    <exclusions />
+    <duplications />
+    <functionalDependencies />
+    <selectionConditions />
+ 
+  <joinConditions>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_44.relation_44Tuple.attribute_99</from>
+<to>spicy_10join_50union.relation_42.relation_42Tuple.attribute_98</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_36.relation_36Tuple.attribute_91</from>
+<to>spicy_10join_50union.relation_34.relation_34Tuple.attribute_90</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_48.relation_48Tuple.attribute_102</from>
+<to>spicy_10join_50union.relation_47.relation_47Tuple.attribute_103</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_120.relation_120Tuple.attribute_151</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_130.relation_130Tuple.attribute_141</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_143.relation_143Tuple.attribute_197</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_145.relation_145Tuple.attribute_199</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_141.relation_141Tuple.attribute_195</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_105.relation_105Tuple.attribute_159</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_94.relation_94Tuple.attribute_125</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_144.relation_144Tuple.attribute_109</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_131.relation_131Tuple.attribute_185</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_133.relation_133Tuple.attribute_187</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_88.relation_88Tuple.attribute_129</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_100.relation_100Tuple.attribute_117</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_138.relation_138Tuple.attribute_167</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_140.relation_140Tuple.attribute_119</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_135.relation_135Tuple.attribute_189</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_137.relation_137Tuple.attribute_191</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_139.relation_139Tuple.attribute_193</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_146.relation_146Tuple.attribute_163</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_122.relation_122Tuple.attribute_149</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_132.relation_132Tuple.attribute_139</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_128.relation_128Tuple.attribute_143</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_124.relation_124Tuple.attribute_147</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_114.relation_114Tuple.attribute_157</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_116.relation_116Tuple.attribute_155</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_134.relation_134Tuple.attribute_137</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_126.relation_126Tuple.attribute_145</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_118.relation_118Tuple.attribute_153</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_123.relation_123Tuple.attribute_177</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_150.relation_150Tuple.attribute_161</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_121.relation_121Tuple.attribute_175</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_125.relation_125Tuple.attribute_179</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_151.relation_151Tuple.attribute_205</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_90.relation_90Tuple.attribute_127</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_86.relation_86Tuple.attribute_131</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_82.relation_82Tuple.attribute_135</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_84.relation_84Tuple.attribute_133</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_98.relation_98Tuple.attribute_123</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_129.relation_129Tuple.attribute_183</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_127.relation_127Tuple.attribute_181</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_92.relation_92Tuple.attribute_113</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_148.relation_148Tuple.attribute_107</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_96.relation_96Tuple.attribute_115</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_115.relation_115Tuple.attribute_169</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_136.relation_136Tuple.attribute_106</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_104.relation_104Tuple.attribute_111</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_147.relation_147Tuple.attribute_201</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_149.relation_149Tuple.attribute_203</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_102.relation_102Tuple.attribute_121</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_117.relation_117Tuple.attribute_171</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_142.relation_142Tuple.attribute_165</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_119.relation_119Tuple.attribute_173</from>
+<to>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>spicy_10join_50union.relation_51.relation_51Tuple.attribute_105</from>
+<to>spicy_10join_50union.relation_48.relation_48Tuple.attribute_104</to>
+</join> <foreignKey>true</foreignKey>
+ <mandatory>true</mandatory>
+</joinCondition>
+ </joinConditions>
+
+
+
+  </source>
+  <target>
+    <type>relational</type>
+    <relational>
+      <driver>org.postgresql.Driver</driver>
+      <uri>jdbc:postgresql://localhost:5432/spicy_10join_50union</uri>
+      <login>postgres</login>
+      <password>postgres</password>
+    </relational>
+    <inclusions />
+    <exclusions />
+    <duplications />
+    <functionalDependencies />
+    <selectionConditions />
+    <joinConditions />
+  </target>
+
+ <correspondences>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_100.relation_100Tuple.attribute_117</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_100.relation_100Tuple.attribute_117</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_100.relation_100Tuple.attribute_118</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_100.relation_100Tuple.attribute_118</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_102.relation_102Tuple.attribute_121</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_102.relation_102Tuple.attribute_121</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_102.relation_102Tuple.attribute_122</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_102.relation_102Tuple.attribute_122</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_104.relation_104Tuple.attribute_111</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_104.relation_104Tuple.attribute_111</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_104.relation_104Tuple.attribute_112</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_104.relation_104Tuple.attribute_112</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_105.relation_105Tuple.attribute_159</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_105.relation_105Tuple.attribute_159</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_105.relation_105Tuple.attribute_160</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_105.relation_105Tuple.attribute_160</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_114.relation_114Tuple.attribute_157</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_114.relation_114Tuple.attribute_157</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_114.relation_114Tuple.attribute_158</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_114.relation_114Tuple.attribute_158</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_115.relation_115Tuple.attribute_169</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_115.relation_115Tuple.attribute_169</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_115.relation_115Tuple.attribute_170</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_115.relation_115Tuple.attribute_170</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_116.relation_116Tuple.attribute_155</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_116.relation_116Tuple.attribute_155</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_116.relation_116Tuple.attribute_156</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_116.relation_116Tuple.attribute_156</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_117.relation_117Tuple.attribute_171</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_117.relation_117Tuple.attribute_171</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_117.relation_117Tuple.attribute_172</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_117.relation_117Tuple.attribute_172</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_118.relation_118Tuple.attribute_153</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_118.relation_118Tuple.attribute_153</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_118.relation_118Tuple.attribute_154</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_118.relation_118Tuple.attribute_154</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_119.relation_119Tuple.attribute_173</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_119.relation_119Tuple.attribute_173</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_119.relation_119Tuple.attribute_174</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_119.relation_119Tuple.attribute_174</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_120.relation_120Tuple.attribute_151</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_120.relation_120Tuple.attribute_151</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_120.relation_120Tuple.attribute_152</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_120.relation_120Tuple.attribute_152</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_121.relation_121Tuple.attribute_175</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_121.relation_121Tuple.attribute_175</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_121.relation_121Tuple.attribute_176</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_121.relation_121Tuple.attribute_176</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_122.relation_122Tuple.attribute_149</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_122.relation_122Tuple.attribute_149</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_122.relation_122Tuple.attribute_150</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_122.relation_122Tuple.attribute_150</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_123.relation_123Tuple.attribute_177</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_123.relation_123Tuple.attribute_177</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_123.relation_123Tuple.attribute_178</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_123.relation_123Tuple.attribute_178</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_124.relation_124Tuple.attribute_147</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_124.relation_124Tuple.attribute_147</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_124.relation_124Tuple.attribute_148</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_124.relation_124Tuple.attribute_148</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_125.relation_125Tuple.attribute_179</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_125.relation_125Tuple.attribute_179</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_125.relation_125Tuple.attribute_180</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_125.relation_125Tuple.attribute_180</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_126.relation_126Tuple.attribute_145</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_126.relation_126Tuple.attribute_145</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_126.relation_126Tuple.attribute_146</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_126.relation_126Tuple.attribute_146</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_127.relation_127Tuple.attribute_181</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_127.relation_127Tuple.attribute_181</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_127.relation_127Tuple.attribute_182</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_127.relation_127Tuple.attribute_182</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_128.relation_128Tuple.attribute_143</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_128.relation_128Tuple.attribute_143</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_128.relation_128Tuple.attribute_144</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_128.relation_128Tuple.attribute_144</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_129.relation_129Tuple.attribute_183</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_129.relation_129Tuple.attribute_183</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_129.relation_129Tuple.attribute_184</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_129.relation_129Tuple.attribute_184</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_130.relation_130Tuple.attribute_141</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_130.relation_130Tuple.attribute_141</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_130.relation_130Tuple.attribute_142</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_130.relation_130Tuple.attribute_142</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_131.relation_131Tuple.attribute_185</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_131.relation_131Tuple.attribute_185</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_131.relation_131Tuple.attribute_186</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_131.relation_131Tuple.attribute_186</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_132.relation_132Tuple.attribute_139</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_132.relation_132Tuple.attribute_139</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_132.relation_132Tuple.attribute_140</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_132.relation_132Tuple.attribute_140</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_133.relation_133Tuple.attribute_187</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_133.relation_133Tuple.attribute_187</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_133.relation_133Tuple.attribute_188</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_133.relation_133Tuple.attribute_188</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_134.relation_134Tuple.attribute_137</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_134.relation_134Tuple.attribute_137</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_134.relation_134Tuple.attribute_138</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_134.relation_134Tuple.attribute_138</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_135.relation_135Tuple.attribute_189</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_135.relation_135Tuple.attribute_189</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_135.relation_135Tuple.attribute_190</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_135.relation_135Tuple.attribute_190</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_136.relation_136Tuple.attribute_106</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_136.relation_136Tuple.attribute_106</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_136.relation_136Tuple.attribute_87</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_136.relation_136Tuple.attribute_87</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_137.relation_137Tuple.attribute_191</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_137.relation_137Tuple.attribute_191</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_137.relation_137Tuple.attribute_192</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_137.relation_137Tuple.attribute_192</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_138.relation_138Tuple.attribute_167</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_138.relation_138Tuple.attribute_167</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_138.relation_138Tuple.attribute_168</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_138.relation_138Tuple.attribute_168</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_139.relation_139Tuple.attribute_193</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_139.relation_139Tuple.attribute_193</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_139.relation_139Tuple.attribute_194</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_139.relation_139Tuple.attribute_194</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_140.relation_140Tuple.attribute_119</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_140.relation_140Tuple.attribute_119</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_140.relation_140Tuple.attribute_120</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_140.relation_140Tuple.attribute_120</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_141.relation_141Tuple.attribute_195</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_141.relation_141Tuple.attribute_195</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_141.relation_141Tuple.attribute_196</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_141.relation_141Tuple.attribute_196</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_142.relation_142Tuple.attribute_165</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_142.relation_142Tuple.attribute_165</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_142.relation_142Tuple.attribute_166</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_142.relation_142Tuple.attribute_166</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_143.relation_143Tuple.attribute_197</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_143.relation_143Tuple.attribute_197</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_143.relation_143Tuple.attribute_198</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_143.relation_143Tuple.attribute_198</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_144.relation_144Tuple.attribute_109</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_144.relation_144Tuple.attribute_109</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_144.relation_144Tuple.attribute_110</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_144.relation_144Tuple.attribute_110</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_145.relation_145Tuple.attribute_199</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_145.relation_145Tuple.attribute_199</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_145.relation_145Tuple.attribute_200</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_145.relation_145Tuple.attribute_200</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_146.relation_146Tuple.attribute_163</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_146.relation_146Tuple.attribute_163</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_146.relation_146Tuple.attribute_164</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_146.relation_146Tuple.attribute_164</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_147.relation_147Tuple.attribute_201</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_147.relation_147Tuple.attribute_201</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_147.relation_147Tuple.attribute_202</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_147.relation_147Tuple.attribute_202</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_148.relation_148Tuple.attribute_107</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_148.relation_148Tuple.attribute_107</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_148.relation_148Tuple.attribute_108</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_148.relation_148Tuple.attribute_108</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_149.relation_149Tuple.attribute_203</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_149.relation_149Tuple.attribute_203</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_149.relation_149Tuple.attribute_204</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_149.relation_149Tuple.attribute_204</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_150.relation_150Tuple.attribute_161</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_150.relation_150Tuple.attribute_161</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_150.relation_150Tuple.attribute_162</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_150.relation_150Tuple.attribute_162</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_151.relation_151Tuple.attribute_205</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_151.relation_151Tuple.attribute_205</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_151.relation_151Tuple.attribute_206</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_151.relation_151Tuple.attribute_206</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_32.relation_32Tuple.attribute_78</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_78</target-path>
+<transformation-function>spicy_10join_50union.relation_32.relation_32Tuple.attribute_78</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_34.relation_34Tuple.attribute_79</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_79</target-path>
+<transformation-function>spicy_10join_50union.relation_34.relation_34Tuple.attribute_79</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_36.relation_36Tuple.attribute_80</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_80</target-path>
+<transformation-function>spicy_10join_50union.relation_36.relation_36Tuple.attribute_80</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_39.relation_39Tuple.attribute_81</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_81</target-path>
+<transformation-function>spicy_10join_50union.relation_39.relation_39Tuple.attribute_81</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_40.relation_40Tuple.attribute_82</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_82</target-path>
+<transformation-function>spicy_10join_50union.relation_40.relation_40Tuple.attribute_82</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_42.relation_42Tuple.attribute_83</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_83</target-path>
+<transformation-function>spicy_10join_50union.relation_42.relation_42Tuple.attribute_83</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_44.relation_44Tuple.attribute_84</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_84</target-path>
+<transformation-function>spicy_10join_50union.relation_44.relation_44Tuple.attribute_84</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_47.relation_47Tuple.attribute_85</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_85</target-path>
+<transformation-function>spicy_10join_50union.relation_47.relation_47Tuple.attribute_85</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_48.relation_48Tuple.attribute_86</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_86</target-path>
+<transformation-function>spicy_10join_50union.relation_48.relation_48Tuple.attribute_86</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+
+<!-- <correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_51.relation_51Tuple.attribute_77</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence> -->
+
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_82.relation_82Tuple.attribute_135</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_82.relation_82Tuple.attribute_135</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_82.relation_82Tuple.attribute_136</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_82.relation_82Tuple.attribute_136</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_84.relation_84Tuple.attribute_133</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_84.relation_84Tuple.attribute_133</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_84.relation_84Tuple.attribute_134</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_84.relation_84Tuple.attribute_134</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_86.relation_86Tuple.attribute_131</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_86.relation_86Tuple.attribute_131</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_86.relation_86Tuple.attribute_132</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_86.relation_86Tuple.attribute_132</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_88.relation_88Tuple.attribute_129</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_88.relation_88Tuple.attribute_129</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_88.relation_88Tuple.attribute_130</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_88.relation_88Tuple.attribute_130</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_90.relation_90Tuple.attribute_127</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_90.relation_90Tuple.attribute_127</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_90.relation_90Tuple.attribute_128</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_90.relation_90Tuple.attribute_128</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_92.relation_92Tuple.attribute_113</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_92.relation_92Tuple.attribute_113</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_92.relation_92Tuple.attribute_114</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_92.relation_92Tuple.attribute_114</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_94.relation_94Tuple.attribute_125</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_94.relation_94Tuple.attribute_125</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_94.relation_94Tuple.attribute_126</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_94.relation_94Tuple.attribute_126</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_96.relation_96Tuple.attribute_115</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_96.relation_96Tuple.attribute_115</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_96.relation_96Tuple.attribute_116</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_96.relation_96Tuple.attribute_116</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_98.relation_98Tuple.attribute_123</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_77</target-path>
+<transformation-function>spicy_10join_50union.relation_98.relation_98Tuple.attribute_123</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>spicy_10join_50union.relation_98.relation_98Tuple.attribute_124</source-path>
+</source-paths>
+<target-path>spicy_10join_50union.relation_31.relation_31Tuple.attribute_87</target-path>
+<transformation-function>spicy_10join_50union.relation_98.relation_98Tuple.attribute_124</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+</correspondences>
+
+
+ 
+</mappingtask>
+

@@ -61,7 +61,7 @@
     <type>relational</type>
     <relational>
       <driver>org.postgresql.Driver</driver>
-      <uri>jdbc:postgresql://localhost:5432/calderdale_target_spicy</uri>
+      <uri>jdbc:postgresql://localhost:5432/calderdale</uri>
       <login>lara</login>
       <password>postgres</password>
     </relational>
@@ -77,7 +77,7 @@
       <source-paths>
         <source-path>calderdale.all_schools.all_schoolsTuple.dfe_code</source-path>
       </source-paths>
-      <target-path>calderdale_target_spicy.target.targetTuple.dfe</target-path>
+      <target-path>calderdale.target.targetTuple.dfe</target-path>
       <transformation-function>calderdale.all_schools.all_schoolsTuple.dfe_code</transformation-function>
       <confidence>1.0</confidence>
     </correspondence>
@@ -85,7 +85,7 @@
       <source-paths>
         <source-path>calderdale.all_schools.all_schoolsTuple.school_name</source-path>
       </source-paths>
-      <target-path>calderdale_target_spicy.target.targetTuple.school_name</target-path>
+      <target-path>calderdale.target.targetTuple.school_name</target-path>
       <transformation-function>calderdale.all_schools.all_schoolsTuple.school_name</transformation-function>
       <confidence>1.0</confidence>
     </correspondence>
@@ -93,7 +93,7 @@
       <source-paths>
         <source-path>calderdale.bikeability.bikeabilityTuple.no_of_bikeability_l1and2_courses_booked_in_2015_16</source-path>
       </source-paths>
-      <target-path>calderdale_target_spicy.target.targetTuple.number_bikeability_courses</target-path>
+      <target-path>calderdale.target.targetTuple.number_bikeability_courses</target-path>
       <transformation-function>calderdale.bikeability.bikeabilityTuple.no_of_bikeability_l1and2_courses_booked_in_2015_16</transformation-function>
       <confidence>1.0</confidence>
     </correspondence>
@@ -101,7 +101,7 @@
       <source-paths>
         <source-path>calderdale.bikeability.bikeabilityTuple.calderdale_primary_school_or_academy_name</source-path>
       </source-paths>
-      <target-path>calderdale_target_spicy.target.targetTuple.school_name</target-path>
+      <target-path>calderdale.target.targetTuple.school_name</target-path>
       <transformation-function>calderdale.bikeability.bikeabilityTuple.calderdale_primary_school_or_academy_name</transformation-function>
       <confidence>1.0</confidence>
     </correspondence>
@@ -109,7 +109,7 @@
       <source-paths>
         <source-path>calderdale.defibrillators.defibrillatorsTuple.premises</source-path>
       </source-paths>
-      <target-path>calderdale_target_spicy.target.targetTuple.school_name</target-path>
+      <target-path>calderdale.target.targetTuple.school_name</target-path>
       <transformation-function>calderdale.defibrillators.defibrillatorsTuple.premises</transformation-function>
       <confidence>1.0</confidence>
     </correspondence>
@@ -117,7 +117,7 @@
       <source-paths>
         <source-path>calderdale.defibrillators.defibrillatorsTuple.number_of_units</source-path>
       </source-paths>
-      <target-path>calderdale_target_spicy.target.targetTuple.defibrillators_number</target-path>
+      <target-path>calderdale.target.targetTuple.defibrillators_number</target-path>
       <transformation-function>calderdale.defibrillators.defibrillatorsTuple.number_of_units</transformation-function>
       <confidence>1.0</confidence>
     </correspondence>
@@ -125,7 +125,7 @@
       <source-paths>
         <source-path>calderdale.free_meals_schools.free_meals_schoolsTuple.pupils_eligible_for_free_school_meals</source-path>
       </source-paths>
-      <target-path>calderdale_target_spicy.target.targetTuple.pupils_fsm_eligible</target-path>
+      <target-path>calderdale.target.targetTuple.pupils_fsm_eligible</target-path>
       <transformation-function>calderdale.free_meals_schools.free_meals_schoolsTuple.pupils_eligible_for_free_school_meals</transformation-function>
       <confidence>1.0</confidence>
     </correspondence>
@@ -133,7 +133,7 @@
       <source-paths>
         <source-path>calderdale.free_meals_schools.free_meals_schoolsTuple.school_name</source-path>
       </source-paths>
-      <target-path>calderdale_target_spicy.target.targetTuple.school_name</target-path>
+      <target-path>calderdale.target.targetTuple.school_name</target-path>
       <transformation-function>calderdale.free_meals_schools.free_meals_schoolsTuple.school_name</transformation-function>
       <confidence>1.0</confidence>
     </correspondence>
@@ -141,7 +141,7 @@
       <source-paths>
         <source-path>calderdale.free_meals_schools.free_meals_schoolsTuple.dfe_number</source-path>
       </source-paths>
-      <target-path>calderdale_target_spicy.target.targetTuple.dfe</target-path>
+      <target-path>calderdale.target.targetTuple.dfe</target-path>
       <transformation-function>calderdale.free_meals_schools.free_meals_schoolsTuple.dfe_number</transformation-function>
       <confidence>1.0</confidence>
     </correspondence>
@@ -149,7 +149,7 @@
       <source-paths>
         <source-path>calderdale.eal_oct2017.eal_oct2017Tuple.number_of_pupils_with_english_as_an_additional_language</source-path>
       </source-paths>
-      <target-path>calderdale_target_spicy.target.targetTuple.number_pupils_english_second_lang</target-path>
+      <target-path>calderdale.target.targetTuple.number_pupils_english_second_lang</target-path>
       <transformation-function>calderdale.eal_oct2017.eal_oct2017Tuple.number_of_pupils_with_english_as_an_additional_language</transformation-function>
       <confidence>1.0</confidence>
     </correspondence>
@@ -157,7 +157,7 @@
       <source-paths>
         <source-path>calderdale.all_schools.all_schoolsTuple.headteacher</source-path>
       </source-paths>
-      <target-path>calderdale_target_spicy.target.targetTuple.executive_headteacher</target-path>
+      <target-path>calderdale.target.targetTuple.executive_headteacher</target-path>
       <transformation-function>calderdale.all_schools.all_schoolsTuple.headteacher</transformation-function>
       <confidence>1.0</confidence>
     </correspondence>
@@ -165,7 +165,7 @@
       <source-paths>
         <source-path>calderdale.road_safety_training.road_safety_trainingTuple.school</source-path>
       </source-paths>
-      <target-path>calderdale_target_spicy.target.targetTuple.school_name</target-path>
+      <target-path>calderdale.target.targetTuple.school_name</target-path>
       <transformation-function>calderdale.road_safety_training.road_safety_trainingTuple.school</transformation-function>
       <confidence>1.0</confidence>
     </correspondence>
@@ -173,7 +173,7 @@
       <source-paths>
         <source-path>calderdale.road_safety_training.road_safety_trainingTuple.type</source-path>
       </source-paths>
-      <target-path>calderdale_target_spicy.target.targetTuple.school_type</target-path>
+      <target-path>calderdale.target.targetTuple.school_type</target-path>
       <transformation-function>calderdale.road_safety_training.road_safety_trainingTuple.type</transformation-function>
       <confidence>1.0</confidence>
     </correspondence>
@@ -181,7 +181,7 @@
       <source-paths>
         <source-path>calderdale.eal_may16.eal_may16Tuple.dfe_no</source-path>
       </source-paths>
-      <target-path>calderdale_target_spicy.target.targetTuple.dfe</target-path>
+      <target-path>calderdale.target.targetTuple.dfe</target-path>
       <transformation-function>calderdale.eal_may16.eal_may16Tuple.dfe_no</transformation-function>
       <confidence>1.0</confidence>
     </correspondence>
@@ -189,7 +189,7 @@
       <source-paths>
         <source-path>calderdale.eal_may16.eal_may16Tuple.school</source-path>
       </source-paths>
-      <target-path>calderdale_target_spicy.target.targetTuple.school_name</target-path>
+      <target-path>calderdale.target.targetTuple.school_name</target-path>
       <transformation-function>calderdale.eal_may16.eal_may16Tuple.school</transformation-function>
       <confidence>1.0</confidence>
     </correspondence>
@@ -197,7 +197,7 @@
       <source-paths>
         <source-path>calderdale.eal_may16.eal_may16Tuple.no_with_english_as_an_additional_language</source-path>
       </source-paths>
-      <target-path>calderdale_target_spicy.target.targetTuple.number_pupils_english_second_lang</target-path>
+      <target-path>calderdale.target.targetTuple.number_pupils_english_second_lang</target-path>
       <transformation-function>calderdale.eal_may16.eal_may16Tuple.no_with_english_as_an_additional_language</transformation-function>
       <confidence>1.0</confidence>
     </correspondence>
@@ -205,7 +205,7 @@
       <source-paths>
         <source-path>calderdale.eal_may2017.eal_may2017Tuple.no_with_eal</source-path>
       </source-paths>
-      <target-path>calderdale_target_spicy.target.targetTuple.number_pupils_english_second_lang</target-path>
+      <target-path>calderdale.target.targetTuple.number_pupils_english_second_lang</target-path>
       <transformation-function>calderdale.eal_may2017.eal_may2017Tuple.no_with_eal</transformation-function>
       <confidence>1.0</confidence>
     </correspondence>
@@ -213,7 +213,7 @@
       <source-paths>
         <source-path>calderdale.eal_oct15.eal_oct15Tuple.dfe_no</source-path>
       </source-paths>
-      <target-path>calderdale_target_spicy.target.targetTuple.dfe</target-path>
+      <target-path>calderdale.target.targetTuple.dfe</target-path>
       <transformation-function>calderdale.eal_oct15.eal_oct15Tuple.dfe_no</transformation-function>
       <confidence>1.0</confidence>
     </correspondence>
@@ -221,7 +221,7 @@
       <source-paths>
         <source-path>calderdale.eal_oct15.eal_oct15Tuple.school</source-path>
       </source-paths>
-      <target-path>calderdale_target_spicy.target.targetTuple.school_name</target-path>
+      <target-path>calderdale.target.targetTuple.school_name</target-path>
       <transformation-function>calderdale.eal_oct15.eal_oct15Tuple.school</transformation-function>
       <confidence>1.0</confidence>
     </correspondence>
@@ -229,7 +229,7 @@
       <source-paths>
         <source-path>calderdale.eal_oct15.eal_oct15Tuple.no_of_pupils_with_eal</source-path>
       </source-paths>
-      <target-path>calderdale_target_spicy.target.targetTuple.number_pupils_english_second_lang</target-path>
+      <target-path>calderdale.target.targetTuple.number_pupils_english_second_lang</target-path>
       <transformation-function>calderdale.eal_oct15.eal_oct15Tuple.no_of_pupils_with_eal</transformation-function>
       <confidence>1.0</confidence>
     </correspondence>
@@ -237,7 +237,7 @@
       <source-paths>
         <source-path>calderdale.eal_oct2016.eal_oct2016Tuple.dfe_no</source-path>
       </source-paths>
-      <target-path>calderdale_target_spicy.target.targetTuple.dfe</target-path>
+      <target-path>calderdale.target.targetTuple.dfe</target-path>
       <transformation-function>calderdale.eal_oct2016.eal_oct2016Tuple.dfe_no</transformation-function>
       <confidence>1.0</confidence>
     </correspondence>
@@ -245,7 +245,7 @@
       <source-paths>
         <source-path>calderdale.eal_oct2016.eal_oct2016Tuple.school</source-path>
       </source-paths>
-      <target-path>calderdale_target_spicy.target.targetTuple.school_name</target-path>
+      <target-path>calderdale.target.targetTuple.school_name</target-path>
       <transformation-function>calderdale.eal_oct2016.eal_oct2016Tuple.school</transformation-function>
       <confidence>1.0</confidence>
     </correspondence>
@@ -253,7 +253,7 @@
       <source-paths>
         <source-path>calderdale.eal_oct2016.eal_oct2016Tuple.no_of_pupils_with_eal</source-path>
       </source-paths>
-      <target-path>calderdale_target_spicy.target.targetTuple.number_pupils_english_second_lang</target-path>
+      <target-path>calderdale.target.targetTuple.number_pupils_english_second_lang</target-path>
       <transformation-function>calderdale.eal_oct2016.eal_oct2016Tuple.no_of_pupils_with_eal</transformation-function>
       <confidence>1.0</confidence>
     </correspondence>
@@ -261,7 +261,7 @@
       <source-paths>
         <source-path>calderdale.eal_jan16.eal_jan16Tuple.dfe_no</source-path>
       </source-paths>
-      <target-path>calderdale_target_spicy.target.targetTuple.dfe</target-path>
+      <target-path>calderdale.target.targetTuple.dfe</target-path>
       <transformation-function>calderdale.eal_jan16.eal_jan16Tuple.dfe_no</transformation-function>
       <confidence>1.0</confidence>
     </correspondence>
@@ -269,7 +269,7 @@
       <source-paths>
         <source-path>calderdale.eal_jan16.eal_jan16Tuple.school</source-path>
       </source-paths>
-      <target-path>calderdale_target_spicy.target.targetTuple.school_name</target-path>
+      <target-path>calderdale.target.targetTuple.school_name</target-path>
       <transformation-function>calderdale.eal_jan16.eal_jan16Tuple.school</transformation-function>
       <confidence>1.0</confidence>
     </correspondence>
@@ -277,7 +277,7 @@
       <source-paths>
         <source-path>calderdale.eal_jan16.eal_jan16Tuple.no_with_english_as_an_additional_language</source-path>
       </source-paths>
-      <target-path>calderdale_target_spicy.target.targetTuple.number_pupils_english_second_lang</target-path>
+      <target-path>calderdale.target.targetTuple.number_pupils_english_second_lang</target-path>
       <transformation-function>calderdale.eal_jan16.eal_jan16Tuple.no_with_english_as_an_additional_language</transformation-function>
       <confidence>1.0</confidence>
     </correspondence>

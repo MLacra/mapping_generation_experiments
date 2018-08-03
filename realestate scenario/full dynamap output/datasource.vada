@@ -1,2 +1,0 @@
-datasource(public,localhost:5432/extended_realestate,JDBC_POSTGRES,null).
-datasource(target,localhost:5432/extended_realestate,JDBC_POSTGRES,null).

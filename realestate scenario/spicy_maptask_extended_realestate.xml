@@ -13,7 +13,7 @@
     <type>relational</type>
     <relational>
       <driver>org.postgresql.Driver</driver>
-      <uri>jdbc:postgresql://localhost:5432/deprivation</uri>
+      <uri>jdbc:postgresql://localhost:5432/extended_realestate</uri>
       <login>lara</login>
       <password>postgres</password>
     </relational>

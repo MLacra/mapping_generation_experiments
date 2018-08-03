@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile-data>
+	<keyCandidates>
+		<attribute schema = "public" relation = "relation_3" name = "attribute_26"/>
+		<attribute schema = "public" relation = "relation_6" name = "attribute_29"/>
+		<attribute schema = "public" relation = "relation_8" name = "attribute_30"/>
+		<attribute schema = "public" relation = "relation_9" name = "attribute_32"/>
+		<attribute schema = "public" relation = "relation_12" name = "attribute_35"/>
+		<attribute schema = "public" relation = "relation_14" name = "attribute_36"/>
+		<attribute schema = "public" relation = "relation_16" name = "attribute_38"/>
+		<attribute schema = "public" relation = "relation_18" name = "attribute_40"/>
+		<attribute schema = "public" relation = "relation_20" name = "attribute_42"/>
+		<attribute schema = "public" relation = "relation_22" name = "attribute_44"/>
+		<attribute schema = "public" relation = "relation_23" name = "attribute_46"/>
+		<attribute schema = "public" relation = "relation_26" name = "attribute_12"/>
+		<attribute schema = "public" relation = "relation_26" name = "attribute_49"/>
+		<attribute schema = "public" relation = "relation_28" name = "attribute_50"/>
+		<attribute schema = "public" relation = "relation_30" name = "attribute_52"/>
+		<attribute schema = "public" relation = "relation_32" name = "attribute_54"/>
+		<attribute schema = "public" relation = "relation_33" name = "attribute_56"/>
+		<attribute schema = "public" relation = "relation_36" name = "attribute_59"/>
+		<attribute schema = "public" relation = "relation_37" name = "attribute_60"/>
+		<attribute schema = "public" relation = "relation_40" name = "attribute_63"/>
+		<attribute schema = "public" relation = "relation_42" name = "attribute_64"/>
+		<attribute schema = "public" relation = "relation_43" name = "attribute_66"/>
+		<attribute schema = "public" relation = "relation_46" name = "attribute_69"/>
+		<attribute schema = "public" relation = "relation_48" name = "attribute_70"/>
+		<attribute schema = "public" relation = "relation_50" name = "attribute_72"/>
+		<attribute schema = "public" relation = "relation_49" name = "attribute_74"/>
+	</keyCandidates>
+	<inclusion-dependencies>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_18" name = "attribute_40"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_16" name = "attribute_41"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_22" name = "attribute_44"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_20" name = "attribute_45"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_23" name = "attribute_48"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_26" name = "attribute_49"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_37" name = "attribute_62"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_40" name = "attribute_63"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_43" name = "attribute_66"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_42" name = "attribute_67"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "76">
+				<attribute schema = "public" relation = "relation_3" name = "attribute_26"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_2" name = "attribute_27"/>
+			</includes>
+			<coefficient value = "0.9342105263157895"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_18" name = "attribute_43"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_20" name = "attribute_42"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_22" name = "attribute_47"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_23" name = "attribute_46"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_36" name = "attribute_61"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_37" name = "attribute_60"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_40" name = "attribute_65"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_42" name = "attribute_64"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_46" name = "attribute_69"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_43" name = "attribute_68"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_28" name = "attribute_50"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_26" name = "attribute_51"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_32" name = "attribute_54"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_30" name = "attribute_55"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_33" name = "attribute_58"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_36" name = "attribute_59"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_50" name = "attribute_72"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_48" name = "attribute_73"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_9" name = "attribute_32"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_8" name = "attribute_33"/>
+			</includes>
+			<coefficient value = "0.9797979797979798"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_14" name = "attribute_36"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_12" name = "attribute_37"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "90">
+				<attribute schema = "public" relation = "relation_6" name = "attribute_31"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_8" name = "attribute_30"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_12" name = "attribute_35"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_9" name = "attribute_34"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_14" name = "attribute_39"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_16" name = "attribute_38"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_28" name = "attribute_53"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_30" name = "attribute_52"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_32" name = "attribute_57"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_33" name = "attribute_56"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_46" name = "attribute_71"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_48" name = "attribute_70"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_50" name = "attribute_75"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_49" name = "attribute_74"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_20" name = "attribute_42"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_18" name = "attribute_43"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_23" name = "attribute_46"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_22" name = "attribute_47"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_37" name = "attribute_60"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_36" name = "attribute_61"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_42" name = "attribute_64"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_40" name = "attribute_65"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_43" name = "attribute_68"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_46" name = "attribute_69"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "76">
+				<attribute schema = "public" relation = "relation_3" name = "attribute_28"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_6" name = "attribute_29"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "90">
+				<attribute schema = "public" relation = "relation_6" name = "attribute_29"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_3" name = "attribute_28"/>
+			</includes>
+			<coefficient value = "0.8444444444444444"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "71">
+				<attribute schema = "public" relation = "relation_2" name = "attribute_27"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_3" name = "attribute_26"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_16" name = "attribute_41"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_18" name = "attribute_40"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_20" name = "attribute_45"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_22" name = "attribute_44"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_26" name = "attribute_49"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_23" name = "attribute_48"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_40" name = "attribute_63"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_37" name = "attribute_62"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_42" name = "attribute_67"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_43" name = "attribute_66"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_30" name = "attribute_52"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_28" name = "attribute_53"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_33" name = "attribute_56"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_32" name = "attribute_57"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_48" name = "attribute_70"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_46" name = "attribute_71"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_49" name = "attribute_74"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_50" name = "attribute_75"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_9" name = "attribute_34"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_12" name = "attribute_35"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_16" name = "attribute_38"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_14" name = "attribute_39"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "97">
+				<attribute schema = "public" relation = "relation_8" name = "attribute_33"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_9" name = "attribute_32"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_12" name = "attribute_37"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_14" name = "attribute_36"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "97">
+				<attribute schema = "public" relation = "relation_8" name = "attribute_30"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_6" name = "attribute_31"/>
+			</includes>
+			<coefficient value = "0.9278350515463918"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_26" name = "attribute_51"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_28" name = "attribute_50"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_30" name = "attribute_55"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_32" name = "attribute_54"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_36" name = "attribute_59"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_33" name = "attribute_58"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_48" name = "attribute_73"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_50" name = "attribute_72"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+	</inclusion-dependencies></profile-data>

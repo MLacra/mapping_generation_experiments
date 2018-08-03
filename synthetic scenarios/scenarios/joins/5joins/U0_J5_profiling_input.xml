@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile-data>
+	<keyCandidates>
+		<attribute schema = "public" relation = "relation_3" name = "attribute_1"/>
+		<attribute schema = "public" relation = "relation_3" name = "attribute_6"/>
+		<attribute schema = "public" relation = "relation_6" name = "attribute_9"/>
+		<attribute schema = "public" relation = "relation_7" name = "attribute_10"/>
+		<attribute schema = "public" relation = "relation_10" name = "attribute_13"/>
+		<attribute schema = "public" relation = "relation_9" name = "attribute_14"/>
+	</keyCandidates>
+	<inclusion-dependencies>
+		<inclusion-dependency>
+			<is-included distinct_values = "79">
+				<attribute schema = "public" relation = "relation_2" name = "attribute_7"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_3" name = "attribute_6"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "87">
+				<attribute schema = "public" relation = "relation_6" name = "attribute_9"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_3" name = "attribute_8"/>
+			</includes>
+			<coefficient value = "0.9540229885057471"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "87">
+				<attribute schema = "public" relation = "relation_6" name = "attribute_11"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_7" name = "attribute_10"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "98">
+				<attribute schema = "public" relation = "relation_10" name = "attribute_13"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_7" name = "attribute_12"/>
+			</includes>
+			<coefficient value = "0.9795918367346939"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "98">
+				<attribute schema = "public" relation = "relation_10" name = "attribute_15"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_9" name = "attribute_14"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "83">
+				<attribute schema = "public" relation = "relation_3" name = "attribute_6"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_2" name = "attribute_7"/>
+			</includes>
+			<coefficient value = "0.9518072289156626"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "83">
+				<attribute schema = "public" relation = "relation_3" name = "attribute_8"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_6" name = "attribute_9"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "96">
+				<attribute schema = "public" relation = "relation_7" name = "attribute_12"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_10" name = "attribute_13"/>
+			</includes>
+			<coefficient value = "1.0"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "99">
+				<attribute schema = "public" relation = "relation_9" name = "attribute_14"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_10" name = "attribute_15"/>
+			</includes>
+			<coefficient value = "0.98989898989899"></coefficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "96">
+				<attribute schema = "public" relation = "relation_7" name = "attribute_10"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_6" name = "attribute_11"/>
+			</includes>
+			<coefficient value = "0.90625"></coefficient>
+		</inclusion-dependency>
+	</inclusion-dependencies></profile-data>

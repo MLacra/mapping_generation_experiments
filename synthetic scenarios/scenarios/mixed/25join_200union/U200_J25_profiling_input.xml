@@ -1,0 +1,4082 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile-data>
+	<keyCandidates>
+		<attribute schema = "public" relation = "relation_996" name = "attribute_7809"/>
+		<attribute schema = "public" relation = "relation_966" name = "attribute_7779"/>
+		<attribute schema = "public" relation = "relation_979" name = "attribute_7792"/>
+		<attribute schema = "public" relation = "relation_970" name = "attribute_7783"/>
+		<attribute schema = "public" relation = "relation_989" name = "attribute_7802"/>
+		<attribute schema = "public" relation = "relation_999" name = "attribute_7812"/>
+		<attribute schema = "public" relation = "relation_982" name = "attribute_7795"/>
+		<attribute schema = "public" relation = "relation_964" name = "attribute_7777"/>
+		<attribute schema = "public" relation = "relation_991" name = "attribute_7804"/>
+		<attribute schema = "public" relation = "relation_957" name = "attribute_7770"/>
+		<attribute schema = "public" relation = "relation_960" name = "attribute_7773"/>
+		<attribute schema = "public" relation = "relation_973" name = "attribute_7786"/>
+		<attribute schema = "public" relation = "relation_962" name = "attribute_7775"/>
+		<attribute schema = "public" relation = "relation_975" name = "attribute_7788"/>
+		<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+		<attribute schema = "public" relation = "relation_968" name = "attribute_7781"/>
+		<attribute schema = "public" relation = "relation_976" name = "attribute_7789"/>
+		<attribute schema = "public" relation = "relation_985" name = "attribute_7798"/>
+		<attribute schema = "public" relation = "relation_985" name = "attribute_7758"/>
+		<attribute schema = "public" relation = "relation_1001" name = "attribute_7814"/>
+		<attribute schema = "public" relation = "relation_995" name = "attribute_7808"/>
+		<attribute schema = "public" relation = "relation_993" name = "attribute_7806"/>
+		<attribute schema = "public" relation = "relation_1003" name = "attribute_7816"/>
+		<attribute schema = "public" relation = "relation_980" name = "attribute_7793"/>
+		<attribute schema = "public" relation = "relation_987" name = "attribute_7800"/>
+		<attribute schema = "public" relation = "relation_959" name = "attribute_7772"/>
+	</keyCandidates>
+	<inclusion-dependencies>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1284" name = "attribute_8046"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1330" name = "attribute_8000"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1360" name = "attribute_7890"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "2">
+				<attribute schema = "public" relation = "relation_1147" name = "attribute_7958"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1327" name = "attribute_8138"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1315" name = "attribute_8126"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1303" name = "attribute_8114"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1291" name = "attribute_8102"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1404" name = "attribute_7912"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1392" name = "attribute_7906"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1140" name = "attribute_7918"/>
+			</includes>
+			<coeficient value = "0.006472491909385114"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1321" name = "attribute_8132"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1367" name = "attribute_8178"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1188" name = "attribute_7826"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1312" name = "attribute_8018"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "283">
+				<attribute schema = "public" relation = "relation_957" name = "attribute_7770"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_959" name = "attribute_7769"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1380" name = "attribute_7900"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "2">
+				<attribute schema = "public" relation = "relation_1135" name = "attribute_7946"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1389" name = "attribute_8200"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1318" name = "attribute_8012"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1324" name = "attribute_8006"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1401" name = "attribute_8212"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1272" name = "attribute_8058"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "267">
+				<attribute schema = "public" relation = "relation_999" name = "attribute_7810"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_996" name = "attribute_7809"/>
+			</includes>
+			<coeficient value = "0.8164794007490637"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1230" name = "attribute_7838"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1355" name = "attribute_8166"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "371">
+				<attribute schema = "public" relation = "relation_1001" name = "attribute_7811"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_999" name = "attribute_7812"/>
+			</includes>
+			<coeficient value = "0.7196765498652291"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1317" name = "attribute_8128"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1309" name = "attribute_8120"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1308" name = "attribute_8022"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1388" name = "attribute_7904"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1305" name = "attribute_8116"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1293" name = "attribute_8104"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1198" name = "attribute_7934"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1262" name = "attribute_8068"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1210" name = "attribute_7928"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1142" name = "attribute_7916"/>
+			</includes>
+			<coeficient value = "0.006472491909385114"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1299" name = "attribute_8110"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1345" name = "attribute_8156"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "375">
+				<attribute schema = "public" relation = "relation_995" name = "attribute_7808"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_996" name = "attribute_7807"/>
+			</includes>
+			<coeficient value = "0.5813333333333334"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1322" name = "attribute_8008"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1340" name = "attribute_7880"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1296" name = "attribute_8034"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1386" name = "attribute_7968"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1403" name = "attribute_8214"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "2">
+				<attribute schema = "public" relation = "relation_1136" name = "attribute_7922"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1391" name = "attribute_8202"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1184" name = "attribute_7818"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1333" name = "attribute_8144"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1307" name = "attribute_8118"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1295" name = "attribute_8106"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1384" name = "attribute_7902"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1132" name = "attribute_7926"/>
+			</includes>
+			<coeficient value = "0.006472491909385114"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1286" name = "attribute_8044"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1364" name = "attribute_7892"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1144" name = "attribute_7914"/>
+			</includes>
+			<coeficient value = "0.006472491909385114"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1400" name = "attribute_7910"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "2">
+				<attribute schema = "public" relation = "relation_1145" name = "attribute_7956"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1190" name = "attribute_7938"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1200" name = "attribute_7817"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1196" name = "attribute_7828"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1365" name = "attribute_8176"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1405" name = "attribute_8216"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1319" name = "attribute_8130"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1274" name = "attribute_8056"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1393" name = "attribute_8204"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "2">
+				<attribute schema = "public" relation = "relation_1133" name = "attribute_7944"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1320" name = "attribute_8010"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1196" name = "attribute_7828"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1200" name = "attribute_7817"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1297" name = "attribute_8108"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1353" name = "attribute_8164"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1134" name = "attribute_7924"/>
+			</includes>
+			<coeficient value = "0.006472491909385114"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1404" name = "attribute_7912"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1250" name = "attribute_7870"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1137" name = "attribute_7948"/>
+			</includes>
+			<coeficient value = "0.006472491909385114"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1194" name = "attribute_7936"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1202" name = "attribute_7932"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1264" name = "attribute_8066"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1366" name = "attribute_7978"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1380" name = "attribute_7900"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1310" name = "attribute_8020"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1343" name = "attribute_8154"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "252">
+				<attribute schema = "public" relation = "relation_989" name = "attribute_7799"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_987" name = "attribute_7800"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "378">
+				<attribute schema = "public" relation = "relation_993" name = "attribute_7803"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_991" name = "attribute_7804"/>
+			</includes>
+			<coeficient value = "0.7380952380952381"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1395" name = "attribute_8206"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "218">
+				<attribute schema = "public" relation = "relation_996" name = "attribute_7809"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_999" name = "attribute_7810"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1188" name = "attribute_7826"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1230" name = "attribute_7838"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1344" name = "attribute_7882"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1267" name = "attribute_8078"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1390" name = "attribute_7966"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "2">
+				<attribute schema = "public" relation = "relation_1138" name = "attribute_7920"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1298" name = "attribute_8032"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1377" name = "attribute_8188"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1184" name = "attribute_7818"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1331" name = "attribute_8142"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1135" name = "attribute_7946"/>
+			</includes>
+			<coeficient value = "0.006472491909385114"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1198" name = "attribute_7934"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1147" name = "attribute_7958"/>
+			</includes>
+			<coeficient value = "0.006472491909385114"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1326" name = "attribute_8004"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1368" name = "attribute_7894"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1136" name = "attribute_7922"/>
+			</includes>
+			<coeficient value = "0.006472491909385114"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "2">
+				<attribute schema = "public" relation = "relation_1143" name = "attribute_7954"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1400" name = "attribute_7910"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1269" name = "attribute_8080"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1325" name = "attribute_8136"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1397" name = "attribute_8208"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1212" name = "attribute_7848"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1180" name = "attribute_7824"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1236" name = "attribute_7860"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1234" name = "attribute_7836"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1182" name = "attribute_7942"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1346" name = "attribute_7988"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1314" name = "attribute_8016"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1279" name = "attribute_8090"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1281" name = "attribute_8092"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "351">
+				<attribute schema = "public" relation = "relation_976" name = "attribute_7789"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_979" name = "attribute_7790"/>
+			</includes>
+			<coeficient value = "0.6638176638176638"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1313" name = "attribute_8124"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1206" name = "attribute_7930"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1386" name = "attribute_7968"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1145" name = "attribute_7956"/>
+			</includes>
+			<coeficient value = "0.006472491909385114"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1252" name = "attribute_7872"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1138" name = "attribute_7920"/>
+			</includes>
+			<coeficient value = "0.006472491909385114"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1304" name = "attribute_8026"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1370" name = "attribute_7976"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1133" name = "attribute_7944"/>
+			</includes>
+			<coeficient value = "0.006472491909385114"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1202" name = "attribute_7932"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1401" name = "attribute_8212"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1303" name = "attribute_8114"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1379" name = "attribute_8190"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1214" name = "attribute_7846"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1232" name = "attribute_7858"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1348" name = "attribute_7884"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1192" name = "attribute_7822"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1238" name = "attribute_7834"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1292" name = "attribute_8038"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1394" name = "attribute_7964"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1281" name = "attribute_8092"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1269" name = "attribute_8080"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "233">
+				<attribute schema = "public" relation = "relation_979" name = "attribute_7792"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_980" name = "attribute_7791"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "328">
+				<attribute schema = "public" relation = "relation_968" name = "attribute_7780"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_966" name = "attribute_7779"/>
+			</includes>
+			<coeficient value = "0.7042682926829268"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1389" name = "attribute_8200"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "389">
+				<attribute schema = "public" relation = "relation_959" name = "attribute_7769"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_957" name = "attribute_7770"/>
+			</includes>
+			<coeficient value = "0.7275064267352185"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1337" name = "attribute_8148"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "286">
+				<attribute schema = "public" relation = "relation_960" name = "attribute_7771"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_959" name = "attribute_7772"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "2">
+				<attribute schema = "public" relation = "relation_1141" name = "attribute_7952"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1291" name = "attribute_8102"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1366" name = "attribute_7978"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1328" name = "attribute_8002"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1182" name = "attribute_7942"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1206" name = "attribute_7930"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1332" name = "attribute_7998"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1390" name = "attribute_7966"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1282" name = "attribute_8048"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1372" name = "attribute_7896"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1143" name = "attribute_7954"/>
+			</includes>
+			<coeficient value = "0.006472491909385114"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1379" name = "attribute_8190"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1216" name = "attribute_7850"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "238">
+				<attribute schema = "public" relation = "relation_970" name = "attribute_7782"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_968" name = "attribute_7781"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1323" name = "attribute_8134"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "238">
+				<attribute schema = "public" relation = "relation_970" name = "attribute_7783"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_973" name = "attribute_7784"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1186" name = "attribute_7940"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1316" name = "attribute_8014"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1248" name = "attribute_7868"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1218" name = "attribute_7844"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1240" name = "attribute_7862"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1228" name = "attribute_7856"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "384">
+				<attribute schema = "public" relation = "relation_987" name = "attribute_7800"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_989" name = "attribute_7799"/>
+			</includes>
+			<coeficient value = "0.65625"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1208" name = "attribute_7820"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1350" name = "attribute_7986"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1242" name = "attribute_7832"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1271" name = "attribute_8082"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1260" name = "attribute_8070"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "278">
+				<attribute schema = "public" relation = "relation_982" name = "attribute_7794"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_980" name = "attribute_7793"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1283" name = "attribute_8094"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1311" name = "attribute_8122"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1357" name = "attribute_8168"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1279" name = "attribute_8090"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "286">
+				<attribute schema = "public" relation = "relation_960" name = "attribute_7773"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_962" name = "attribute_7774"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "278">
+				<attribute schema = "public" relation = "relation_982" name = "attribute_7795"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_985" name = "attribute_7796"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1374" name = "attribute_7974"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1186" name = "attribute_7940"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1306" name = "attribute_8024"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1394" name = "attribute_7964"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1141" name = "attribute_7952"/>
+			</includes>
+			<coeficient value = "0.006472491909385114"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1254" name = "attribute_7874"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1346" name = "attribute_7988"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1370" name = "attribute_7976"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1381" name = "attribute_8192"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1369" name = "attribute_8180"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1399" name = "attribute_8210"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1301" name = "attribute_8112"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1347" name = "attribute_8158"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1398" name = "attribute_7962"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1204" name = "attribute_7830"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1294" name = "attribute_8036"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1246" name = "attribute_7866"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1258" name = "attribute_7878"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1352" name = "attribute_7886"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1222" name = "attribute_7842"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1224" name = "attribute_7854"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1270" name = "attribute_8060"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1226" name = "attribute_7840"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "296">
+				<attribute schema = "public" relation = "relation_962" name = "attribute_7774"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_960" name = "attribute_7773"/>
+			</includes>
+			<coeficient value = "0.9662162162162162"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1285" name = "attribute_8096"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1273" name = "attribute_8084"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1261" name = "attribute_8072"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1335" name = "attribute_8146"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "384">
+				<attribute schema = "public" relation = "relation_987" name = "attribute_7797"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_985" name = "attribute_7798"/>
+			</includes>
+			<coeficient value = "0.9557291666666666"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1334" name = "attribute_7996"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1376" name = "attribute_7898"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1398" name = "attribute_7962"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "2">
+				<attribute schema = "public" relation = "relation_1139" name = "attribute_7950"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1139" name = "attribute_7950"/>
+			</includes>
+			<coeficient value = "0.006472491909385114"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1289" name = "attribute_8100"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1350" name = "attribute_7986"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1374" name = "attribute_7974"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1332" name = "attribute_7998"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1359" name = "attribute_8170"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1220" name = "attribute_7852"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1273" name = "attribute_8084"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "288">
+				<attribute schema = "public" relation = "relation_973" name = "attribute_7786"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_975" name = "attribute_7785"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1383" name = "attribute_8194"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1371" name = "attribute_8182"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "383">
+				<attribute schema = "public" relation = "relation_980" name = "attribute_7791"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_979" name = "attribute_7792"/>
+			</includes>
+			<coeficient value = "0.608355091383812"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1226" name = "attribute_7840"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1354" name = "attribute_7984"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1359" name = "attribute_8170"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1220" name = "attribute_7852"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1287" name = "attribute_8098"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1356" name = "attribute_7888"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1244" name = "attribute_7864"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1244" name = "attribute_7864"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1256" name = "attribute_7876"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1285" name = "attribute_8096"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1396" name = "attribute_7908"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "279">
+				<attribute schema = "public" relation = "relation_964" name = "attribute_7776"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_962" name = "attribute_7775"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "367">
+				<attribute schema = "public" relation = "relation_985" name = "attribute_7798"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_987" name = "attribute_7797"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1275" name = "attribute_8086"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1263" name = "attribute_8074"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1268" name = "attribute_8062"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1280" name = "attribute_8050"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1280" name = "attribute_8050"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1317" name = "attribute_8128"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1256" name = "attribute_7876"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1402" name = "attribute_7960"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1354" name = "attribute_7984"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1378" name = "attribute_7972"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1378" name = "attribute_7972"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1334" name = "attribute_7996"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1204" name = "attribute_7830"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1405" name = "attribute_8216"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "304">
+				<attribute schema = "public" relation = "relation_975" name = "attribute_7788"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_976" name = "attribute_7787"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1385" name = "attribute_8196"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1373" name = "attribute_8184"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1270" name = "attribute_8060"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1361" name = "attribute_8172"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1349" name = "attribute_8160"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "382">
+				<attribute schema = "public" relation = "relation_1003" name = "attribute_7816"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7815"/>
+			</includes>
+			<coeficient value = "0.8089005235602095"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1356" name = "attribute_7888"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1383" name = "attribute_8194"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1240" name = "attribute_7862"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1254" name = "attribute_7874"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1402" name = "attribute_7960"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1216" name = "attribute_7850"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1277" name = "attribute_8088"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1265" name = "attribute_8076"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1352" name = "attribute_7886"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1376" name = "attribute_7898"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1222" name = "attribute_7842"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1307" name = "attribute_8118"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1393" name = "attribute_8204"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "231">
+				<attribute schema = "public" relation = "relation_966" name = "attribute_7778"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_964" name = "attribute_7777"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1266" name = "attribute_8064"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1278" name = "attribute_8052"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1261" name = "attribute_8072"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1290" name = "attribute_8040"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1224" name = "attribute_7854"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1295" name = "attribute_8106"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1371" name = "attribute_8182"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1358" name = "attribute_7982"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1322" name = "attribute_8008"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "279">
+				<attribute schema = "public" relation = "relation_991" name = "attribute_7801"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_989" name = "attribute_7802"/>
+			</includes>
+			<coeficient value = "0.9032258064516129"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1382" name = "attribute_7970"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1336" name = "attribute_7994"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1336" name = "attribute_7994"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1387" name = "attribute_8198"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1375" name = "attribute_8186"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1324" name = "attribute_8006"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "382">
+				<attribute schema = "public" relation = "relation_1003" name = "attribute_7813"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1001" name = "attribute_7814"/>
+			</includes>
+			<coeficient value = "0.9712041884816754"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1363" name = "attribute_8174"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "2">
+				<attribute schema = "public" relation = "relation_1140" name = "attribute_7918"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1351" name = "attribute_8162"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1339" name = "attribute_8150"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1271" name = "attribute_8082"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "267">
+				<attribute schema = "public" relation = "relation_999" name = "attribute_7812"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1001" name = "attribute_7811"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1327" name = "attribute_8138"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1348" name = "attribute_7884"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1246" name = "attribute_7866"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1372" name = "attribute_7896"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1236" name = "attribute_7860"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1358" name = "attribute_7982"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1252" name = "attribute_7872"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1267" name = "attribute_8078"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1264" name = "attribute_8066"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1276" name = "attribute_8054"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "351">
+				<attribute schema = "public" relation = "relation_976" name = "attribute_7787"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_975" name = "attribute_7788"/>
+			</includes>
+			<coeficient value = "0.8660968660968661"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1312" name = "attribute_8018"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1208" name = "attribute_7820"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1392" name = "attribute_7906"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1288" name = "attribute_8042"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1300" name = "attribute_8030"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1283" name = "attribute_8094"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1315" name = "attribute_8126"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "252">
+				<attribute schema = "public" relation = "relation_989" name = "attribute_7802"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_991" name = "attribute_7801"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1242" name = "attribute_7832"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1338" name = "attribute_7992"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1258" name = "attribute_7878"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1382" name = "attribute_7970"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1362" name = "attribute_7980"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1377" name = "attribute_8188"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1365" name = "attribute_8176"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1353" name = "attribute_8164"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1302" name = "attribute_8028"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "296">
+				<attribute schema = "public" relation = "relation_962" name = "attribute_7775"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_964" name = "attribute_7776"/>
+			</includes>
+			<coeficient value = "0.9425675675675675"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7815"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1003" name = "attribute_7816"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1403" name = "attribute_8214"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1341" name = "attribute_8152"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1329" name = "attribute_8140"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1218" name = "attribute_7844"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1305" name = "attribute_8116"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "371">
+				<attribute schema = "public" relation = "relation_1001" name = "attribute_7814"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1003" name = "attribute_7813"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1344" name = "attribute_7882"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1368" name = "attribute_7894"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1250" name = "attribute_7870"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1381" name = "attribute_8192"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1262" name = "attribute_8068"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1274" name = "attribute_8056"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1286" name = "attribute_8044"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1298" name = "attribute_8032"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "304">
+				<attribute schema = "public" relation = "relation_975" name = "attribute_7785"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_973" name = "attribute_7786"/>
+			</includes>
+			<coeficient value = "0.9473684210526315"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "375">
+				<attribute schema = "public" relation = "relation_995" name = "attribute_7805"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_993" name = "attribute_7806"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1391" name = "attribute_8202"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1210" name = "attribute_7928"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1310" name = "attribute_8020"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1260" name = "attribute_8070"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "279">
+				<attribute schema = "public" relation = "relation_991" name = "attribute_7804"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_993" name = "attribute_7803"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1228" name = "attribute_7856"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1293" name = "attribute_8104"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1369" name = "attribute_8180"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1338" name = "attribute_7992"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1342" name = "attribute_7990"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1367" name = "attribute_8178"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1355" name = "attribute_8166"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1343" name = "attribute_8154"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "2">
+				<attribute schema = "public" relation = "relation_1142" name = "attribute_7916"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1331" name = "attribute_8142"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1277" name = "attribute_8088"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "288">
+				<attribute schema = "public" relation = "relation_973" name = "attribute_7784"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_970" name = "attribute_7783"/>
+			</includes>
+			<coeficient value = "0.8263888888888888"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1319" name = "attribute_8130"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1288" name = "attribute_8042"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1397" name = "attribute_8208"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1192" name = "attribute_7822"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1248" name = "attribute_7868"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1340" name = "attribute_7880"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1363" name = "attribute_8174"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1362" name = "attribute_7980"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1364" name = "attribute_7892"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1284" name = "attribute_8046"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1296" name = "attribute_8034"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1308" name = "attribute_8022"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1320" name = "attribute_8010"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1388" name = "attribute_7904"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1272" name = "attribute_8058"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "218">
+				<attribute schema = "public" relation = "relation_996" name = "attribute_7807"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_995" name = "attribute_7808"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "367">
+				<attribute schema = "public" relation = "relation_985" name = "attribute_7796"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_982" name = "attribute_7795"/>
+			</includes>
+			<coeficient value = "0.7574931880108992"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1276" name = "attribute_8054"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1238" name = "attribute_7834"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "378">
+				<attribute schema = "public" relation = "relation_993" name = "attribute_7806"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_995" name = "attribute_7805"/>
+			</includes>
+			<coeficient value = "0.9920634920634921"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "389">
+				<attribute schema = "public" relation = "relation_959" name = "attribute_7772"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_960" name = "attribute_7771"/>
+			</includes>
+			<coeficient value = "0.7352185089974294"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1351" name = "attribute_8162"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1345" name = "attribute_8156"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1333" name = "attribute_8144"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1190" name = "attribute_7938"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1321" name = "attribute_8132"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1309" name = "attribute_8120"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1357" name = "attribute_8168"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1266" name = "attribute_8064"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "279">
+				<attribute schema = "public" relation = "relation_964" name = "attribute_7777"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_966" name = "attribute_7778"/>
+			</includes>
+			<coeficient value = "0.8279569892473119"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1214" name = "attribute_7846"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1387" name = "attribute_8198"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1341" name = "attribute_8152"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1360" name = "attribute_7890"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1306" name = "attribute_8024"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1318" name = "attribute_8012"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "2">
+				<attribute schema = "public" relation = "relation_1132" name = "attribute_7926"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1330" name = "attribute_8000"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1282" name = "attribute_8048"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1294" name = "attribute_8036"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1265" name = "attribute_8076"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1300" name = "attribute_8030"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1232" name = "attribute_7858"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1329" name = "attribute_8140"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1375" name = "attribute_8186"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1342" name = "attribute_7990"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1323" name = "attribute_8134"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "2">
+				<attribute schema = "public" relation = "relation_1144" name = "attribute_7914"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1311" name = "attribute_8122"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1299" name = "attribute_8110"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1347" name = "attribute_8158"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1335" name = "attribute_8146"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1297" name = "attribute_8108"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1275" name = "attribute_8086"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1290" name = "attribute_8040"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1180" name = "attribute_7824"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1395" name = "attribute_8206"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1361" name = "attribute_8172"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1328" name = "attribute_8002"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "2">
+				<attribute schema = "public" relation = "relation_1137" name = "attribute_7948"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1292" name = "attribute_8038"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1304" name = "attribute_8026"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1384" name = "attribute_7902"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1316" name = "attribute_8014"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1278" name = "attribute_8052"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1287" name = "attribute_8098"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1234" name = "attribute_7836"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1349" name = "attribute_8160"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1194" name = "attribute_7936"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1301" name = "attribute_8112"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1289" name = "attribute_8100"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "231">
+				<attribute schema = "public" relation = "relation_966" name = "attribute_7779"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_968" name = "attribute_7780"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1337" name = "attribute_8148"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "328">
+				<attribute schema = "public" relation = "relation_968" name = "attribute_7781"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_970" name = "attribute_7782"/>
+			</includes>
+			<coeficient value = "0.725609756097561"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1325" name = "attribute_8136"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1313" name = "attribute_8124"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1268" name = "attribute_8062"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1396" name = "attribute_7908"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1212" name = "attribute_7848"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1385" name = "attribute_8196"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1339" name = "attribute_8150"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "233">
+				<attribute schema = "public" relation = "relation_979" name = "attribute_7790"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_976" name = "attribute_7789"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "2">
+				<attribute schema = "public" relation = "relation_1134" name = "attribute_7924"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1399" name = "attribute_8210"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1302" name = "attribute_8028"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1314" name = "attribute_8016"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "383">
+				<attribute schema = "public" relation = "relation_980" name = "attribute_7793"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_982" name = "attribute_7794"/>
+			</includes>
+			<coeficient value = "0.7258485639686684"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "309">
+				<attribute schema = "public" relation = "relation_1004" name = "attribute_7743"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1326" name = "attribute_8004"/>
+			</includes>
+			<coeficient value = "0.003236245954692557"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1263" name = "attribute_8074"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "1">
+				<attribute schema = "public" relation = "relation_1373" name = "attribute_8184"/>
+			</is-included>
+			<includes>
+				<attribute schema = "public" relation ="relation_1004" name = "attribute_7743"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+	</inclusion-dependencies></profile-data>

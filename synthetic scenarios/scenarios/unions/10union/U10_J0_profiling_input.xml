@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile-data>
+	<keyCandidates>
+		<attribute schema = "public" relation = "relation_6" name = "attribute_15"/>
+		<attribute schema = "public" relation = "relation_10" name = "attribute_23"/>
+		<attribute schema = "public" relation = "relation_12" name = "attribute_27"/>
+		<attribute schema = "public" relation = "relation_14" name = "attribute_31"/>
+		<attribute schema = "public" relation = "relation_13" name = "attribute_19"/>
+		<attribute schema = "public" relation = "relation_16" name = "attribute_35"/>
+		<attribute schema = "public" relation = "relation_15" name = "attribute_3"/>
+		<attribute schema = "public" relation = "relation_18" name = "attribute_39"/>
+		<attribute schema = "public" relation = "relation_17" name = "attribute_7"/>
+		<attribute schema = "public" relation = "relation_20" name = "attribute_43"/>
+		<attribute schema = "public" relation = "relation_19" name = "attribute_11"/>
+	</keyCandidates>
+	<inclusion-dependencies>
+	</inclusion-dependencies></profile-data>

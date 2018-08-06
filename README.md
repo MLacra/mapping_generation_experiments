@@ -18,11 +18,11 @@ No installation is required.
 
 Each folder contains a specific type of experiment. 
 
-<br />All the folders contain ground truth mappings (SQL files) and each file contains two parts: the executable SQL script, and a part that is not executable it explains shortly the format of the ground truth. The SQL file will not run as it is, the two parts need to be separated, but for simplicity both the script and the description are contained in the same file.
+<br />All the folders contain ground truth mappings (SQL files) and each file contains two parts: the executable SQL script, and a part that is not executable but it explains shortly the format of the ground truth. The SQL file will not run as it is, the two parts need to be separated, but for simplicity both the script and the description are contained in the same file.
 <br/> The input profile data for the *realestate* and the *schools* scenarios was generated with [HyuCC](https://github.com/HPI-Information-Systems/metanome-algorithms/tree/master/HyUCC) and [Sindy](https://github.com/HPI-Information-Systems/sindy).
 
 1. **iBench** scenario contains:
-    - 2 SQL scripts that are need for creating the database (sources and target) - the extents can be created using the two *datafiller* files and the [Datafiller tool](https://www.cri.ensmp.fr/people/coelho/datafiller.html). 
+    - 2 SQL scripts that are needed for creating the database (sources and target) - the extents can be created using the two *datafiller* files and the [Datafiller tool](https://www.cri.ensmp.fr/people/coelho/datafiller.html). 
     - 1 SQL file with the output mapping of **Dynamap** - a new mapping generation algorithm (2018).
     - 1 folder with the full input that was given to Dynamap (matches, definitions of datasources, profile data - (partial) inclusion dependencies, candidate keys).
     - 1 folder with the full output of Dynamap (intemediate mappings, best mappings, execution times, propagation of profile data a.s.o.)

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile-data>
+	<keyCandidates>
+		<attribute schema = "public" relation = "relation_39" name = "attribute_83"/>
+		<attribute schema = "public" relation = "relation_38" name = "attribute_75"/>
+		<attribute schema = "public" relation = "relation_41" name = "attribute_87"/>
+		<attribute schema = "public" relation = "relation_58" name = "attribute_51"/>
+		<attribute schema = "public" relation = "relation_60" name = "attribute_119"/>
+		<attribute schema = "public" relation = "relation_63" name = "attribute_131"/>
+		<attribute schema = "public" relation = "relation_62" name = "attribute_67"/>
+		<attribute schema = "public" relation = "relation_64" name = "attribute_91"/>
+		<attribute schema = "public" relation = "relation_68" name = "attribute_63"/>
+		<attribute schema = "public" relation = "relation_75" name = "attribute_155"/>
+		<attribute schema = "public" relation = "relation_74" name = "attribute_107"/>
+		<attribute schema = "public" relation = "relation_77" name = "attribute_159"/>
+		<attribute schema = "public" relation = "relation_76" name = "attribute_115"/>
+		<attribute schema = "public" relation = "relation_79" name = "attribute_163"/>
+		<attribute schema = "public" relation = "relation_78" name = "attribute_47"/>
+		<attribute schema = "public" relation = "relation_81" name = "attribute_167"/>
+		<attribute schema = "public" relation = "relation_80" name = "attribute_123"/>
+		<attribute schema = "public" relation = "relation_83" name = "attribute_171"/>
+		<attribute schema = "public" relation = "relation_82" name = "attribute_127"/>
+		<attribute schema = "public" relation = "relation_85" name = "attribute_175"/>
+		<attribute schema = "public" relation = "relation_84" name = "attribute_135"/>
+		<attribute schema = "public" relation = "relation_87" name = "attribute_179"/>
+		<attribute schema = "public" relation = "relation_89" name = "attribute_183"/>
+		<attribute schema = "public" relation = "relation_90" name = "attribute_71"/>
+		<attribute schema = "public" relation = "relation_93" name = "attribute_191"/>
+		<attribute schema = "public" relation = "relation_95" name = "attribute_195"/>
+		<attribute schema = "public" relation = "relation_94" name = "attribute_147"/>
+		<attribute schema = "public" relation = "relation_97" name = "attribute_199"/>
+		<attribute schema = "public" relation = "relation_96" name = "attribute_99"/>
+		<attribute schema = "public" relation = "relation_99" name = "attribute_203"/>
+		<attribute schema = "public" relation = "relation_98" name = "attribute_139"/>
+		<attribute schema = "public" relation = "relation_100" name = "attribute_151"/>
+		<attribute schema = "public" relation = "relation_103" name = "attribute_211"/>
+		<attribute schema = "public" relation = "relation_102" name = "attribute_207"/>
+		<attribute schema = "public" relation = "relation_105" name = "attribute_215"/>
+		<attribute schema = "public" relation = "relation_104" name = "attribute_187"/>
+		<attribute schema = "public" relation = "relation_107" name = "attribute_219"/>
+		<attribute schema = "public" relation = "relation_106" name = "attribute_79"/>
+		<attribute schema = "public" relation = "relation_108" name = "attribute_55"/>
+		<attribute schema = "public" relation = "relation_111" name = "attribute_227"/>
+		<attribute schema = "public" relation = "relation_110" name = "attribute_111"/>
+		<attribute schema = "public" relation = "relation_113" name = "attribute_231"/>
+		<attribute schema = "public" relation = "relation_112" name = "attribute_95"/>
+		<attribute schema = "public" relation = "relation_115" name = "attribute_235"/>
+		<attribute schema = "public" relation = "relation_114" name = "attribute_223"/>
+		<attribute schema = "public" relation = "relation_117" name = "attribute_239"/>
+		<attribute schema = "public" relation = "relation_116" name = "attribute_103"/>
+		<attribute schema = "public" relation = "relation_119" name = "attribute_243"/>
+		<attribute schema = "public" relation = "relation_118" name = "attribute_143"/>
+		<attribute schema = "public" relation = "relation_121" name = "attribute_247"/>
+		<attribute schema = "public" relation = "relation_120" name = "attribute_59"/>
+	</keyCandidates>
+	<inclusion-dependencies>
+	</inclusion-dependencies></profile-data>

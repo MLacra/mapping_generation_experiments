@@ -21,12 +21,12 @@ Each folder contains a specific type of experiment.
 <br />All the folders contain ground truth mappings (SQL files) and each file contains two parts: the executable SQL script, and a part that is not executable but it explains shortly the format of the ground truth. The SQL file will not run as it is, the two parts need to be separated, but for simplicity both the script and the description are contained in the same file.
 <br/> The input profile data for the *realestate* and the *schools* scenarios was generated with [HyuCC](https://github.com/HPI-Information-Systems/metanome-algorithms/tree/master/HyUCC) and [Sindy](https://github.com/HPI-Information-Systems/sindy).
 
-1. **iBench** scenario contains:
-    - 2 SQL scripts that are needed for creating the database (sources and target) - the extents can be created using the two *datafiller* files and the [Datafiller tool](https://www.cri.ensmp.fr/people/coelho/datafiller.html). 
+1. Each **iBench** scenario contains:
+    - 1 folder with the iBench scenario (iBench generated XML files). The datafiller_dynamap_input contains the SQL scripts that are needed for creating the database (sources and target) and datafiller scripts that are used to create the extents (using the two *datafiller* files with the [Datafiller tool](https://www.cri.ensmp.fr/people/coelho/datafiller.html)). *match.vada* contains the input matches for Dynamap, *sourceTargetPairs.vada* contains the pairs of schemas that are used in the mapping generation (source to target), *profiling_input.xml* contains the input profile data.
     - 1 SQL file with the output mapping of **Dynamap** - a new mapping generation algorithm (2018).
-    - 1 folder with the full input that was given to Dynamap (matches, definitions of datasources, profile data - (partial) inclusion dependencies, candidate keys).
-    - 1 folder with the full output of Dynamap (intemediate mappings, best mappings, execution times, propagation of profile data a.s.o.)
-    - 1 XML file that can be loaded and executed by [++Spicy](http://www.db.unibas.it/projects/spicy/) to generate a mapping. 
+    - 1 folder with the full output of Dynamap (intemediate mappings, best mappings, execution times, propagation of profile data a.s.o.) - some logs were ommitted as they were too large to be uploaded
+    - 1 XML file that can be loaded and executed by [++Spicy](http://www.db.unibas.it/projects/spicy/) to generate a mapping.
+    - 1 file that contains the output mapping of [++Spicy](http://www.db.unibas.it/projects/spicy/).
 
 2. **Realestate** scenario<br />
    This scenario contains data from web extracted sources and open government data.

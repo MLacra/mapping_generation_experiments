@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+<xs:element name="S_CP_AD_DL_ADL_MA_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg">
+   <xs:complexType>
+      <xs:sequence>
+         <xs:element name="test_le_1_nl0_ce0_target_relation" minOccurs="0" maxOccurs="unbounded">
+            <xs:complexType>
+               <xs:sequence>
+                  <xs:element name="test_le_1_nl0_ce0_t_attribute1" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="test_le_1_nl0_ce0_t_attribute2" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="test_le_1_nl0_ce0_t_attribute3" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="test_le_1_nl0_ce0_t_attribute4" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="test_le_1_nl0_ce0_t_attribute5" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="test_le_1_nl0_ce0_t_attribute6" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="test_le_1_nl0_ce0_t_attribute7" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="test_le_1_nl0_ce0_t_attribute8" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="test_le_1_nl0_ce0_t_attribute9" minOccurs="0" maxOccurs="1" type="xs:string"/>
+               </xs:sequence>
+            </xs:complexType>
+         </xs:element>
+      </xs:sequence>
+   </xs:complexType>
+<xs:key name="test_le_1_nl0_ce0_target_relationtest_le_1_nl0_ce0_t_attribute7"><xs:selector xpath="./test_le_1_nl0_ce0_target_relation"/><xs:field xpath="test_le_1_nl0_ce0_t_attribute7"/></xs:key>
+</xs:element>
+</xs:schema>

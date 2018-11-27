@@ -1,0 +1,1085 @@
+[15:46:58.807] [15:46:58.807] Started propagating for nut_cp_1_nl0_ce0 [ InitialMappingOperator ]
+[15:46:58.808] [15:46:58.808, execution time:0 hours, 0 min, 0 sec, 1 ms] Finished propagating for nut_cp_1_nl0_ce0
+[15:46:58.808] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 1 ms
+[15:46:58.810] [15:46:58.810] Started propagating for great_ad_1_nl0_ce0 [ InitialMappingOperator ]
+[15:46:58.810] [15:46:58.810, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished propagating for great_ad_1_nl0_ce0
+[15:46:58.810] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 1 ms
+[15:46:58.811] [15:46:58.811] Started propagating for past_dl_1_nl0_ce0 [ InitialMappingOperator ]
+[15:46:58.811] [15:46:58.811, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished propagating for past_dl_1_nl0_ce0
+[15:46:58.811] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 1 ms
+[15:46:58.812] [15:46:58.812] Started propagating for narrow_adl_1_nl0_ce0 [ InitialMappingOperator ]
+[15:46:58.812] [15:46:58.812, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished propagating for narrow_adl_1_nl0_ce0
+[15:46:58.813] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 1 ms
+[15:46:58.814] [15:46:58.814] Started propagating for chin_cp_2_nl0_ce0 [ InitialMappingOperator ]
+[15:46:58.814] [15:46:58.814, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished propagating for chin_cp_2_nl0_ce0
+[15:46:58.814] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 1 ms
+[15:46:58.815] [15:46:58.815] Started propagating for division_ad_2_nl0_ce0 [ InitialMappingOperator ]
+[15:46:58.816] [15:46:58.816, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished propagating for division_ad_2_nl0_ce0
+[15:46:58.816] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 2 ms
+[15:46:58.817] [15:46:58.817] Started propagating for use_dl_2_nl0_ce0 [ InitialMappingOperator ]
+[15:46:58.817] [15:46:58.817, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished propagating for use_dl_2_nl0_ce0
+[15:46:58.817] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 2 ms
+[15:46:58.818] [15:46:58.818] Started propagating for brown_adl_2_nl0_ce0 [ InitialMappingOperator ]
+[15:46:58.819] [15:46:58.819, execution time:0 hours, 0 min, 0 sec, 1 ms] Finished propagating for brown_adl_2_nl0_ce0
+[15:46:58.819] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 3 ms
+[15:46:58.820] [15:46:58.820] Started propagating for kind_cp_3_nl0_ce0 [ InitialMappingOperator ]
+[15:46:58.820] [15:46:58.820, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished propagating for kind_cp_3_nl0_ce0
+[15:46:58.820] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 3 ms
+[15:46:58.821] [15:46:58.821] Started propagating for charge_ad_3_nl0_ce0 [ InitialMappingOperator ]
+[15:46:58.821] [15:46:58.821, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished propagating for charge_ad_3_nl0_ce0
+[15:46:58.821] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 3 ms
+[15:46:58.822] [15:46:58.822] Started propagating for treat_dl_3_nl0_ce0 [ InitialMappingOperator ]
+[15:46:58.822] [15:46:58.822, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished propagating for treat_dl_3_nl0_ce0
+[15:46:58.823] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 3 ms
+[15:46:58.823] [15:46:58.823] Started propagating for found_adl_3_nl0_ce0 [ InitialMappingOperator ]
+[15:46:58.824] [15:46:58.824, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished propagating for found_adl_3_nl0_ce0
+[15:46:58.824] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 3 ms
+[15:46:58.825] [15:46:58.825] Started propagating for agency_cp_4_nl0_ce0 [ InitialMappingOperator ]
+[15:46:58.825] [15:46:58.825, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished propagating for agency_cp_4_nl0_ce0
+[15:46:58.825] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 3 ms
+[15:46:58.825] [15:46:58.825] Started propagating for gold_ad_4_nl0_ce0 [ InitialMappingOperator ]
+[15:46:58.826] [15:46:58.826, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished propagating for gold_ad_4_nl0_ce0
+[15:46:58.826] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 4 ms
+[15:46:58.827] [15:46:58.827] Started propagating for copy_dl_4_nl0_ce0 [ InitialMappingOperator ]
+[15:46:58.827] [15:46:58.827, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished propagating for copy_dl_4_nl0_ce0
+[15:46:58.827] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 4 ms
+[15:46:58.828] [15:46:58.828] Started propagating for walk_adl_4_nl0_ce0 [ InitialMappingOperator ]
+[15:46:58.828] [15:46:58.828, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished propagating for walk_adl_4_nl0_ce0
+[15:46:58.828] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 4 ms
+[15:46:58.829] [15:46:58.829] Started propagating for judge_cp_5_nl0_ce0 [ InitialMappingOperator ]
+[15:46:58.829] [15:46:58.829, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished propagating for judge_cp_5_nl0_ce0
+[15:46:58.829] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 4 ms
+[15:46:58.830] [15:46:58.830] Started propagating for sleep_ad_5_nl0_ce0 [ InitialMappingOperator ]
+[15:46:58.830] [15:46:58.830, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished propagating for sleep_ad_5_nl0_ce0
+[15:46:58.830] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 4 ms
+[15:46:58.831] [15:46:58.831] Started propagating for match_dl_5_nl0_ce0 [ InitialMappingOperator ]
+[15:46:58.832] [15:46:58.832, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished propagating for match_dl_5_nl0_ce0
+[15:46:58.832] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 4 ms
+[15:46:58.833] [15:46:58.833] Started propagating for round_adl_5_nl0_ce0 [ InitialMappingOperator ]
+[15:46:58.833] [15:46:58.833, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished propagating for round_adl_5_nl0_ce0
+[15:46:58.833] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 5 ms
+[15:46:58.837] [15:46:58.837]  Schema mapping generation started...
+[15:46:58.837] [15:46:58.837] Generated initial src mappings
+[15:46:58.893] [15:46:58.893, execution time:0 hours, 0 min, 0 sec, 55 ms] Generated 20 initial mappings
+[15:46:58.893] [15:46:58.893] Started dynamic programming
+[15:46:58.893] [15:46:58.893] Started generating mappings for 20 subproblem.
+[15:46:58.893] [15:46:58.893] Started generating mappings for 19 subproblem.
+[15:46:58.893] [15:46:58.893] Started generating mappings for 18 subproblem.
+[15:46:58.893] [15:46:58.893] Started generating mappings for 17 subproblem.
+[15:46:58.893] [15:46:58.893] Started generating mappings for 16 subproblem.
+[15:46:58.893] [15:46:58.893] Started generating mappings for 15 subproblem.
+[15:46:58.893] [15:46:58.893] Started generating mappings for 14 subproblem.
+[15:46:58.893] [15:46:58.893] Started generating mappings for 13 subproblem.
+[15:46:58.893] [15:46:58.893] Started generating mappings for 12 subproblem.
+[15:46:58.893] [15:46:58.893] Started generating mappings for 11 subproblem.
+[15:46:58.893] [15:46:58.893] Started generating mappings for 10 subproblem.
+[15:46:58.893] [15:46:58.893] Started generating mappings for 9 subproblem.
+[15:46:58.893] [15:46:58.893] Started generating mappings for 8 subproblem.
+[15:46:58.893] [15:46:58.893] Started generating mappings for 7 subproblem.
+[15:46:58.893] [15:46:58.893] Started generating mappings for 6 subproblem.
+[15:46:58.893] [15:46:58.893] Started generating mappings for 5 subproblem.
+[15:46:58.893] [15:46:58.893] Started generating mappings for 4 subproblem.
+[15:46:58.893] [15:46:58.893] Started generating mappings for 3 subproblem.
+[15:46:58.893] [15:46:58.893] Started generating mappings for 2 subproblem.
+[15:46:58.893] [15:46:58.893] 
+	Begin merging: 
+	(1-source subsolutions = 20 intermediate relations,
+	 1-source subsolutions = 20 intermediate relations) pairwise
+[15:46:58.894] [15:46:58.894] Started creating IMap for [narrow_adl_1_nl0_ce0 , sleep_ad_5_nl0_ce0 ]
+[15:46:58.894] [15:46:58.894]  Decision tree started running (operator generation started)...
+[15:46:58.895] [15:46:58.895, execution time:0 hours, 0 min, 0 sec, 0 ms]  Decision tree stopped running (operator generated)...
+[15:46:58.895] [15:46:58.895]  IntermediateRelation generation started...
+[15:46:58.895] [15:46:58.895, execution time:0 hours, 0 min, 0 sec, 0 ms]  IntermediateRelation generation stopped..
+[15:46:58.895] [15:46:58.895, execution time:0 hours, 0 min, 0 sec, 1 ms] Finished creating IMap [narrow_adl_1_nl0_ce0 , sleep_ad_5_nl0_ce0 ]
+[15:46:58.895] TOTAL TIME CREATING 0 IMAPS (SO FAR): 0 hours, 0 min, 0 sec, 1 ms
+
+[15:46:58.896] [15:46:58.896] Started creating IMap for [chin_cp_2_nl0_ce0 , use_dl_2_nl0_ce0 ]
+[15:46:58.896] [15:46:58.896]  Decision tree started running (operator generation started)...
+[15:46:58.896] [15:46:58.896, execution time:0 hours, 0 min, 0 sec, 0 ms]  Decision tree stopped running (operator generated)...
+[15:46:58.896] [15:46:58.896]  IntermediateRelation generation started...
+[15:46:58.896] [15:46:58.896, execution time:0 hours, 0 min, 0 sec, 0 ms]  IntermediateRelation generation stopped..
+[15:46:58.896] [15:46:58.896, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished creating IMap [chin_cp_2_nl0_ce0 , use_dl_2_nl0_ce0 ]
+[15:46:58.896] TOTAL TIME CREATING 1 IMAPS (SO FAR): 0 hours, 0 min, 0 sec, 2 ms
+
+[15:46:58.897] [15:46:58.897] Started creating IMap for [division_ad_2_nl0_ce0 , charge_ad_3_nl0_ce0 ]
+[15:46:58.897] [15:46:58.897]  Decision tree started running (operator generation started)...
+[15:46:58.898] [15:46:58.898, execution time:0 hours, 0 min, 0 sec, 0 ms]  Decision tree stopped running (operator generated)...
+[15:46:58.898] [15:46:58.898]  IntermediateRelation generation started...
+[15:46:58.898] [15:46:58.898, execution time:0 hours, 0 min, 0 sec, 0 ms]  IntermediateRelation generation stopped..
+[15:46:58.898] [15:46:58.898, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished creating IMap [division_ad_2_nl0_ce0 , charge_ad_3_nl0_ce0 ]
+[15:46:58.898] TOTAL TIME CREATING 2 IMAPS (SO FAR): 0 hours, 0 min, 0 sec, 2 ms
+
+[15:46:58.899] [15:46:58.899] Started creating IMap for [gold_ad_4_nl0_ce0 , walk_adl_4_nl0_ce0 ]
+[15:46:58.899] [15:46:58.899]  Decision tree started running (operator generation started)...
+[15:46:58.899] [15:46:58.899, execution time:0 hours, 0 min, 0 sec, 0 ms]  Decision tree stopped running (operator generated)...
+[15:46:58.899] [15:46:58.899]  IntermediateRelation generation started...
+[15:46:58.899] [15:46:58.899, execution time:0 hours, 0 min, 0 sec, 0 ms]  IntermediateRelation generation stopped..
+[15:46:58.899] [15:46:58.899, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished creating IMap [gold_ad_4_nl0_ce0 , walk_adl_4_nl0_ce0 ]
+[15:46:58.899] TOTAL TIME CREATING 3 IMAPS (SO FAR): 0 hours, 0 min, 0 sec, 2 ms
+
+[15:46:58.900] [15:46:58.900] Started creating IMap for [treat_dl_3_nl0_ce0 , copy_dl_4_nl0_ce0 ]
+[15:46:58.900] [15:46:58.900]  Decision tree started running (operator generation started)...
+[15:46:58.900] [15:46:58.900, execution time:0 hours, 0 min, 0 sec, 0 ms]  Decision tree stopped running (operator generated)...
+[15:46:58.900] [15:46:58.900]  IntermediateRelation generation started...
+[15:46:58.901] [15:46:58.901, execution time:0 hours, 0 min, 0 sec, 0 ms]  IntermediateRelation generation stopped..
+[15:46:58.901] [15:46:58.901, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished creating IMap [treat_dl_3_nl0_ce0 , copy_dl_4_nl0_ce0 ]
+[15:46:58.901] TOTAL TIME CREATING 4 IMAPS (SO FAR): 0 hours, 0 min, 0 sec, 3 ms
+
+[15:46:58.902] [15:46:58.902] Started creating IMap for [brown_adl_2_nl0_ce0 , round_adl_5_nl0_ce0 ]
+[15:46:58.902] [15:46:58.902]  Decision tree started running (operator generation started)...
+[15:46:58.902] [15:46:58.902, execution time:0 hours, 0 min, 0 sec, 0 ms]  Decision tree stopped running (operator generated)...
+[15:46:58.902] [15:46:58.902]  IntermediateRelation generation started...
+[15:46:58.902] [15:46:58.902, execution time:0 hours, 0 min, 0 sec, 0 ms]  IntermediateRelation generation stopped..
+[15:46:58.902] [15:46:58.902, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished creating IMap [brown_adl_2_nl0_ce0 , round_adl_5_nl0_ce0 ]
+[15:46:58.902] TOTAL TIME CREATING 5 IMAPS (SO FAR): 0 hours, 0 min, 0 sec, 4 ms
+
+[15:46:58.903] [15:46:58.903] Started creating IMap for [past_dl_1_nl0_ce0 , match_dl_5_nl0_ce0 ]
+[15:46:58.903] [15:46:58.903]  Decision tree started running (operator generation started)...
+[15:46:58.904] [15:46:58.904, execution time:0 hours, 0 min, 0 sec, 0 ms]  Decision tree stopped running (operator generated)...
+[15:46:58.904] [15:46:58.904]  IntermediateRelation generation started...
+[15:46:58.904] [15:46:58.904, execution time:0 hours, 0 min, 0 sec, 0 ms]  IntermediateRelation generation stopped..
+[15:46:58.904] [15:46:58.904, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished creating IMap [past_dl_1_nl0_ce0 , match_dl_5_nl0_ce0 ]
+[15:46:58.904] TOTAL TIME CREATING 6 IMAPS (SO FAR): 0 hours, 0 min, 0 sec, 4 ms
+
+[15:46:58.905] [15:46:58.905] Started creating IMap for [kind_cp_3_nl0_ce0 , nut_cp_1_nl0_ce0 ]
+[15:46:58.905] [15:46:58.905]  Decision tree started running (operator generation started)...
+[15:46:58.905] [15:46:58.905, execution time:0 hours, 0 min, 0 sec, 0 ms]  Decision tree stopped running (operator generated)...
+[15:46:58.905] [15:46:58.905]  IntermediateRelation generation started...
+[15:46:58.906] [15:46:58.906, execution time:0 hours, 0 min, 0 sec, 0 ms]  IntermediateRelation generation stopped..
+[15:46:58.906] [15:46:58.906, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished creating IMap [kind_cp_3_nl0_ce0 , nut_cp_1_nl0_ce0 ]
+[15:46:58.906] TOTAL TIME CREATING 7 IMAPS (SO FAR): 0 hours, 0 min, 0 sec, 5 ms
+
+[15:46:58.906] [15:46:58.906] Started creating IMap for [great_ad_1_nl0_ce0 , found_adl_3_nl0_ce0 ]
+[15:46:58.906] [15:46:58.906]  Decision tree started running (operator generation started)...
+[15:46:58.907] [15:46:58.907, execution time:0 hours, 0 min, 0 sec, 0 ms]  Decision tree stopped running (operator generated)...
+[15:46:58.907] [15:46:58.907]  IntermediateRelation generation started...
+[15:46:58.907] [15:46:58.907, execution time:0 hours, 0 min, 0 sec, 0 ms]  IntermediateRelation generation stopped..
+[15:46:58.907] [15:46:58.907, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished creating IMap [great_ad_1_nl0_ce0 , found_adl_3_nl0_ce0 ]
+[15:46:58.907] TOTAL TIME CREATING 8 IMAPS (SO FAR): 0 hours, 0 min, 0 sec, 5 ms
+
+[15:46:58.908] [15:46:58.908] Started creating IMap for [agency_cp_4_nl0_ce0 , judge_cp_5_nl0_ce0 ]
+[15:46:58.908] [15:46:58.908]  Decision tree started running (operator generation started)...
+[15:46:58.908] [15:46:58.908, execution time:0 hours, 0 min, 0 sec, 0 ms]  Decision tree stopped running (operator generated)...
+[15:46:58.908] [15:46:58.908]  IntermediateRelation generation started...
+[15:46:58.908] [15:46:58.908, execution time:0 hours, 0 min, 0 sec, 0 ms]  IntermediateRelation generation stopped..
+[15:46:58.908] [15:46:58.908, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished creating IMap [agency_cp_4_nl0_ce0 , judge_cp_5_nl0_ce0 ]
+[15:46:58.908] TOTAL TIME CREATING 9 IMAPS (SO FAR): 0 hours, 0 min, 0 sec, 6 ms
+
+[15:46:58.909] [15:46:58.909, execution time:0 hours, 0 min, 0 sec, 15 ms] 
+	Finished - Merging (1-sources subsolutions,1-sources subsolutions)
+	Generated 10 intermediate relations
+[15:46:58.910] [15:46:58.910] Started propagating for agency_cp_4_nl0_ce0..judge_cp_5_nl0_ce0 [ UnionOperator ]
+[15:46:58.910] [15:46:58.910, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished propagating for agency_cp_4_nl0_ce0..judge_cp_5_nl0_ce0
+[15:46:58.910] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 5 ms
+[15:46:58.910] [15:46:58.910] Started propagating for found_adl_3_nl0_ce0..great_ad_1_nl0_ce0 [ UnionOperator ]
+[15:46:58.911] [15:46:58.911, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished propagating for found_adl_3_nl0_ce0..great_ad_1_nl0_ce0
+[15:46:58.911] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 5 ms
+[15:46:58.911] [15:46:58.911] Started propagating for gold_ad_4_nl0_ce0..walk_adl_4_nl0_ce0 [ UnionOperator ]
+[15:46:58.911] [15:46:58.911, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished propagating for gold_ad_4_nl0_ce0..walk_adl_4_nl0_ce0
+[15:46:58.911] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 5 ms
+[15:46:58.911] [15:46:58.911] Started propagating for kind_cp_3_nl0_ce0..nut_cp_1_nl0_ce0 [ UnionOperator ]
+[15:46:58.912] [15:46:58.912, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished propagating for kind_cp_3_nl0_ce0..nut_cp_1_nl0_ce0
+[15:46:58.912] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 5 ms
+[15:46:58.912] [15:46:58.912] Started propagating for narrow_adl_1_nl0_ce0..sleep_ad_5_nl0_ce0 [ UnionOperator ]
+[15:46:58.914] [15:46:58.914, execution time:0 hours, 0 min, 0 sec, 1 ms] Finished propagating for narrow_adl_1_nl0_ce0..sleep_ad_5_nl0_ce0
+[15:46:58.915] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 7 ms
+[15:46:58.915] [15:46:58.915] Started propagating for brown_adl_2_nl0_ce0..round_adl_5_nl0_ce0 [ UnionOperator ]
+[15:46:58.915] [15:46:58.915, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished propagating for brown_adl_2_nl0_ce0..round_adl_5_nl0_ce0
+[15:46:58.915] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 8 ms
+[15:46:58.916] [15:46:58.916] Started propagating for match_dl_5_nl0_ce0..past_dl_1_nl0_ce0 [ UnionOperator ]
+[15:46:58.917] [15:46:58.917, execution time:0 hours, 0 min, 0 sec, 1 ms] Finished propagating for match_dl_5_nl0_ce0..past_dl_1_nl0_ce0
+[15:46:58.917] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 9 ms
+[15:46:58.917] [15:46:58.917] Started propagating for copy_dl_4_nl0_ce0..treat_dl_3_nl0_ce0 [ UnionOperator ]
+[15:46:58.917] [15:46:58.917, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished propagating for copy_dl_4_nl0_ce0..treat_dl_3_nl0_ce0
+[15:46:58.918] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 9 ms
+[15:46:58.923] [15:46:58.923] Started propagating for charge_ad_3_nl0_ce0..division_ad_2_nl0_ce0 [ UnionOperator ]
+[15:46:58.926] [15:46:58.926, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished propagating for charge_ad_3_nl0_ce0..division_ad_2_nl0_ce0
+[15:46:58.926] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 9 ms
+[15:46:58.926] [15:46:58.926] Started propagating for chin_cp_2_nl0_ce0..use_dl_2_nl0_ce0 [ UnionOperator ]
+[15:46:58.927] [15:46:58.927, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished propagating for chin_cp_2_nl0_ce0..use_dl_2_nl0_ce0
+[15:46:58.927] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 10 ms
+[15:46:58.929] [15:46:58.929, execution time:0 hours, 0 min, 0 sec, 35 ms]  Generate subproblem solutions for 2 relations finished.
+TOTAL mappings for 2 initial sources :20
+[15:46:58.929] [15:46:58.929, execution time:0 hours, 0 min, 0 sec, 36 ms]  - Total running time so far - 
+
+
+[15:46:58.929] [15:46:58.929] 
+	Begin merging: 
+	(1-source subsolutions = 20 intermediate relations,
+	 2-source subsolutions = 10 intermediate relations) pairwise
+[15:46:58.931] [15:46:58.931, execution time:0 hours, 0 min, 0 sec, 1 ms] 
+	Finished - Merging (1-sources subsolutions,2-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.931] [15:46:58.931, execution time:0 hours, 0 min, 0 sec, 37 ms]  Generate subproblem solutions for 3 relations finished.
+TOTAL mappings for 3 initial sources :0
+[15:46:58.931] [15:46:58.931, execution time:0 hours, 0 min, 0 sec, 37 ms]  - Total running time so far - 
+
+
+[15:46:58.931] [15:46:58.931] 
+	Begin merging: 
+	(1-source subsolutions = 20 intermediate relations,
+	 3-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.931] [15:46:58.931, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (1-sources subsolutions,3-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.931] [15:46:58.931] 
+	Begin merging: 
+	(2-source subsolutions = 10 intermediate relations,
+	 2-source subsolutions = 10 intermediate relations) pairwise
+[15:46:58.931] [15:46:58.931] Started creating IMap for [agency_cp_4_nl0_ce0..judge_cp_5_nl0_ce0 , kind_cp_3_nl0_ce0..nut_cp_1_nl0_ce0 ]
+[15:46:58.931] [15:46:58.931]  Decision tree started running (operator generation started)...
+[15:46:58.931] [15:46:58.931, execution time:0 hours, 0 min, 0 sec, 0 ms]  Decision tree stopped running (operator generated)...
+[15:46:58.931] [15:46:58.931]  IntermediateRelation generation started...
+[15:46:58.931] [15:46:58.931, execution time:0 hours, 0 min, 0 sec, 0 ms]  IntermediateRelation generation stopped..
+[15:46:58.932] [15:46:58.932, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished creating IMap [agency_cp_4_nl0_ce0..judge_cp_5_nl0_ce0 , kind_cp_3_nl0_ce0..nut_cp_1_nl0_ce0 ]
+[15:46:58.932] TOTAL TIME CREATING 10 IMAPS (SO FAR): 0 hours, 0 min, 0 sec, 6 ms
+
+[15:46:58.933] [15:46:58.933] Started creating IMap for [found_adl_3_nl0_ce0..great_ad_1_nl0_ce0 , gold_ad_4_nl0_ce0..walk_adl_4_nl0_ce0 ]
+[15:46:58.933] [15:46:58.933]  Decision tree started running (operator generation started)...
+[15:46:58.933] [15:46:58.933, execution time:0 hours, 0 min, 0 sec, 0 ms]  Decision tree stopped running (operator generated)...
+[15:46:58.933] [15:46:58.933]  IntermediateRelation generation started...
+[15:46:58.934] [15:46:58.934, execution time:0 hours, 0 min, 0 sec, 0 ms]  IntermediateRelation generation stopped..
+[15:46:58.934] [15:46:58.934, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished creating IMap [found_adl_3_nl0_ce0..great_ad_1_nl0_ce0 , gold_ad_4_nl0_ce0..walk_adl_4_nl0_ce0 ]
+[15:46:58.934] TOTAL TIME CREATING 11 IMAPS (SO FAR): 0 hours, 0 min, 0 sec, 7 ms
+
+[15:46:58.934] [15:46:58.934] Started creating IMap for [narrow_adl_1_nl0_ce0..sleep_ad_5_nl0_ce0 , brown_adl_2_nl0_ce0..round_adl_5_nl0_ce0 ]
+[15:46:58.934] [15:46:58.934]  Decision tree started running (operator generation started)...
+[15:46:58.935] [15:46:58.935, execution time:0 hours, 0 min, 0 sec, 0 ms]  Decision tree stopped running (operator generated)...
+[15:46:58.935] [15:46:58.935]  IntermediateRelation generation started...
+[15:46:58.935] [15:46:58.935, execution time:0 hours, 0 min, 0 sec, 0 ms]  IntermediateRelation generation stopped..
+[15:46:58.935] [15:46:58.935, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished creating IMap [narrow_adl_1_nl0_ce0..sleep_ad_5_nl0_ce0 , brown_adl_2_nl0_ce0..round_adl_5_nl0_ce0 ]
+[15:46:58.935] TOTAL TIME CREATING 12 IMAPS (SO FAR): 0 hours, 0 min, 0 sec, 7 ms
+
+[15:46:58.936] [15:46:58.936] Started creating IMap for [match_dl_5_nl0_ce0..past_dl_1_nl0_ce0 , copy_dl_4_nl0_ce0..treat_dl_3_nl0_ce0 ]
+[15:46:58.936] [15:46:58.936]  Decision tree started running (operator generation started)...
+[15:46:58.936] [15:46:58.936, execution time:0 hours, 0 min, 0 sec, 0 ms]  Decision tree stopped running (operator generated)...
+[15:46:58.936] [15:46:58.936]  IntermediateRelation generation started...
+[15:46:58.937] [15:46:58.937, execution time:0 hours, 0 min, 0 sec, 0 ms]  IntermediateRelation generation stopped..
+[15:46:58.937] [15:46:58.937, execution time:0 hours, 0 min, 0 sec, 1 ms] Finished creating IMap [match_dl_5_nl0_ce0..past_dl_1_nl0_ce0 , copy_dl_4_nl0_ce0..treat_dl_3_nl0_ce0 ]
+[15:46:58.937] TOTAL TIME CREATING 13 IMAPS (SO FAR): 0 hours, 0 min, 0 sec, 9 ms
+
+[15:46:58.939] [15:46:58.939, execution time:0 hours, 0 min, 0 sec, 6 ms] 
+	Finished - Merging (2-sources subsolutions,2-sources subsolutions)
+	Generated 4 intermediate relations
+[15:46:58.940] [15:46:58.940] Started propagating for copy_dl_4_nl0_ce0..match_dl_5_nl0_ce0..past_dl_1_nl0_ce0..treat_dl_3_nl0_ce0 [ UnionOperator ]
+[15:46:58.941] [15:46:58.941, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished propagating for copy_dl_4_nl0_ce0..match_dl_5_nl0_ce0..past_dl_1_nl0_ce0..treat_dl_3_nl0_ce0
+[15:46:58.941] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 10 ms
+[15:46:58.941] [15:46:58.941] Started propagating for brown_adl_2_nl0_ce0..narrow_adl_1_nl0_ce0..round_adl_5_nl0_ce0..sleep_ad_5_nl0_ce0 [ UnionOperator ]
+[15:46:58.941] [15:46:58.941, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished propagating for brown_adl_2_nl0_ce0..narrow_adl_1_nl0_ce0..round_adl_5_nl0_ce0..sleep_ad_5_nl0_ce0
+[15:46:58.941] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 11 ms
+[15:46:58.942] [15:46:58.942] Started propagating for agency_cp_4_nl0_ce0..judge_cp_5_nl0_ce0..kind_cp_3_nl0_ce0..nut_cp_1_nl0_ce0 [ UnionOperator ]
+[15:46:58.942] [15:46:58.942, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished propagating for agency_cp_4_nl0_ce0..judge_cp_5_nl0_ce0..kind_cp_3_nl0_ce0..nut_cp_1_nl0_ce0
+[15:46:58.942] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 11 ms
+[15:46:58.943] [15:46:58.943] Started propagating for found_adl_3_nl0_ce0..gold_ad_4_nl0_ce0..great_ad_1_nl0_ce0..walk_adl_4_nl0_ce0 [ UnionOperator ]
+[15:46:58.943] [15:46:58.943, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished propagating for found_adl_3_nl0_ce0..gold_ad_4_nl0_ce0..great_ad_1_nl0_ce0..walk_adl_4_nl0_ce0
+[15:46:58.943] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 11 ms
+[15:46:58.949] [15:46:58.949, execution time:0 hours, 0 min, 0 sec, 55 ms]  Generate subproblem solutions for 4 relations finished.
+TOTAL mappings for 4 initial sources :8
+[15:46:58.949] [15:46:58.949, execution time:0 hours, 0 min, 0 sec, 55 ms]  - Total running time so far - 
+
+
+[15:46:58.949] [15:46:58.949] 
+	Begin merging: 
+	(1-source subsolutions = 20 intermediate relations,
+	 4-source subsolutions = 4 intermediate relations) pairwise
+[15:46:58.949] [15:46:58.949, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (1-sources subsolutions,4-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.949] [15:46:58.949] 
+	Begin merging: 
+	(2-source subsolutions = 2 intermediate relations,
+	 3-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.949] [15:46:58.949, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (2-sources subsolutions,3-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.949] [15:46:58.949, execution time:0 hours, 0 min, 0 sec, 56 ms]  Generate subproblem solutions for 5 relations finished.
+TOTAL mappings for 5 initial sources :0
+[15:46:58.949] [15:46:58.949, execution time:0 hours, 0 min, 0 sec, 56 ms]  - Total running time so far - 
+
+
+[15:46:58.950] [15:46:58.950] 
+	Begin merging: 
+	(1-source subsolutions = 20 intermediate relations,
+	 5-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.950] [15:46:58.950, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (1-sources subsolutions,5-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.950] [15:46:58.950] 
+	Begin merging: 
+	(2-source subsolutions = 2 intermediate relations,
+	 4-source subsolutions = 4 intermediate relations) pairwise
+[15:46:58.950] [15:46:58.950] Started creating IMap for [charge_ad_3_nl0_ce0..division_ad_2_nl0_ce0 , brown_adl_2_nl0_ce0..narrow_adl_1_nl0_ce0..round_adl_5_nl0_ce0..sleep_ad_5_nl0_ce0 ]
+[15:46:58.950] [15:46:58.950]  Decision tree started running (operator generation started)...
+[15:46:58.950] [15:46:58.950, execution time:0 hours, 0 min, 0 sec, 0 ms]  Decision tree stopped running (operator generated)...
+[15:46:58.950] [15:46:58.950]  IntermediateRelation generation started...
+[15:46:58.950] [15:46:58.950, execution time:0 hours, 0 min, 0 sec, 0 ms]  IntermediateRelation generation stopped..
+[15:46:58.950] [15:46:58.950, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished creating IMap [charge_ad_3_nl0_ce0..division_ad_2_nl0_ce0 , brown_adl_2_nl0_ce0..narrow_adl_1_nl0_ce0..round_adl_5_nl0_ce0..sleep_ad_5_nl0_ce0 ]
+[15:46:58.950] TOTAL TIME CREATING 14 IMAPS (SO FAR): 0 hours, 0 min, 0 sec, 9 ms
+
+[15:46:58.951] [15:46:58.951] Started creating IMap for [chin_cp_2_nl0_ce0..use_dl_2_nl0_ce0 , copy_dl_4_nl0_ce0..match_dl_5_nl0_ce0..past_dl_1_nl0_ce0..treat_dl_3_nl0_ce0 ]
+[15:46:58.951] [15:46:58.951]  Decision tree started running (operator generation started)...
+[15:46:58.951] [15:46:58.951, execution time:0 hours, 0 min, 0 sec, 0 ms]  Decision tree stopped running (operator generated)...
+[15:46:58.951] [15:46:58.951]  IntermediateRelation generation started...
+[15:46:58.951] [15:46:58.951, execution time:0 hours, 0 min, 0 sec, 0 ms]  IntermediateRelation generation stopped..
+[15:46:58.951] [15:46:58.951, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished creating IMap [chin_cp_2_nl0_ce0..use_dl_2_nl0_ce0 , copy_dl_4_nl0_ce0..match_dl_5_nl0_ce0..past_dl_1_nl0_ce0..treat_dl_3_nl0_ce0 ]
+[15:46:58.951] TOTAL TIME CREATING 15 IMAPS (SO FAR): 0 hours, 0 min, 0 sec, 9 ms
+
+[15:46:58.952] [15:46:58.952, execution time:0 hours, 0 min, 0 sec, 1 ms] 
+	Finished - Merging (2-sources subsolutions,4-sources subsolutions)
+	Generated 2 intermediate relations
+[15:46:58.952] [15:46:58.952] 
+	Begin merging: 
+	(3-source subsolutions = 0 intermediate relations,
+	 3-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.952] [15:46:58.952, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (3-sources subsolutions,3-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.952] [15:46:58.952] Started propagating for chin_cp_2_nl0_ce0..copy_dl_4_nl0_ce0..match_dl_5_nl0_ce0..past_dl_1_nl0_ce0..treat_dl_3_nl0_ce0..use_dl_2_nl0_ce0 [ UnionOperator ]
+[15:46:58.952] [15:46:58.952, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished propagating for chin_cp_2_nl0_ce0..copy_dl_4_nl0_ce0..match_dl_5_nl0_ce0..past_dl_1_nl0_ce0..treat_dl_3_nl0_ce0..use_dl_2_nl0_ce0
+[15:46:58.952] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 12 ms
+[15:46:58.952] [15:46:58.952] Started propagating for brown_adl_2_nl0_ce0..charge_ad_3_nl0_ce0..division_ad_2_nl0_ce0..narrow_adl_1_nl0_ce0..round_adl_5_nl0_ce0..sleep_ad_5_nl0_ce0 [ UnionOperator ]
+[15:46:58.953] [15:46:58.953, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished propagating for brown_adl_2_nl0_ce0..charge_ad_3_nl0_ce0..division_ad_2_nl0_ce0..narrow_adl_1_nl0_ce0..round_adl_5_nl0_ce0..sleep_ad_5_nl0_ce0
+[15:46:58.953] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 12 ms
+[15:46:58.954] [15:46:58.954, execution time:0 hours, 0 min, 0 sec, 60 ms]  Generate subproblem solutions for 6 relations finished.
+TOTAL mappings for 6 initial sources :4
+[15:46:58.954] [15:46:58.954, execution time:0 hours, 0 min, 0 sec, 60 ms]  - Total running time so far - 
+
+
+[15:46:58.954] [15:46:58.954] 
+	Begin merging: 
+	(1-source subsolutions = 20 intermediate relations,
+	 6-source subsolutions = 2 intermediate relations) pairwise
+[15:46:58.954] [15:46:58.954, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (1-sources subsolutions,6-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.955] [15:46:58.955] 
+	Begin merging: 
+	(2-source subsolutions = 0 intermediate relations,
+	 5-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.955] [15:46:58.955, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (2-sources subsolutions,5-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.955] [15:46:58.955] 
+	Begin merging: 
+	(3-source subsolutions = 0 intermediate relations,
+	 4-source subsolutions = 2 intermediate relations) pairwise
+[15:46:58.955] [15:46:58.955, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (3-sources subsolutions,4-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.955] [15:46:58.955, execution time:0 hours, 0 min, 0 sec, 61 ms]  Generate subproblem solutions for 7 relations finished.
+TOTAL mappings for 7 initial sources :0
+[15:46:58.955] [15:46:58.955, execution time:0 hours, 0 min, 0 sec, 61 ms]  - Total running time so far - 
+
+
+[15:46:58.955] [15:46:58.955] 
+	Begin merging: 
+	(1-source subsolutions = 20 intermediate relations,
+	 7-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.955] [15:46:58.955, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (1-sources subsolutions,7-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.955] [15:46:58.955] 
+	Begin merging: 
+	(2-source subsolutions = 0 intermediate relations,
+	 6-source subsolutions = 2 intermediate relations) pairwise
+[15:46:58.955] [15:46:58.955, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (2-sources subsolutions,6-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.955] [15:46:58.955] 
+	Begin merging: 
+	(3-source subsolutions = 0 intermediate relations,
+	 5-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.955] [15:46:58.955, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (3-sources subsolutions,5-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.955] [15:46:58.955] 
+	Begin merging: 
+	(4-source subsolutions = 2 intermediate relations,
+	 4-source subsolutions = 2 intermediate relations) pairwise
+[15:46:58.955] [15:46:58.955, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (4-sources subsolutions,4-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.955] [15:46:58.955, execution time:0 hours, 0 min, 0 sec, 61 ms]  Generate subproblem solutions for 8 relations finished.
+TOTAL mappings for 8 initial sources :0
+[15:46:58.955] [15:46:58.955, execution time:0 hours, 0 min, 0 sec, 62 ms]  - Total running time so far - 
+
+
+[15:46:58.955] [15:46:58.955] 
+	Begin merging: 
+	(1-source subsolutions = 20 intermediate relations,
+	 8-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.955] [15:46:58.955, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (1-sources subsolutions,8-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.955] [15:46:58.955] 
+	Begin merging: 
+	(2-source subsolutions = 0 intermediate relations,
+	 7-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.955] [15:46:58.955, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (2-sources subsolutions,7-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.955] [15:46:58.955] 
+	Begin merging: 
+	(3-source subsolutions = 0 intermediate relations,
+	 6-source subsolutions = 2 intermediate relations) pairwise
+[15:46:58.956] [15:46:58.956, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (3-sources subsolutions,6-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.956] [15:46:58.956] 
+	Begin merging: 
+	(4-source subsolutions = 2 intermediate relations,
+	 5-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.956] [15:46:58.956, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (4-sources subsolutions,5-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.956] [15:46:58.956, execution time:0 hours, 0 min, 0 sec, 62 ms]  Generate subproblem solutions for 9 relations finished.
+TOTAL mappings for 9 initial sources :0
+[15:46:58.956] [15:46:58.956, execution time:0 hours, 0 min, 0 sec, 62 ms]  - Total running time so far - 
+
+
+[15:46:58.956] [15:46:58.956] 
+	Begin merging: 
+	(1-source subsolutions = 20 intermediate relations,
+	 9-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.956] [15:46:58.956, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (1-sources subsolutions,9-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.956] [15:46:58.956] 
+	Begin merging: 
+	(2-source subsolutions = 0 intermediate relations,
+	 8-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.956] [15:46:58.956, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (2-sources subsolutions,8-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.956] [15:46:58.956] 
+	Begin merging: 
+	(3-source subsolutions = 0 intermediate relations,
+	 7-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.956] [15:46:58.956, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (3-sources subsolutions,7-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.956] [15:46:58.956] 
+	Begin merging: 
+	(4-source subsolutions = 2 intermediate relations,
+	 6-source subsolutions = 2 intermediate relations) pairwise
+[15:46:58.956] [15:46:58.956] Started creating IMap for [agency_cp_4_nl0_ce0..judge_cp_5_nl0_ce0..kind_cp_3_nl0_ce0..nut_cp_1_nl0_ce0 , chin_cp_2_nl0_ce0..copy_dl_4_nl0_ce0..match_dl_5_nl0_ce0..past_dl_1_nl0_ce0..treat_dl_3_nl0_ce0..use_dl_2_nl0_ce0 ]
+[15:46:58.956] [15:46:58.956]  Decision tree started running (operator generation started)...
+[15:46:58.956] [15:46:58.956, execution time:0 hours, 0 min, 0 sec, 0 ms]  Decision tree stopped running (operator generated)...
+[15:46:58.956] [15:46:58.956]  IntermediateRelation generation started...
+[15:46:58.956] [15:46:58.956, execution time:0 hours, 0 min, 0 sec, 0 ms]  IntermediateRelation generation stopped..
+[15:46:58.956] [15:46:58.956, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished creating IMap [agency_cp_4_nl0_ce0..judge_cp_5_nl0_ce0..kind_cp_3_nl0_ce0..nut_cp_1_nl0_ce0 , chin_cp_2_nl0_ce0..copy_dl_4_nl0_ce0..match_dl_5_nl0_ce0..past_dl_1_nl0_ce0..treat_dl_3_nl0_ce0..use_dl_2_nl0_ce0 ]
+[15:46:58.956] TOTAL TIME CREATING 16 IMAPS (SO FAR): 0 hours, 0 min, 0 sec, 10 ms
+
+[15:46:58.957] [15:46:58.957] Started creating IMap for [found_adl_3_nl0_ce0..gold_ad_4_nl0_ce0..great_ad_1_nl0_ce0..walk_adl_4_nl0_ce0 , brown_adl_2_nl0_ce0..charge_ad_3_nl0_ce0..division_ad_2_nl0_ce0..narrow_adl_1_nl0_ce0..round_adl_5_nl0_ce0..sleep_ad_5_nl0_ce0 ]
+[15:46:58.957] [15:46:58.957]  Decision tree started running (operator generation started)...
+[15:46:58.957] [15:46:58.957, execution time:0 hours, 0 min, 0 sec, 0 ms]  Decision tree stopped running (operator generated)...
+[15:46:58.957] [15:46:58.957]  IntermediateRelation generation started...
+[15:46:58.957] [15:46:58.957, execution time:0 hours, 0 min, 0 sec, 0 ms]  IntermediateRelation generation stopped..
+[15:46:58.957] [15:46:58.957, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished creating IMap [found_adl_3_nl0_ce0..gold_ad_4_nl0_ce0..great_ad_1_nl0_ce0..walk_adl_4_nl0_ce0 , brown_adl_2_nl0_ce0..charge_ad_3_nl0_ce0..division_ad_2_nl0_ce0..narrow_adl_1_nl0_ce0..round_adl_5_nl0_ce0..sleep_ad_5_nl0_ce0 ]
+[15:46:58.957] TOTAL TIME CREATING 17 IMAPS (SO FAR): 0 hours, 0 min, 0 sec, 10 ms
+
+[15:46:58.958] [15:46:58.958, execution time:0 hours, 0 min, 0 sec, 1 ms] 
+	Finished - Merging (4-sources subsolutions,6-sources subsolutions)
+	Generated 2 intermediate relations
+[15:46:58.958] [15:46:58.958] 
+	Begin merging: 
+	(5-source subsolutions = 0 intermediate relations,
+	 5-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.958] [15:46:58.958, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (5-sources subsolutions,5-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.958] [15:46:58.958] Started propagating for agency_cp_4_nl0_ce0..chin_cp_2_nl0_ce0..copy_dl_4_nl0_ce0..judge_cp_5_nl0_ce0..kind_cp_3_nl0_ce0..match_dl_5_nl0_ce0..nut_cp_1_nl0_ce0..past_dl_1_nl0_ce0..treat_dl_3_nl0_ce0..use_dl_2_nl0_ce0 [ UnionOperator ]
+[15:46:58.958] [15:46:58.958, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished propagating for agency_cp_4_nl0_ce0..chin_cp_2_nl0_ce0..copy_dl_4_nl0_ce0..judge_cp_5_nl0_ce0..kind_cp_3_nl0_ce0..match_dl_5_nl0_ce0..nut_cp_1_nl0_ce0..past_dl_1_nl0_ce0..treat_dl_3_nl0_ce0..use_dl_2_nl0_ce0
+[15:46:58.958] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 12 ms
+[15:46:58.959] [15:46:58.959] Started propagating for brown_adl_2_nl0_ce0..charge_ad_3_nl0_ce0..division_ad_2_nl0_ce0..found_adl_3_nl0_ce0..gold_ad_4_nl0_ce0..great_ad_1_nl0_ce0..narrow_adl_1_nl0_ce0..round_adl_5_nl0_ce0..sleep_ad_5_nl0_ce0..walk_adl_4_nl0_ce0 [ UnionOperator ]
+[15:46:58.959] [15:46:58.959, execution time:0 hours, 0 min, 0 sec, 0 ms] Finished propagating for brown_adl_2_nl0_ce0..charge_ad_3_nl0_ce0..division_ad_2_nl0_ce0..found_adl_3_nl0_ce0..gold_ad_4_nl0_ce0..great_ad_1_nl0_ce0..narrow_adl_1_nl0_ce0..round_adl_5_nl0_ce0..sleep_ad_5_nl0_ce0..walk_adl_4_nl0_ce0
+[15:46:58.959] TOTAL TIME PROPAGATING PROFILE DATA (SO FAR): 0 hours, 0 min, 0 sec, 12 ms
+[15:46:58.960] [15:46:58.960, execution time:0 hours, 0 min, 0 sec, 66 ms]  Generate subproblem solutions for 10 relations finished.
+TOTAL mappings for 10 initial sources :4
+[15:46:58.960] [15:46:58.960, execution time:0 hours, 0 min, 0 sec, 66 ms]  - Total running time so far - 
+
+
+[15:46:58.960] [15:46:58.960] 
+	Begin merging: 
+	(1-source subsolutions = 20 intermediate relations,
+	 10-source subsolutions = 2 intermediate relations) pairwise
+[15:46:58.960] [15:46:58.960, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (1-sources subsolutions,10-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.960] [15:46:58.960] 
+	Begin merging: 
+	(2-source subsolutions = 0 intermediate relations,
+	 9-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.960] [15:46:58.960, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (2-sources subsolutions,9-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.960] [15:46:58.960] 
+	Begin merging: 
+	(3-source subsolutions = 0 intermediate relations,
+	 8-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.960] [15:46:58.960, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (3-sources subsolutions,8-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.960] [15:46:58.960] 
+	Begin merging: 
+	(4-source subsolutions = 2 intermediate relations,
+	 7-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.960] [15:46:58.960, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (4-sources subsolutions,7-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.960] [15:46:58.960] 
+	Begin merging: 
+	(5-source subsolutions = 0 intermediate relations,
+	 6-source subsolutions = 2 intermediate relations) pairwise
+[15:46:58.960] [15:46:58.960, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (5-sources subsolutions,6-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.960] [15:46:58.960, execution time:0 hours, 0 min, 0 sec, 66 ms]  Generate subproblem solutions for 11 relations finished.
+TOTAL mappings for 11 initial sources :0
+[15:46:58.960] [15:46:58.960, execution time:0 hours, 0 min, 0 sec, 67 ms]  - Total running time so far - 
+
+
+[15:46:58.960] [15:46:58.960] 
+	Begin merging: 
+	(1-source subsolutions = 20 intermediate relations,
+	 11-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.960] [15:46:58.960, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (1-sources subsolutions,11-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.960] [15:46:58.960] 
+	Begin merging: 
+	(2-source subsolutions = 0 intermediate relations,
+	 10-source subsolutions = 2 intermediate relations) pairwise
+[15:46:58.960] [15:46:58.960, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (2-sources subsolutions,10-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.960] [15:46:58.960] 
+	Begin merging: 
+	(3-source subsolutions = 0 intermediate relations,
+	 9-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.960] [15:46:58.960, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (3-sources subsolutions,9-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.960] [15:46:58.960] 
+	Begin merging: 
+	(4-source subsolutions = 2 intermediate relations,
+	 8-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.960] [15:46:58.960, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (4-sources subsolutions,8-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.960] [15:46:58.960] 
+	Begin merging: 
+	(5-source subsolutions = 0 intermediate relations,
+	 7-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.961] [15:46:58.960, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (5-sources subsolutions,7-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.961] [15:46:58.961] 
+	Begin merging: 
+	(6-source subsolutions = 2 intermediate relations,
+	 6-source subsolutions = 2 intermediate relations) pairwise
+[15:46:58.961] [15:46:58.961, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (6-sources subsolutions,6-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.961] [15:46:58.961, execution time:0 hours, 0 min, 0 sec, 67 ms]  Generate subproblem solutions for 12 relations finished.
+TOTAL mappings for 12 initial sources :0
+[15:46:58.961] [15:46:58.961, execution time:0 hours, 0 min, 0 sec, 67 ms]  - Total running time so far - 
+
+
+[15:46:58.961] [15:46:58.961] 
+	Begin merging: 
+	(1-source subsolutions = 20 intermediate relations,
+	 12-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.961] [15:46:58.961, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (1-sources subsolutions,12-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.961] [15:46:58.961] 
+	Begin merging: 
+	(2-source subsolutions = 0 intermediate relations,
+	 11-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.961] [15:46:58.961, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (2-sources subsolutions,11-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.961] [15:46:58.961] 
+	Begin merging: 
+	(3-source subsolutions = 0 intermediate relations,
+	 10-source subsolutions = 2 intermediate relations) pairwise
+[15:46:58.961] [15:46:58.961, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (3-sources subsolutions,10-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.961] [15:46:58.961] 
+	Begin merging: 
+	(4-source subsolutions = 2 intermediate relations,
+	 9-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.961] [15:46:58.961, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (4-sources subsolutions,9-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.961] [15:46:58.961] 
+	Begin merging: 
+	(5-source subsolutions = 0 intermediate relations,
+	 8-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.961] [15:46:58.961, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (5-sources subsolutions,8-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.961] [15:46:58.961] 
+	Begin merging: 
+	(6-source subsolutions = 2 intermediate relations,
+	 7-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.961] [15:46:58.961, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (6-sources subsolutions,7-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.961] [15:46:58.961, execution time:0 hours, 0 min, 0 sec, 67 ms]  Generate subproblem solutions for 13 relations finished.
+TOTAL mappings for 13 initial sources :0
+[15:46:58.961] [15:46:58.961, execution time:0 hours, 0 min, 0 sec, 67 ms]  - Total running time so far - 
+
+
+[15:46:58.961] [15:46:58.961] 
+	Begin merging: 
+	(1-source subsolutions = 20 intermediate relations,
+	 13-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.961] [15:46:58.961, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (1-sources subsolutions,13-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.961] [15:46:58.961] 
+	Begin merging: 
+	(2-source subsolutions = 0 intermediate relations,
+	 12-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.961] [15:46:58.961, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (2-sources subsolutions,12-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.961] [15:46:58.961] 
+	Begin merging: 
+	(3-source subsolutions = 0 intermediate relations,
+	 11-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.961] [15:46:58.961, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (3-sources subsolutions,11-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.961] [15:46:58.961] 
+	Begin merging: 
+	(4-source subsolutions = 2 intermediate relations,
+	 10-source subsolutions = 2 intermediate relations) pairwise
+[15:46:58.961] [15:46:58.961, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (4-sources subsolutions,10-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.961] [15:46:58.961] 
+	Begin merging: 
+	(5-source subsolutions = 0 intermediate relations,
+	 9-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.961] [15:46:58.961, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (5-sources subsolutions,9-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.961] [15:46:58.961] 
+	Begin merging: 
+	(6-source subsolutions = 2 intermediate relations,
+	 8-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.961] [15:46:58.961, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (6-sources subsolutions,8-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.961] [15:46:58.961] 
+	Begin merging: 
+	(7-source subsolutions = 0 intermediate relations,
+	 7-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.961] [15:46:58.961, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (7-sources subsolutions,7-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.961] [15:46:58.961, execution time:0 hours, 0 min, 0 sec, 68 ms]  Generate subproblem solutions for 14 relations finished.
+TOTAL mappings for 14 initial sources :0
+[15:46:58.962] [15:46:58.962, execution time:0 hours, 0 min, 0 sec, 68 ms]  - Total running time so far - 
+
+
+[15:46:58.962] [15:46:58.962] 
+	Begin merging: 
+	(1-source subsolutions = 20 intermediate relations,
+	 14-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.962] [15:46:58.962, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (1-sources subsolutions,14-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.962] [15:46:58.962] 
+	Begin merging: 
+	(2-source subsolutions = 0 intermediate relations,
+	 13-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.962] [15:46:58.962, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (2-sources subsolutions,13-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.962] [15:46:58.962] 
+	Begin merging: 
+	(3-source subsolutions = 0 intermediate relations,
+	 12-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.962] [15:46:58.962, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (3-sources subsolutions,12-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.962] [15:46:58.962] 
+	Begin merging: 
+	(4-source subsolutions = 2 intermediate relations,
+	 11-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.962] [15:46:58.962, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (4-sources subsolutions,11-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.962] [15:46:58.962] 
+	Begin merging: 
+	(5-source subsolutions = 0 intermediate relations,
+	 10-source subsolutions = 2 intermediate relations) pairwise
+[15:46:58.962] [15:46:58.962, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (5-sources subsolutions,10-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.962] [15:46:58.962] 
+	Begin merging: 
+	(6-source subsolutions = 2 intermediate relations,
+	 9-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.962] [15:46:58.962, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (6-sources subsolutions,9-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.962] [15:46:58.962] 
+	Begin merging: 
+	(7-source subsolutions = 0 intermediate relations,
+	 8-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.962] [15:46:58.962, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (7-sources subsolutions,8-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.962] [15:46:58.962, execution time:0 hours, 0 min, 0 sec, 68 ms]  Generate subproblem solutions for 15 relations finished.
+TOTAL mappings for 15 initial sources :0
+[15:46:58.962] [15:46:58.962, execution time:0 hours, 0 min, 0 sec, 68 ms]  - Total running time so far - 
+
+
+[15:46:58.962] [15:46:58.962] 
+	Begin merging: 
+	(1-source subsolutions = 20 intermediate relations,
+	 15-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.962] [15:46:58.962, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (1-sources subsolutions,15-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.962] [15:46:58.962] 
+	Begin merging: 
+	(2-source subsolutions = 0 intermediate relations,
+	 14-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.962] [15:46:58.962, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (2-sources subsolutions,14-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.962] [15:46:58.962] 
+	Begin merging: 
+	(3-source subsolutions = 0 intermediate relations,
+	 13-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.962] [15:46:58.962, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (3-sources subsolutions,13-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.962] [15:46:58.962] 
+	Begin merging: 
+	(4-source subsolutions = 2 intermediate relations,
+	 12-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.962] [15:46:58.962, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (4-sources subsolutions,12-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.962] [15:46:58.962] 
+	Begin merging: 
+	(5-source subsolutions = 0 intermediate relations,
+	 11-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.962] [15:46:58.962, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (5-sources subsolutions,11-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.962] [15:46:58.962] 
+	Begin merging: 
+	(6-source subsolutions = 2 intermediate relations,
+	 10-source subsolutions = 2 intermediate relations) pairwise
+[15:46:58.963] [15:46:58.963, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (6-sources subsolutions,10-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.963] [15:46:58.963] 
+	Begin merging: 
+	(7-source subsolutions = 0 intermediate relations,
+	 9-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.963] [15:46:58.963, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (7-sources subsolutions,9-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.963] [15:46:58.963] 
+	Begin merging: 
+	(8-source subsolutions = 0 intermediate relations,
+	 8-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.963] [15:46:58.963, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (8-sources subsolutions,8-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.963] [15:46:58.963, execution time:0 hours, 0 min, 0 sec, 69 ms]  Generate subproblem solutions for 16 relations finished.
+TOTAL mappings for 16 initial sources :0
+[15:46:58.963] [15:46:58.963, execution time:0 hours, 0 min, 0 sec, 70 ms]  - Total running time so far - 
+
+
+[15:46:58.963] [15:46:58.963] 
+	Begin merging: 
+	(1-source subsolutions = 20 intermediate relations,
+	 16-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.964] [15:46:58.964, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (1-sources subsolutions,16-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.964] [15:46:58.964] 
+	Begin merging: 
+	(2-source subsolutions = 0 intermediate relations,
+	 15-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.964] [15:46:58.964, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (2-sources subsolutions,15-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.964] [15:46:58.964] 
+	Begin merging: 
+	(3-source subsolutions = 0 intermediate relations,
+	 14-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.964] [15:46:58.964, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (3-sources subsolutions,14-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.964] [15:46:58.964] 
+	Begin merging: 
+	(4-source subsolutions = 2 intermediate relations,
+	 13-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.964] [15:46:58.964, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (4-sources subsolutions,13-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.964] [15:46:58.964] 
+	Begin merging: 
+	(5-source subsolutions = 0 intermediate relations,
+	 12-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.964] [15:46:58.964, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (5-sources subsolutions,12-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.964] [15:46:58.964] 
+	Begin merging: 
+	(6-source subsolutions = 2 intermediate relations,
+	 11-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.964] [15:46:58.964, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (6-sources subsolutions,11-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.964] [15:46:58.964] 
+	Begin merging: 
+	(7-source subsolutions = 0 intermediate relations,
+	 10-source subsolutions = 2 intermediate relations) pairwise
+[15:46:58.964] [15:46:58.964, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (7-sources subsolutions,10-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.964] [15:46:58.964] 
+	Begin merging: 
+	(8-source subsolutions = 0 intermediate relations,
+	 9-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.964] [15:46:58.964, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (8-sources subsolutions,9-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.964] [15:46:58.964, execution time:0 hours, 0 min, 0 sec, 70 ms]  Generate subproblem solutions for 17 relations finished.
+TOTAL mappings for 17 initial sources :0
+[15:46:58.964] [15:46:58.964, execution time:0 hours, 0 min, 0 sec, 71 ms]  - Total running time so far - 
+
+
+[15:46:58.964] [15:46:58.964] 
+	Begin merging: 
+	(1-source subsolutions = 20 intermediate relations,
+	 17-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.964] [15:46:58.964, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (1-sources subsolutions,17-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.964] [15:46:58.964] 
+	Begin merging: 
+	(2-source subsolutions = 0 intermediate relations,
+	 16-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.964] [15:46:58.964, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (2-sources subsolutions,16-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.964] [15:46:58.964] 
+	Begin merging: 
+	(3-source subsolutions = 0 intermediate relations,
+	 15-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.964] [15:46:58.964, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (3-sources subsolutions,15-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.964] [15:46:58.964] 
+	Begin merging: 
+	(4-source subsolutions = 2 intermediate relations,
+	 14-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.965] [15:46:58.964, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (4-sources subsolutions,14-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.965] [15:46:58.965] 
+	Begin merging: 
+	(5-source subsolutions = 0 intermediate relations,
+	 13-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.965] [15:46:58.965, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (5-sources subsolutions,13-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.965] [15:46:58.965] 
+	Begin merging: 
+	(6-source subsolutions = 2 intermediate relations,
+	 12-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.965] [15:46:58.965, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (6-sources subsolutions,12-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.965] [15:46:58.965] 
+	Begin merging: 
+	(7-source subsolutions = 0 intermediate relations,
+	 11-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.965] [15:46:58.965, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (7-sources subsolutions,11-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.965] [15:46:58.965] 
+	Begin merging: 
+	(8-source subsolutions = 0 intermediate relations,
+	 10-source subsolutions = 2 intermediate relations) pairwise
+[15:46:58.965] [15:46:58.965, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (8-sources subsolutions,10-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.965] [15:46:58.965] 
+	Begin merging: 
+	(9-source subsolutions = 0 intermediate relations,
+	 9-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.965] [15:46:58.965, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (9-sources subsolutions,9-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.965] [15:46:58.965, execution time:0 hours, 0 min, 0 sec, 71 ms]  Generate subproblem solutions for 18 relations finished.
+TOTAL mappings for 18 initial sources :0
+[15:46:58.965] [15:46:58.965, execution time:0 hours, 0 min, 0 sec, 71 ms]  - Total running time so far - 
+
+
+[15:46:58.965] [15:46:58.965] 
+	Begin merging: 
+	(1-source subsolutions = 20 intermediate relations,
+	 18-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.965] [15:46:58.965, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (1-sources subsolutions,18-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.965] [15:46:58.965] 
+	Begin merging: 
+	(2-source subsolutions = 0 intermediate relations,
+	 17-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.965] [15:46:58.965, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (2-sources subsolutions,17-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.965] [15:46:58.965] 
+	Begin merging: 
+	(3-source subsolutions = 0 intermediate relations,
+	 16-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.965] [15:46:58.965, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (3-sources subsolutions,16-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.965] [15:46:58.965] 
+	Begin merging: 
+	(4-source subsolutions = 2 intermediate relations,
+	 15-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.965] [15:46:58.965, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (4-sources subsolutions,15-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.965] [15:46:58.965] 
+	Begin merging: 
+	(5-source subsolutions = 0 intermediate relations,
+	 14-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.965] [15:46:58.965, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (5-sources subsolutions,14-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.965] [15:46:58.965] 
+	Begin merging: 
+	(6-source subsolutions = 2 intermediate relations,
+	 13-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.965] [15:46:58.965, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (6-sources subsolutions,13-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.965] [15:46:58.965] 
+	Begin merging: 
+	(7-source subsolutions = 0 intermediate relations,
+	 12-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.965] [15:46:58.965, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (7-sources subsolutions,12-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.965] [15:46:58.965] 
+	Begin merging: 
+	(8-source subsolutions = 0 intermediate relations,
+	 11-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.965] [15:46:58.965, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (8-sources subsolutions,11-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.965] [15:46:58.965] 
+	Begin merging: 
+	(9-source subsolutions = 0 intermediate relations,
+	 10-source subsolutions = 2 intermediate relations) pairwise
+[15:46:58.965] [15:46:58.965, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (9-sources subsolutions,10-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.965] [15:46:58.965, execution time:0 hours, 0 min, 0 sec, 71 ms]  Generate subproblem solutions for 19 relations finished.
+TOTAL mappings for 19 initial sources :0
+[15:46:58.965] [15:46:58.965, execution time:0 hours, 0 min, 0 sec, 72 ms]  - Total running time so far - 
+
+
+[15:46:58.965] [15:46:58.965] 
+	Begin merging: 
+	(1-source subsolutions = 20 intermediate relations,
+	 19-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.965] [15:46:58.965, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (1-sources subsolutions,19-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.965] [15:46:58.965] 
+	Begin merging: 
+	(2-source subsolutions = 0 intermediate relations,
+	 18-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.965] [15:46:58.965, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (2-sources subsolutions,18-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.965] [15:46:58.965] 
+	Begin merging: 
+	(3-source subsolutions = 0 intermediate relations,
+	 17-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.965] [15:46:58.965, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (3-sources subsolutions,17-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.965] [15:46:58.965] 
+	Begin merging: 
+	(4-source subsolutions = 2 intermediate relations,
+	 16-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.965] [15:46:58.965, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (4-sources subsolutions,16-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.965] [15:46:58.965] 
+	Begin merging: 
+	(5-source subsolutions = 0 intermediate relations,
+	 15-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.965] [15:46:58.965, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (5-sources subsolutions,15-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.966] [15:46:58.966] 
+	Begin merging: 
+	(6-source subsolutions = 2 intermediate relations,
+	 14-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.966] [15:46:58.966, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (6-sources subsolutions,14-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.966] [15:46:58.966] 
+	Begin merging: 
+	(7-source subsolutions = 0 intermediate relations,
+	 13-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.966] [15:46:58.966, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (7-sources subsolutions,13-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.966] [15:46:58.966] 
+	Begin merging: 
+	(8-source subsolutions = 0 intermediate relations,
+	 12-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.966] [15:46:58.966, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (8-sources subsolutions,12-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.966] [15:46:58.966] 
+	Begin merging: 
+	(9-source subsolutions = 0 intermediate relations,
+	 11-source subsolutions = 0 intermediate relations) pairwise
+[15:46:58.966] [15:46:58.966, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (9-sources subsolutions,11-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.966] [15:46:58.966] 
+	Begin merging: 
+	(10-source subsolutions = 2 intermediate relations,
+	 10-source subsolutions = 2 intermediate relations) pairwise
+[15:46:58.966] [15:46:58.966, execution time:0 hours, 0 min, 0 sec, 0 ms] 
+	Finished - Merging (10-sources subsolutions,10-sources subsolutions)
+	Generated 0 intermediate relations
+[15:46:58.966] [15:46:58.966, execution time:0 hours, 0 min, 0 sec, 72 ms]  Generate subproblem solutions for 20 relations finished.
+TOTAL mappings for 20 initial sources :0
+[15:46:58.966] [15:46:58.966, execution time:0 hours, 0 min, 0 sec, 72 ms]  - Total running time so far - 
+
+
+[15:46:58.966] [15:46:58.966, execution time:0 hours, 0 min, 0 sec, 72 ms] Stopped dynamic programming
+[15:46:58.966] 
+Total execution time = 0 hours, 0 min, 0 sec, 128 ms
+[15:46:58.966] 
+Total time merging = 0 hours, 0 min, 0 sec, 115 ms
+[15:46:58.966] 
+Total time propagating = 0 hours, 0 min, 0 sec, 12 ms
+[15:46:58.973] [15:46:58.973, execution time:0 hours, 0 min, 0 sec, 136 ms]  Finished! Check the output folder for the results...
+[15:46:58.974] -- end of file --

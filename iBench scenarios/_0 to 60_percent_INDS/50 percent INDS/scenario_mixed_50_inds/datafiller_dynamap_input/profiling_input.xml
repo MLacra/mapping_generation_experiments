@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile-data>
+	<keyCandidates>
+		<attribute schema = "mixed_50_inds_s_cp_ad__src" relation = "great_ad_1_nl0_ce0" name = "board_ad_1_nl0_ae0ke0"/>
+		<attribute schema = "mixed_50_inds_s_cp_ad__src" relation = "past_dl_1_nl0_ce0" name = "wheel_dl_1_nl0_ae0ke0"/>
+		<attribute schema = "mixed_50_inds_s_cp_ad__src" relation = "nut_cp_1_nl0_ce0" name = "art_cp_1_nl0_ae0ke0"/>
+		<attribute schema = "mixed_50_inds_s_cp_ad__src" relation = "death_ma_4_nl0_ce0" name = "amount_ma_4_nl0_ae0comp1_joinref_0"/>
+		<attribute schema = "mixed_50_inds_s_cp_ad__src" relation = "narrow_adl_1_nl0_ce0" name = "rest_adl_1_nl0_ae0ke0"/>
+		<attribute schema = "mixed_50_inds_s_cp_ad__src" relation = "mixed_ma_1_nl0_ce0" name = "chin_ma_1_nl0_ae0comp1_joinref_0"/>
+		<attribute schema = "mixed_50_inds_s_cp_ad__src" relation = "branch_ma_1_nl0_ce1" name = "chin_ma_1_nl0_ae0comp1_joinattr_0"/>
+		<attribute schema = "mixed_50_inds_s_cp_ad__src" relation = "blow_cp_2_nl0_ce0" name = "division_cp_2_nl0_ae0ke0"/>
+		<attribute schema = "mixed_50_inds_s_cp_ad__src" relation = "use_ad_2_nl0_ce0" name = "paint_ad_2_nl0_ae0ke0"/>
+		<attribute schema = "mixed_50_inds_s_cp_ad__src" relation = "egg_ma_3_nl0_ce1" name = "pencil_ma_3_nl0_ae0comp1_joinattr_0"/>
+		<attribute schema = "mixed_50_inds_s_cp_ad__src" relation = "effect_adl_2_nl0_ce0" name = "slow_adl_2_nl0_ae0ke0"/>
+		<attribute schema = "mixed_50_inds_s_cp_ad__src" relation = "grip_ma_3_nl0_ce0" name = "pencil_ma_3_nl0_ae0comp1_joinref_0"/>
+		<attribute schema = "mixed_50_inds_s_cp_ad__src" relation = "make_ma_5_nl0_ce0" name = "accept_ma_5_nl0_ae0comp1_joinref_0"/>
+		<attribute schema = "mixed_50_inds_s_cp_ad__src" relation = "bath_ma_5_nl0_ce1" name = "accept_ma_5_nl0_ae0comp1_joinattr_0"/>
+		<attribute schema = "mixed_50_inds_s_cp_ad__src" relation = "collection_dl_2_nl0_ce0" name = "handle_dl_2_nl0_ae0ke0"/>
+		<attribute schema = "mixed_50_inds_s_cp_ad__src" relation = "charge_ma_2_nl0_ce0" name = "door_ma_2_nl0_ae0comp1_joinref_0"/>
+		<attribute schema = "mixed_50_inds_s_cp_ad__src" relation = "bent_ma_2_nl0_ce1" name = "door_ma_2_nl0_ae0comp1_joinattr_0"/>
+		<attribute schema = "mixed_50_inds_s_cp_ad__src" relation = "leather_ma_4_nl0_ce1" name = "amount_ma_4_nl0_ae0comp1_joinattr_0"/>
+		<attribute schema = "mixed_50_inds_s_cp_ad__src" relation = "crush_ad_3_nl0_ce0" name = "treat_ad_3_nl0_ae0ke0"/>
+		<attribute schema = "mixed_50_inds_s_cp_ad__src" relation = "start_adl_3_nl0_ce0" name = "fruit_adl_3_nl0_ae0ke0"/>
+	</keyCandidates>
+	<inclusion-dependencies>
+		<inclusion-dependency>
+			<is-included distinct_values = "498">
+				<attribute schema = "mixed_50_inds_s_cp_ad__src" relation = "charge_ma_2_nl0_ce0" name = "door_ma_2_nl0_ae0comp1_joinref_0"/>
+			</is-included>
+			<includes>
+				<attribute schema = "mixed_50_inds_s_cp_ad__src" relation ="bent_ma_2_nl0_ce1" name = "door_ma_2_nl0_ae0comp1_joinattr_0"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "513">
+				<attribute schema = "mixed_50_inds_s_cp_ad__src" relation = "make_ma_5_nl0_ce0" name = "accept_ma_5_nl0_ae0comp1_joinref_0"/>
+			</is-included>
+			<includes>
+				<attribute schema = "mixed_50_inds_s_cp_ad__src" relation ="bath_ma_5_nl0_ce1" name = "accept_ma_5_nl0_ae0comp1_joinattr_0"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "513">
+				<attribute schema = "mixed_50_inds_s_cp_ad__src" relation = "leather_ma_4_nl0_ce1" name = "amount_ma_4_nl0_ae0comp1_joinattr_0"/>
+			</is-included>
+			<includes>
+				<attribute schema = "mixed_50_inds_s_cp_ad__src" relation ="death_ma_4_nl0_ce0" name = "amount_ma_4_nl0_ae0comp1_joinref_0"/>
+			</includes>
+			<coeficient value = "0.8908382066276803"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "543">
+				<attribute schema = "mixed_50_inds_s_cp_ad__src" relation = "egg_ma_3_nl0_ce1" name = "pencil_ma_3_nl0_ae0comp1_joinattr_0"/>
+			</is-included>
+			<includes>
+				<attribute schema = "mixed_50_inds_s_cp_ad__src" relation ="grip_ma_3_nl0_ce0" name = "pencil_ma_3_nl0_ae0comp1_joinref_0"/>
+			</includes>
+			<coeficient value = "0.9244935543278084"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "516">
+				<attribute schema = "mixed_50_inds_s_cp_ad__src" relation = "mixed_ma_1_nl0_ce0" name = "chin_ma_1_nl0_ae0comp1_joinref_0"/>
+			</is-included>
+			<includes>
+				<attribute schema = "mixed_50_inds_s_cp_ad__src" relation ="branch_ma_1_nl0_ce1" name = "chin_ma_1_nl0_ae0comp1_joinattr_0"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "532">
+				<attribute schema = "mixed_50_inds_s_cp_ad__src" relation = "branch_ma_1_nl0_ce1" name = "chin_ma_1_nl0_ae0comp1_joinattr_0"/>
+			</is-included>
+			<includes>
+				<attribute schema = "mixed_50_inds_s_cp_ad__src" relation ="mixed_ma_1_nl0_ce0" name = "chin_ma_1_nl0_ae0comp1_joinref_0"/>
+			</includes>
+			<coeficient value = "0.9699248120300752"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "502">
+				<attribute schema = "mixed_50_inds_s_cp_ad__src" relation = "grip_ma_3_nl0_ce0" name = "pencil_ma_3_nl0_ae0comp1_joinref_0"/>
+			</is-included>
+			<includes>
+				<attribute schema = "mixed_50_inds_s_cp_ad__src" relation ="egg_ma_3_nl0_ce1" name = "pencil_ma_3_nl0_ae0comp1_joinattr_0"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "543">
+				<attribute schema = "mixed_50_inds_s_cp_ad__src" relation = "bath_ma_5_nl0_ce1" name = "accept_ma_5_nl0_ae0comp1_joinattr_0"/>
+			</is-included>
+			<includes>
+				<attribute schema = "mixed_50_inds_s_cp_ad__src" relation ="make_ma_5_nl0_ce0" name = "accept_ma_5_nl0_ae0comp1_joinref_0"/>
+			</includes>
+			<coeficient value = "0.9447513812154696"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "457">
+				<attribute schema = "mixed_50_inds_s_cp_ad__src" relation = "death_ma_4_nl0_ce0" name = "amount_ma_4_nl0_ae0comp1_joinref_0"/>
+			</is-included>
+			<includes>
+				<attribute schema = "mixed_50_inds_s_cp_ad__src" relation ="leather_ma_4_nl0_ce1" name = "amount_ma_4_nl0_ae0comp1_joinattr_0"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "507">
+				<attribute schema = "mixed_50_inds_s_cp_ad__src" relation = "bent_ma_2_nl0_ce1" name = "door_ma_2_nl0_ae0comp1_joinattr_0"/>
+			</is-included>
+			<includes>
+				<attribute schema = "mixed_50_inds_s_cp_ad__src" relation ="charge_ma_2_nl0_ce0" name = "door_ma_2_nl0_ae0comp1_joinref_0"/>
+			</includes>
+			<coeficient value = "0.9822485207100592"></coeficient>
+		</inclusion-dependency>
+	</inclusion-dependencies></profile-data>

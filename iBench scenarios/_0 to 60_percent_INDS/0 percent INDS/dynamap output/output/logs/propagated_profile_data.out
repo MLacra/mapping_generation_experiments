@@ -1,0 +1,838 @@
+[15:46:56.921] 
+No size estimations were given in the profile data file...reading them from data sources...
+[15:46:56.921] Reading cardinalities for relations in mixed_0_inds_s_cp_ad__src
+[15:46:56.931] |mixed_0_inds_s_cp_ad__src.nut_cp_1_nl0_ce0|=596
+[15:46:56.934] |mixed_0_inds_s_cp_ad__src.gold_ad_4_nl0_ce0|=493
+[15:46:56.937] |mixed_0_inds_s_cp_ad__src.great_ad_1_nl0_ce0|=560
+[15:46:56.940] |mixed_0_inds_s_cp_ad__src.past_dl_1_nl0_ce0|=578
+[15:46:56.942] |mixed_0_inds_s_cp_ad__src.copy_dl_4_nl0_ce0|=572
+[15:46:56.946] |mixed_0_inds_s_cp_ad__src.narrow_adl_1_nl0_ce0|=509
+[15:46:56.947] |mixed_0_inds_s_cp_ad__src.walk_adl_4_nl0_ce0|=516
+[15:46:56.950] |mixed_0_inds_s_cp_ad__src.judge_cp_5_nl0_ce0|=552
+[15:46:56.953] |mixed_0_inds_s_cp_ad__src.chin_cp_2_nl0_ce0|=433
+[15:46:56.954] |mixed_0_inds_s_cp_ad__src.sleep_ad_5_nl0_ce0|=417
+[15:46:56.957] |mixed_0_inds_s_cp_ad__src.division_ad_2_nl0_ce0|=419
+[15:46:56.959] |mixed_0_inds_s_cp_ad__src.match_dl_5_nl0_ce0|=538
+[15:46:56.962] |mixed_0_inds_s_cp_ad__src.use_dl_2_nl0_ce0|=505
+[15:46:56.965] |mixed_0_inds_s_cp_ad__src.round_adl_5_nl0_ce0|=470
+[15:46:56.968] |mixed_0_inds_s_cp_ad__src.brown_adl_2_nl0_ce0|=487
+[15:46:56.971] |mixed_0_inds_s_cp_ad__src.kind_cp_3_nl0_ce0|=529
+[15:46:56.974] |mixed_0_inds_s_cp_ad__src.charge_ad_3_nl0_ce0|=475
+[15:46:56.977] |mixed_0_inds_s_cp_ad__src.treat_dl_3_nl0_ce0|=475
+[15:46:56.978] |mixed_0_inds_s_cp_ad__src.found_adl_3_nl0_ce0|=524
+[15:46:56.980] |mixed_0_inds_s_cp_ad__src.agency_cp_4_nl0_ce0|=492
+[15:46:56.981] 
+No null estimations were given in the profile data file...reading them from data sources...
+[15:46:56.981] Reading number of nulls for relations in mixed_0_inds_s_cp_ad__src
+[15:46:56.989] nulls(mixed_0_inds_s_cp_ad__src.nut_cp_1_nl0_ce0.slope_cp_1_nl0_ae1)=0
+[15:46:56.990] nulls(mixed_0_inds_s_cp_ad__src.nut_cp_1_nl0_ce0.society_cp_1_nl0_ae5)=0
+[15:46:56.991] nulls(mixed_0_inds_s_cp_ad__src.nut_cp_1_nl0_ce0.branch_cp_1_nl0_ae7)=0
+[15:46:56.991] nulls(mixed_0_inds_s_cp_ad__src.nut_cp_1_nl0_ce0.cheese_cp_1_nl0_ae4)=0
+[15:46:56.992] nulls(mixed_0_inds_s_cp_ad__src.nut_cp_1_nl0_ce0.touch_cp_1_nl0_ae3)=0
+[15:46:56.992] nulls(mixed_0_inds_s_cp_ad__src.nut_cp_1_nl0_ce0.measure_cp_1_nl0_ae2)=0
+[15:46:56.993] nulls(mixed_0_inds_s_cp_ad__src.nut_cp_1_nl0_ce0.demand_cp_1_nl0_ae8)=0
+[15:46:56.993] nulls(mixed_0_inds_s_cp_ad__src.nut_cp_1_nl0_ce0.art_cp_1_nl0_ae0ke0)=0
+[15:46:56.994] nulls(mixed_0_inds_s_cp_ad__src.nut_cp_1_nl0_ce0.compare_cp_1_nl0_ae6)=0
+[15:46:56.995] nulls(mixed_0_inds_s_cp_ad__src.gold_ad_4_nl0_ce0.prevent_ad_4_nl0_ae2)=0
+[15:46:56.995] nulls(mixed_0_inds_s_cp_ad__src.gold_ad_4_nl0_ce0.bath_ad_4_nl0_ae5)=0
+[15:46:56.997] nulls(mixed_0_inds_s_cp_ad__src.gold_ad_4_nl0_ce0.pain_ad_4_nl0_ae0ke0)=0
+[15:46:56.997] nulls(mixed_0_inds_s_cp_ad__src.gold_ad_4_nl0_ce0.probable_ad_4_nl0_ae3)=0
+[15:46:56.998] nulls(mixed_0_inds_s_cp_ad__src.gold_ad_4_nl0_ce0.low_ad_4_nl0_ae4)=0
+[15:46:56.998] nulls(mixed_0_inds_s_cp_ad__src.gold_ad_4_nl0_ce0.butter_ad_4_nl0_ae6)=0
+[15:46:56.999] nulls(mixed_0_inds_s_cp_ad__src.gold_ad_4_nl0_ce0.make_ad_4_nl0_ae1)=0
+[15:46:57.000] nulls(mixed_0_inds_s_cp_ad__src.great_ad_1_nl0_ce0.society_ad_1_nl0_ae2)=0
+[15:46:57.000] nulls(mixed_0_inds_s_cp_ad__src.great_ad_1_nl0_ce0.warn_ad_1_nl0_ae3)=0
+[15:46:57.001] nulls(mixed_0_inds_s_cp_ad__src.great_ad_1_nl0_ce0.red_ad_1_nl0_ae5)=0
+[15:46:57.001] nulls(mixed_0_inds_s_cp_ad__src.great_ad_1_nl0_ce0.board_ad_1_nl0_ae0ke0)=0
+[15:46:57.002] nulls(mixed_0_inds_s_cp_ad__src.great_ad_1_nl0_ce0.different_ad_1_nl0_ae1)=0
+[15:46:57.004] nulls(mixed_0_inds_s_cp_ad__src.great_ad_1_nl0_ce0.tail_ad_1_nl0_ae4)=0
+[15:46:57.005] nulls(mixed_0_inds_s_cp_ad__src.great_ad_1_nl0_ce0.wrong_ad_1_nl0_ae6)=0
+[15:46:57.005] nulls(mixed_0_inds_s_cp_ad__src.past_dl_1_nl0_ce0.oven_dl_1_nl0_ae11)=0
+[15:46:57.006] nulls(mixed_0_inds_s_cp_ad__src.past_dl_1_nl0_ce0.attention_dl_1_nl0_ae7)=0
+[15:46:57.006] nulls(mixed_0_inds_s_cp_ad__src.past_dl_1_nl0_ce0.reveal_dl_1_nl0_ae10)=0
+[15:46:57.007] nulls(mixed_0_inds_s_cp_ad__src.past_dl_1_nl0_ce0.find_dl_1_nl0_ae6)=0
+[15:46:57.008] nulls(mixed_0_inds_s_cp_ad__src.past_dl_1_nl0_ce0.night_dl_1_nl0_ae5)=0
+[15:46:57.008] nulls(mixed_0_inds_s_cp_ad__src.past_dl_1_nl0_ce0.describe_dl_1_nl0_ae3)=0
+[15:46:57.009] nulls(mixed_0_inds_s_cp_ad__src.past_dl_1_nl0_ce0.discover_dl_1_nl0_ae8)=0
+[15:46:57.009] nulls(mixed_0_inds_s_cp_ad__src.past_dl_1_nl0_ce0.different_dl_1_nl0_ae9)=0
+[15:46:57.010] nulls(mixed_0_inds_s_cp_ad__src.past_dl_1_nl0_ce0.wheel_dl_1_nl0_ae0ke0)=0
+[15:46:57.010] nulls(mixed_0_inds_s_cp_ad__src.past_dl_1_nl0_ce0.blue_dl_1_nl0_ae2)=0
+[15:46:57.011] nulls(mixed_0_inds_s_cp_ad__src.past_dl_1_nl0_ce0.letter_dl_1_nl0_ae1)=0
+[15:46:57.011] nulls(mixed_0_inds_s_cp_ad__src.past_dl_1_nl0_ce0.report_dl_1_nl0_ae4)=0
+[15:46:57.012] nulls(mixed_0_inds_s_cp_ad__src.copy_dl_4_nl0_ce0.attraction_dl_4_nl0_ae5)=0
+[15:46:57.013] nulls(mixed_0_inds_s_cp_ad__src.copy_dl_4_nl0_ce0.sad_dl_4_nl0_ae6)=0
+[15:46:57.013] nulls(mixed_0_inds_s_cp_ad__src.copy_dl_4_nl0_ce0.stiff_dl_4_nl0_ae1)=0
+[15:46:57.014] nulls(mixed_0_inds_s_cp_ad__src.copy_dl_4_nl0_ce0.feeling_dl_4_nl0_ae2)=0
+[15:46:57.014] nulls(mixed_0_inds_s_cp_ad__src.copy_dl_4_nl0_ce0.root_dl_4_nl0_ae7)=0
+[15:46:57.015] nulls(mixed_0_inds_s_cp_ad__src.copy_dl_4_nl0_ce0.disease_dl_4_nl0_ae4)=0
+[15:46:57.015] nulls(mixed_0_inds_s_cp_ad__src.copy_dl_4_nl0_ce0.question_dl_4_nl0_ae11)=0
+[15:46:57.016] nulls(mixed_0_inds_s_cp_ad__src.copy_dl_4_nl0_ce0.straight_dl_4_nl0_ae9)=0
+[15:46:57.016] nulls(mixed_0_inds_s_cp_ad__src.copy_dl_4_nl0_ce0.connect_dl_4_nl0_ae3)=0
+[15:46:57.017] nulls(mixed_0_inds_s_cp_ad__src.copy_dl_4_nl0_ce0.complain_dl_4_nl0_ae10)=0
+[15:46:57.018] nulls(mixed_0_inds_s_cp_ad__src.copy_dl_4_nl0_ce0.thick_dl_4_nl0_ae0ke0)=0
+[15:46:57.018] nulls(mixed_0_inds_s_cp_ad__src.copy_dl_4_nl0_ce0.pain_dl_4_nl0_ae8)=0
+[15:46:57.020] nulls(mixed_0_inds_s_cp_ad__src.narrow_adl_1_nl0_ce0.twist_adl_1_nl0_ae7)=0
+[15:46:57.020] nulls(mixed_0_inds_s_cp_ad__src.narrow_adl_1_nl0_ce0.account_adl_1_nl0_ae8)=0
+[15:46:57.021] nulls(mixed_0_inds_s_cp_ad__src.narrow_adl_1_nl0_ce0.pipe_adl_1_nl0_ae2)=0
+[15:46:57.022] nulls(mixed_0_inds_s_cp_ad__src.narrow_adl_1_nl0_ce0.stick_adl_1_nl0_ae5)=0
+[15:46:57.023] nulls(mixed_0_inds_s_cp_ad__src.narrow_adl_1_nl0_ce0.thank_adl_1_nl0_ae4)=0
+[15:46:57.024] nulls(mixed_0_inds_s_cp_ad__src.narrow_adl_1_nl0_ce0.rest_adl_1_nl0_ae0ke0)=0
+[15:46:57.025] nulls(mixed_0_inds_s_cp_ad__src.narrow_adl_1_nl0_ce0.order_adl_1_nl0_ae6)=0
+[15:46:57.026] nulls(mixed_0_inds_s_cp_ad__src.narrow_adl_1_nl0_ce0.expansion_adl_1_nl0_ae1)=0
+[15:46:57.027] nulls(mixed_0_inds_s_cp_ad__src.narrow_adl_1_nl0_ce0.future_adl_1_nl0_ae9)=0
+[15:46:57.028] nulls(mixed_0_inds_s_cp_ad__src.narrow_adl_1_nl0_ce0.indicate_adl_1_nl0_ae3)=0
+[15:46:57.030] nulls(mixed_0_inds_s_cp_ad__src.walk_adl_4_nl0_ce0.settle_adl_4_nl0_ae3)=0
+[15:46:57.030] nulls(mixed_0_inds_s_cp_ad__src.walk_adl_4_nl0_ce0.probable_adl_4_nl0_ae5)=0
+[15:46:57.031] nulls(mixed_0_inds_s_cp_ad__src.walk_adl_4_nl0_ce0.count_adl_4_nl0_ae0ke0)=0
+[15:46:57.032] nulls(mixed_0_inds_s_cp_ad__src.walk_adl_4_nl0_ce0.poor_adl_4_nl0_ae6)=0
+[15:46:57.033] nulls(mixed_0_inds_s_cp_ad__src.walk_adl_4_nl0_ce0.theory_adl_4_nl0_ae2)=0
+[15:46:57.034] nulls(mixed_0_inds_s_cp_ad__src.walk_adl_4_nl0_ce0.pick_adl_4_nl0_ae8)=0
+[15:46:57.034] nulls(mixed_0_inds_s_cp_ad__src.walk_adl_4_nl0_ce0.record_adl_4_nl0_ae4)=0
+[15:46:57.036] nulls(mixed_0_inds_s_cp_ad__src.walk_adl_4_nl0_ce0.explain_adl_4_nl0_ae1)=0
+[15:46:57.036] nulls(mixed_0_inds_s_cp_ad__src.walk_adl_4_nl0_ce0.goat_adl_4_nl0_ae7)=0
+[15:46:57.037] nulls(mixed_0_inds_s_cp_ad__src.walk_adl_4_nl0_ce0.head_adl_4_nl0_ae9)=0
+[15:46:57.039] nulls(mixed_0_inds_s_cp_ad__src.judge_cp_5_nl0_ce0.delicate_cp_5_nl0_ae8)=0
+[15:46:57.039] nulls(mixed_0_inds_s_cp_ad__src.judge_cp_5_nl0_ce0.agencies_cp_5_nl0_ae2)=0
+[15:46:57.040] nulls(mixed_0_inds_s_cp_ad__src.judge_cp_5_nl0_ce0.dependent_cp_5_nl0_ae6)=0
+[15:46:57.041] nulls(mixed_0_inds_s_cp_ad__src.judge_cp_5_nl0_ce0.prose_cp_5_nl0_ae1)=0
+[15:46:57.041] nulls(mixed_0_inds_s_cp_ad__src.judge_cp_5_nl0_ce0.train_cp_5_nl0_ae4)=0
+[15:46:57.042] nulls(mixed_0_inds_s_cp_ad__src.judge_cp_5_nl0_ce0.boot_cp_5_nl0_ae5)=0
+[15:46:57.043] nulls(mixed_0_inds_s_cp_ad__src.judge_cp_5_nl0_ce0.flat_cp_5_nl0_ae3)=0
+[15:46:57.043] nulls(mixed_0_inds_s_cp_ad__src.judge_cp_5_nl0_ce0.impulse_cp_5_nl0_ae0ke0)=0
+[15:46:57.044] nulls(mixed_0_inds_s_cp_ad__src.judge_cp_5_nl0_ce0.sea_cp_5_nl0_ae7)=0
+[15:46:57.045] nulls(mixed_0_inds_s_cp_ad__src.chin_cp_2_nl0_ce0.blow_cp_2_nl0_ae8)=0
+[15:46:57.045] nulls(mixed_0_inds_s_cp_ad__src.chin_cp_2_nl0_ce0.small_cp_2_nl0_ae1)=0
+[15:46:57.045] nulls(mixed_0_inds_s_cp_ad__src.chin_cp_2_nl0_ce0.branch_cp_2_nl0_ae4)=0
+[15:46:57.046] nulls(mixed_0_inds_s_cp_ad__src.chin_cp_2_nl0_ce0.approval_cp_2_nl0_ae7)=0
+[15:46:57.046] nulls(mixed_0_inds_s_cp_ad__src.chin_cp_2_nl0_ce0.broken_cp_2_nl0_ae2)=0
+[15:46:57.047] nulls(mixed_0_inds_s_cp_ad__src.chin_cp_2_nl0_ce0.brain_cp_2_nl0_ae3)=0
+[15:46:57.047] nulls(mixed_0_inds_s_cp_ad__src.chin_cp_2_nl0_ce0.place_cp_2_nl0_ae6)=0
+[15:46:57.048] nulls(mixed_0_inds_s_cp_ad__src.chin_cp_2_nl0_ce0.mixed_cp_2_nl0_ae0ke0)=0
+[15:46:57.048] nulls(mixed_0_inds_s_cp_ad__src.chin_cp_2_nl0_ce0.swim_cp_2_nl0_ae5)=0
+[15:46:57.049] nulls(mixed_0_inds_s_cp_ad__src.sleep_ad_5_nl0_ce0.place_ad_5_nl0_ae5)=0
+[15:46:57.050] nulls(mixed_0_inds_s_cp_ad__src.sleep_ad_5_nl0_ce0.return_ad_5_nl0_ae6)=0
+[15:46:57.050] nulls(mixed_0_inds_s_cp_ad__src.sleep_ad_5_nl0_ce0.rhythm_ad_5_nl0_ae2)=0
+[15:46:57.051] nulls(mixed_0_inds_s_cp_ad__src.sleep_ad_5_nl0_ce0.stomach_ad_5_nl0_ae3)=0
+[15:46:57.051] nulls(mixed_0_inds_s_cp_ad__src.sleep_ad_5_nl0_ce0.road_ad_5_nl0_ae1)=0
+[15:46:57.052] nulls(mixed_0_inds_s_cp_ad__src.sleep_ad_5_nl0_ce0.speak_ad_5_nl0_ae4)=0
+[15:46:57.053] nulls(mixed_0_inds_s_cp_ad__src.sleep_ad_5_nl0_ce0.bath_ad_5_nl0_ae0ke0)=0
+[15:46:57.054] nulls(mixed_0_inds_s_cp_ad__src.division_ad_2_nl0_ce0.powder_ad_2_nl0_ae3)=0
+[15:46:57.055] nulls(mixed_0_inds_s_cp_ad__src.division_ad_2_nl0_ce0.ready_ad_2_nl0_ae0ke0)=0
+[15:46:57.055] nulls(mixed_0_inds_s_cp_ad__src.division_ad_2_nl0_ce0.winter_ad_2_nl0_ae2)=0
+[15:46:57.056] nulls(mixed_0_inds_s_cp_ad__src.division_ad_2_nl0_ce0.work_ad_2_nl0_ae4)=0
+[15:46:57.056] nulls(mixed_0_inds_s_cp_ad__src.division_ad_2_nl0_ce0.gun_ad_2_nl0_ae1)=0
+[15:46:57.057] nulls(mixed_0_inds_s_cp_ad__src.division_ad_2_nl0_ce0.discuss_ad_2_nl0_ae5)=0
+[15:46:57.057] nulls(mixed_0_inds_s_cp_ad__src.division_ad_2_nl0_ce0.involve_ad_2_nl0_ae6)=0
+[15:46:57.058] nulls(mixed_0_inds_s_cp_ad__src.match_dl_5_nl0_ce0.debts_dl_5_nl0_ae0ke0)=0
+[15:46:57.058] nulls(mixed_0_inds_s_cp_ad__src.match_dl_5_nl0_ce0.gain_dl_5_nl0_ae1)=0
+[15:46:57.059] nulls(mixed_0_inds_s_cp_ad__src.match_dl_5_nl0_ce0.ready_dl_5_nl0_ae11)=0
+[15:46:57.059] nulls(mixed_0_inds_s_cp_ad__src.match_dl_5_nl0_ce0.selection_dl_5_nl0_ae4)=0
+[15:46:57.060] nulls(mixed_0_inds_s_cp_ad__src.match_dl_5_nl0_ce0.window_dl_5_nl0_ae5)=0
+[15:46:57.061] nulls(mixed_0_inds_s_cp_ad__src.match_dl_5_nl0_ce0.increase_dl_5_nl0_ae7)=0
+[15:46:57.061] nulls(mixed_0_inds_s_cp_ad__src.match_dl_5_nl0_ce0.animal_dl_5_nl0_ae9)=0
+[15:46:57.062] nulls(mixed_0_inds_s_cp_ad__src.match_dl_5_nl0_ce0.oven_dl_5_nl0_ae2)=0
+[15:46:57.062] nulls(mixed_0_inds_s_cp_ad__src.match_dl_5_nl0_ce0.female_dl_5_nl0_ae8)=0
+[15:46:57.063] nulls(mixed_0_inds_s_cp_ad__src.match_dl_5_nl0_ce0.give_dl_5_nl0_ae3)=0
+[15:46:57.064] nulls(mixed_0_inds_s_cp_ad__src.match_dl_5_nl0_ce0.belong_dl_5_nl0_ae6)=0
+[15:46:57.065] nulls(mixed_0_inds_s_cp_ad__src.match_dl_5_nl0_ce0.hate_dl_5_nl0_ae10)=0
+[15:46:57.066] nulls(mixed_0_inds_s_cp_ad__src.use_dl_2_nl0_ce0.draw_dl_2_nl0_ae1)=0
+[15:46:57.066] nulls(mixed_0_inds_s_cp_ad__src.use_dl_2_nl0_ce0.library_dl_2_nl0_ae9)=0
+[15:46:57.067] nulls(mixed_0_inds_s_cp_ad__src.use_dl_2_nl0_ce0.handle_dl_2_nl0_ae8)=0
+[15:46:57.068] nulls(mixed_0_inds_s_cp_ad__src.use_dl_2_nl0_ce0.regular_dl_2_nl0_ae3)=0
+[15:46:57.068] nulls(mixed_0_inds_s_cp_ad__src.use_dl_2_nl0_ce0.worry_dl_2_nl0_ae11)=0
+[15:46:57.069] nulls(mixed_0_inds_s_cp_ad__src.use_dl_2_nl0_ce0.paint_dl_2_nl0_ae0ke0)=0
+[15:46:57.069] nulls(mixed_0_inds_s_cp_ad__src.use_dl_2_nl0_ce0.leave_dl_2_nl0_ae5)=0
+[15:46:57.070] nulls(mixed_0_inds_s_cp_ad__src.use_dl_2_nl0_ce0.send_dl_2_nl0_ae2)=0
+[15:46:57.070] nulls(mixed_0_inds_s_cp_ad__src.use_dl_2_nl0_ce0.parallel_dl_2_nl0_ae6)=0
+[15:46:57.071] nulls(mixed_0_inds_s_cp_ad__src.use_dl_2_nl0_ce0.die_dl_2_nl0_ae10)=0
+[15:46:57.071] nulls(mixed_0_inds_s_cp_ad__src.use_dl_2_nl0_ce0.collection_dl_2_nl0_ae7)=0
+[15:46:57.072] nulls(mixed_0_inds_s_cp_ad__src.use_dl_2_nl0_ce0.knee_dl_2_nl0_ae4)=0
+[15:46:57.075] nulls(mixed_0_inds_s_cp_ad__src.round_adl_5_nl0_ce0.buy_adl_5_nl0_ae9)=0
+[15:46:57.075] nulls(mixed_0_inds_s_cp_ad__src.round_adl_5_nl0_ce0.late_adl_5_nl0_ae5)=0
+[15:46:57.075] nulls(mixed_0_inds_s_cp_ad__src.round_adl_5_nl0_ce0.win_adl_5_nl0_ae0ke0)=0
+[15:46:57.076] nulls(mixed_0_inds_s_cp_ad__src.round_adl_5_nl0_ce0.will_adl_5_nl0_ae7)=0
+[15:46:57.076] nulls(mixed_0_inds_s_cp_ad__src.round_adl_5_nl0_ce0.shut_adl_5_nl0_ae8)=0
+[15:46:57.077] nulls(mixed_0_inds_s_cp_ad__src.round_adl_5_nl0_ce0.argue_adl_5_nl0_ae4)=0
+[15:46:57.077] nulls(mixed_0_inds_s_cp_ad__src.round_adl_5_nl0_ce0.summer_adl_5_nl0_ae6)=0
+[15:46:57.078] nulls(mixed_0_inds_s_cp_ad__src.round_adl_5_nl0_ce0.turn_adl_5_nl0_ae1)=0
+[15:46:57.078] nulls(mixed_0_inds_s_cp_ad__src.round_adl_5_nl0_ce0.chin_adl_5_nl0_ae2)=0
+[15:46:57.079] nulls(mixed_0_inds_s_cp_ad__src.round_adl_5_nl0_ce0.salt_adl_5_nl0_ae3)=0
+[15:46:57.081] nulls(mixed_0_inds_s_cp_ad__src.brown_adl_2_nl0_ce0.effect_adl_2_nl0_ae7)=0
+[15:46:57.082] nulls(mixed_0_inds_s_cp_ad__src.brown_adl_2_nl0_ce0.hit_adl_2_nl0_ae0ke0)=0
+[15:46:57.082] nulls(mixed_0_inds_s_cp_ad__src.brown_adl_2_nl0_ce0.mind_adl_2_nl0_ae2)=0
+[15:46:57.083] nulls(mixed_0_inds_s_cp_ad__src.brown_adl_2_nl0_ce0.organization_adl_2_nl0_ae5)=0
+[15:46:57.083] nulls(mixed_0_inds_s_cp_ad__src.brown_adl_2_nl0_ce0.garden_adl_2_nl0_ae3)=0
+[15:46:57.084] nulls(mixed_0_inds_s_cp_ad__src.brown_adl_2_nl0_ce0.necessary_adl_2_nl0_ae4)=0
+[15:46:57.084] nulls(mixed_0_inds_s_cp_ad__src.brown_adl_2_nl0_ce0.stick_adl_2_nl0_ae6)=0
+[15:46:57.084] nulls(mixed_0_inds_s_cp_ad__src.brown_adl_2_nl0_ce0.slow_adl_2_nl0_ae8)=0
+[15:46:57.085] nulls(mixed_0_inds_s_cp_ad__src.brown_adl_2_nl0_ce0.word_adl_2_nl0_ae9)=0
+[15:46:57.086] nulls(mixed_0_inds_s_cp_ad__src.brown_adl_2_nl0_ce0.decision_adl_2_nl0_ae1)=0
+[15:46:57.086] nulls(mixed_0_inds_s_cp_ad__src.kind_cp_3_nl0_ce0.door_cp_3_nl0_ae8)=0
+[15:46:57.087] nulls(mixed_0_inds_s_cp_ad__src.kind_cp_3_nl0_ce0.regular_cp_3_nl0_ae5)=0
+[15:46:57.087] nulls(mixed_0_inds_s_cp_ad__src.kind_cp_3_nl0_ce0.ring_cp_3_nl0_ae1)=0
+[15:46:57.088] nulls(mixed_0_inds_s_cp_ad__src.kind_cp_3_nl0_ce0.prove_cp_3_nl0_ae0ke0)=0
+[15:46:57.088] nulls(mixed_0_inds_s_cp_ad__src.kind_cp_3_nl0_ce0.chalk_cp_3_nl0_ae4)=0
+[15:46:57.089] nulls(mixed_0_inds_s_cp_ad__src.kind_cp_3_nl0_ce0.mind_cp_3_nl0_ae7)=0
+[15:46:57.089] nulls(mixed_0_inds_s_cp_ad__src.kind_cp_3_nl0_ce0.early_cp_3_nl0_ae2)=0
+[15:46:57.090] nulls(mixed_0_inds_s_cp_ad__src.kind_cp_3_nl0_ce0.love_cp_3_nl0_ae6)=0
+[15:46:57.090] nulls(mixed_0_inds_s_cp_ad__src.kind_cp_3_nl0_ce0.violent_cp_3_nl0_ae3)=0
+[15:46:57.091] nulls(mixed_0_inds_s_cp_ad__src.charge_ad_3_nl0_ce0.collection_ad_3_nl0_ae1)=0
+[15:46:57.091] nulls(mixed_0_inds_s_cp_ad__src.charge_ad_3_nl0_ce0.certain_ad_3_nl0_ae0ke0)=0
+[15:46:57.092] nulls(mixed_0_inds_s_cp_ad__src.charge_ad_3_nl0_ce0.bent_ad_3_nl0_ae2)=0
+[15:46:57.092] nulls(mixed_0_inds_s_cp_ad__src.charge_ad_3_nl0_ce0.sweet_ad_3_nl0_ae3)=0
+[15:46:57.092] nulls(mixed_0_inds_s_cp_ad__src.charge_ad_3_nl0_ce0.crush_ad_3_nl0_ae6)=0
+[15:46:57.093] nulls(mixed_0_inds_s_cp_ad__src.charge_ad_3_nl0_ce0.silk_ad_3_nl0_ae5)=0
+[15:46:57.093] nulls(mixed_0_inds_s_cp_ad__src.charge_ad_3_nl0_ce0.rod_ad_3_nl0_ae4)=0
+[15:46:57.094] nulls(mixed_0_inds_s_cp_ad__src.treat_dl_3_nl0_ce0.farm_dl_3_nl0_ae0ke0)=0
+[15:46:57.095] nulls(mixed_0_inds_s_cp_ad__src.treat_dl_3_nl0_ce0.chalk_dl_3_nl0_ae3)=0
+[15:46:57.096] nulls(mixed_0_inds_s_cp_ad__src.treat_dl_3_nl0_ce0.degree_dl_3_nl0_ae5)=0
+[15:46:57.096] nulls(mixed_0_inds_s_cp_ad__src.treat_dl_3_nl0_ce0.fruit_dl_3_nl0_ae7)=0
+[15:46:57.097] nulls(mixed_0_inds_s_cp_ad__src.treat_dl_3_nl0_ce0.regular_dl_3_nl0_ae4)=0
+[15:46:57.097] nulls(mixed_0_inds_s_cp_ad__src.treat_dl_3_nl0_ce0.found_dl_3_nl0_ae11)=0
+[15:46:57.098] nulls(mixed_0_inds_s_cp_ad__src.treat_dl_3_nl0_ce0.language_dl_3_nl0_ae1)=0
+[15:46:57.098] nulls(mixed_0_inds_s_cp_ad__src.treat_dl_3_nl0_ce0.start_dl_3_nl0_ae6)=0
+[15:46:57.099] nulls(mixed_0_inds_s_cp_ad__src.treat_dl_3_nl0_ce0.science_dl_3_nl0_ae8)=0
+[15:46:57.099] nulls(mixed_0_inds_s_cp_ad__src.treat_dl_3_nl0_ce0.desire_dl_3_nl0_ae9)=0
+[15:46:57.100] nulls(mixed_0_inds_s_cp_ad__src.treat_dl_3_nl0_ce0.last_dl_3_nl0_ae10)=0
+[15:46:57.100] nulls(mixed_0_inds_s_cp_ad__src.treat_dl_3_nl0_ce0.worry_dl_3_nl0_ae2)=0
+[15:46:57.102] nulls(mixed_0_inds_s_cp_ad__src.found_adl_3_nl0_ce0.egg_adl_3_nl0_ae9)=0
+[15:46:57.103] nulls(mixed_0_inds_s_cp_ad__src.found_adl_3_nl0_ce0.pencil_adl_3_nl0_ae4)=0
+[15:46:57.103] nulls(mixed_0_inds_s_cp_ad__src.found_adl_3_nl0_ce0.complex_adl_3_nl0_ae6)=0
+[15:46:57.104] nulls(mixed_0_inds_s_cp_ad__src.found_adl_3_nl0_ce0.mention_adl_3_nl0_ae3)=0
+[15:46:57.104] nulls(mixed_0_inds_s_cp_ad__src.found_adl_3_nl0_ce0.sleep_adl_3_nl0_ae0ke0)=0
+[15:46:57.105] nulls(mixed_0_inds_s_cp_ad__src.found_adl_3_nl0_ce0.involve_adl_3_nl0_ae2)=0
+[15:46:57.105] nulls(mixed_0_inds_s_cp_ad__src.found_adl_3_nl0_ce0.grip_adl_3_nl0_ae5)=0
+[15:46:57.105] nulls(mixed_0_inds_s_cp_ad__src.found_adl_3_nl0_ce0.claim_adl_3_nl0_ae7)=0
+[15:46:57.106] nulls(mixed_0_inds_s_cp_ad__src.found_adl_3_nl0_ce0.state_adl_3_nl0_ae8)=0
+[15:46:57.106] nulls(mixed_0_inds_s_cp_ad__src.found_adl_3_nl0_ce0.flower_adl_3_nl0_ae1)=0
+[15:46:57.109] nulls(mixed_0_inds_s_cp_ad__src.agency_cp_4_nl0_ce0.complete_cp_4_nl0_ae0ke0)=0
+[15:46:57.110] nulls(mixed_0_inds_s_cp_ad__src.agency_cp_4_nl0_ce0.hollow_cp_4_nl0_ae6)=0
+[15:46:57.110] nulls(mixed_0_inds_s_cp_ad__src.agency_cp_4_nl0_ce0.distribution_cp_4_nl0_ae8)=0
+[15:46:57.111] nulls(mixed_0_inds_s_cp_ad__src.agency_cp_4_nl0_ce0.count_cp_4_nl0_ae1)=0
+[15:46:57.111] nulls(mixed_0_inds_s_cp_ad__src.agency_cp_4_nl0_ce0.shake_cp_4_nl0_ae4)=0
+[15:46:57.112] nulls(mixed_0_inds_s_cp_ad__src.agency_cp_4_nl0_ce0.leather_cp_4_nl0_ae7)=0
+[15:46:57.113] nulls(mixed_0_inds_s_cp_ad__src.agency_cp_4_nl0_ce0.amount_cp_4_nl0_ae2)=0
+[15:46:57.113] nulls(mixed_0_inds_s_cp_ad__src.agency_cp_4_nl0_ce0.death_cp_4_nl0_ae3)=0
+[15:46:57.114] nulls(mixed_0_inds_s_cp_ad__src.agency_cp_4_nl0_ce0.hollow_cp_4_nl0_ae5)=0
+[15:46:57.114] 
+No info about attribute's distinct values were given in the profile data file...reading them from data sources...
+[15:46:57.114] Reading distinct values for relations in mixed_0_inds_s_cp_ad__src
+[15:46:57.122] distinct_vals(mixed_0_inds_s_cp_ad__src.nut_cp_1_nl0_ce0.slope_cp_1_nl0_ae1)=596
+[15:46:57.130] distinct_vals(mixed_0_inds_s_cp_ad__src.nut_cp_1_nl0_ce0.society_cp_1_nl0_ae5)=596
+[15:46:57.140] distinct_vals(mixed_0_inds_s_cp_ad__src.nut_cp_1_nl0_ce0.branch_cp_1_nl0_ae7)=596
+[15:46:57.149] distinct_vals(mixed_0_inds_s_cp_ad__src.nut_cp_1_nl0_ce0.cheese_cp_1_nl0_ae4)=596
+[15:46:57.157] distinct_vals(mixed_0_inds_s_cp_ad__src.nut_cp_1_nl0_ce0.touch_cp_1_nl0_ae3)=596
+[15:46:57.165] distinct_vals(mixed_0_inds_s_cp_ad__src.nut_cp_1_nl0_ce0.measure_cp_1_nl0_ae2)=596
+[15:46:57.174] distinct_vals(mixed_0_inds_s_cp_ad__src.nut_cp_1_nl0_ce0.demand_cp_1_nl0_ae8)=596
+[15:46:57.184] distinct_vals(mixed_0_inds_s_cp_ad__src.nut_cp_1_nl0_ce0.art_cp_1_nl0_ae0ke0)=596
+[15:46:57.193] distinct_vals(mixed_0_inds_s_cp_ad__src.nut_cp_1_nl0_ce0.compare_cp_1_nl0_ae6)=596
+[15:46:57.202] distinct_vals(mixed_0_inds_s_cp_ad__src.gold_ad_4_nl0_ce0.prevent_ad_4_nl0_ae2)=493
+[15:46:57.210] distinct_vals(mixed_0_inds_s_cp_ad__src.gold_ad_4_nl0_ce0.bath_ad_4_nl0_ae5)=493
+[15:46:57.220] distinct_vals(mixed_0_inds_s_cp_ad__src.gold_ad_4_nl0_ce0.pain_ad_4_nl0_ae0ke0)=493
+[15:46:57.226] distinct_vals(mixed_0_inds_s_cp_ad__src.gold_ad_4_nl0_ce0.probable_ad_4_nl0_ae3)=493
+[15:46:57.235] distinct_vals(mixed_0_inds_s_cp_ad__src.gold_ad_4_nl0_ce0.low_ad_4_nl0_ae4)=493
+[15:46:57.243] distinct_vals(mixed_0_inds_s_cp_ad__src.gold_ad_4_nl0_ce0.butter_ad_4_nl0_ae6)=493
+[15:46:57.251] distinct_vals(mixed_0_inds_s_cp_ad__src.gold_ad_4_nl0_ce0.make_ad_4_nl0_ae1)=493
+[15:46:57.259] distinct_vals(mixed_0_inds_s_cp_ad__src.great_ad_1_nl0_ce0.society_ad_1_nl0_ae2)=560
+[15:46:57.266] distinct_vals(mixed_0_inds_s_cp_ad__src.great_ad_1_nl0_ce0.warn_ad_1_nl0_ae3)=560
+[15:46:57.276] distinct_vals(mixed_0_inds_s_cp_ad__src.great_ad_1_nl0_ce0.red_ad_1_nl0_ae5)=560
+[15:46:57.284] distinct_vals(mixed_0_inds_s_cp_ad__src.great_ad_1_nl0_ce0.board_ad_1_nl0_ae0ke0)=560
+[15:46:57.292] distinct_vals(mixed_0_inds_s_cp_ad__src.great_ad_1_nl0_ce0.different_ad_1_nl0_ae1)=560
+[15:46:57.299] distinct_vals(mixed_0_inds_s_cp_ad__src.great_ad_1_nl0_ce0.tail_ad_1_nl0_ae4)=560
+[15:46:57.308] distinct_vals(mixed_0_inds_s_cp_ad__src.great_ad_1_nl0_ce0.wrong_ad_1_nl0_ae6)=560
+[15:46:57.318] distinct_vals(mixed_0_inds_s_cp_ad__src.past_dl_1_nl0_ce0.oven_dl_1_nl0_ae11)=578
+[15:46:57.325] distinct_vals(mixed_0_inds_s_cp_ad__src.past_dl_1_nl0_ce0.attention_dl_1_nl0_ae7)=578
+[15:46:57.334] distinct_vals(mixed_0_inds_s_cp_ad__src.past_dl_1_nl0_ce0.reveal_dl_1_nl0_ae10)=578
+[15:46:57.341] distinct_vals(mixed_0_inds_s_cp_ad__src.past_dl_1_nl0_ce0.find_dl_1_nl0_ae6)=578
+[15:46:57.350] distinct_vals(mixed_0_inds_s_cp_ad__src.past_dl_1_nl0_ce0.night_dl_1_nl0_ae5)=578
+[15:46:57.357] distinct_vals(mixed_0_inds_s_cp_ad__src.past_dl_1_nl0_ce0.describe_dl_1_nl0_ae3)=578
+[15:46:57.366] distinct_vals(mixed_0_inds_s_cp_ad__src.past_dl_1_nl0_ce0.discover_dl_1_nl0_ae8)=578
+[15:46:57.373] distinct_vals(mixed_0_inds_s_cp_ad__src.past_dl_1_nl0_ce0.different_dl_1_nl0_ae9)=578
+[15:46:57.383] distinct_vals(mixed_0_inds_s_cp_ad__src.past_dl_1_nl0_ce0.wheel_dl_1_nl0_ae0ke0)=578
+[15:46:57.389] distinct_vals(mixed_0_inds_s_cp_ad__src.past_dl_1_nl0_ce0.blue_dl_1_nl0_ae2)=578
+[15:46:57.398] distinct_vals(mixed_0_inds_s_cp_ad__src.past_dl_1_nl0_ce0.letter_dl_1_nl0_ae1)=578
+[15:46:57.405] distinct_vals(mixed_0_inds_s_cp_ad__src.past_dl_1_nl0_ce0.report_dl_1_nl0_ae4)=578
+[15:46:57.414] distinct_vals(mixed_0_inds_s_cp_ad__src.copy_dl_4_nl0_ce0.attraction_dl_4_nl0_ae5)=572
+[15:46:57.422] distinct_vals(mixed_0_inds_s_cp_ad__src.copy_dl_4_nl0_ce0.sad_dl_4_nl0_ae6)=572
+[15:46:57.430] distinct_vals(mixed_0_inds_s_cp_ad__src.copy_dl_4_nl0_ce0.stiff_dl_4_nl0_ae1)=572
+[15:46:57.437] distinct_vals(mixed_0_inds_s_cp_ad__src.copy_dl_4_nl0_ce0.feeling_dl_4_nl0_ae2)=572
+[15:46:57.446] distinct_vals(mixed_0_inds_s_cp_ad__src.copy_dl_4_nl0_ce0.root_dl_4_nl0_ae7)=572
+[15:46:57.454] distinct_vals(mixed_0_inds_s_cp_ad__src.copy_dl_4_nl0_ce0.disease_dl_4_nl0_ae4)=572
+[15:46:57.460] distinct_vals(mixed_0_inds_s_cp_ad__src.copy_dl_4_nl0_ce0.question_dl_4_nl0_ae11)=572
+[15:46:57.468] distinct_vals(mixed_0_inds_s_cp_ad__src.copy_dl_4_nl0_ce0.straight_dl_4_nl0_ae9)=572
+[15:46:57.477] distinct_vals(mixed_0_inds_s_cp_ad__src.copy_dl_4_nl0_ce0.connect_dl_4_nl0_ae3)=572
+[15:46:57.486] distinct_vals(mixed_0_inds_s_cp_ad__src.copy_dl_4_nl0_ce0.complain_dl_4_nl0_ae10)=572
+[15:46:57.493] distinct_vals(mixed_0_inds_s_cp_ad__src.copy_dl_4_nl0_ce0.thick_dl_4_nl0_ae0ke0)=572
+[15:46:57.501] distinct_vals(mixed_0_inds_s_cp_ad__src.copy_dl_4_nl0_ce0.pain_dl_4_nl0_ae8)=572
+[15:46:57.511] distinct_vals(mixed_0_inds_s_cp_ad__src.narrow_adl_1_nl0_ce0.twist_adl_1_nl0_ae7)=509
+[15:46:57.519] distinct_vals(mixed_0_inds_s_cp_ad__src.narrow_adl_1_nl0_ce0.account_adl_1_nl0_ae8)=509
+[15:46:57.528] distinct_vals(mixed_0_inds_s_cp_ad__src.narrow_adl_1_nl0_ce0.pipe_adl_1_nl0_ae2)=509
+[15:46:57.535] distinct_vals(mixed_0_inds_s_cp_ad__src.narrow_adl_1_nl0_ce0.stick_adl_1_nl0_ae5)=509
+[15:46:57.544] distinct_vals(mixed_0_inds_s_cp_ad__src.narrow_adl_1_nl0_ce0.thank_adl_1_nl0_ae4)=509
+[15:46:57.551] distinct_vals(mixed_0_inds_s_cp_ad__src.narrow_adl_1_nl0_ce0.rest_adl_1_nl0_ae0ke0)=509
+[15:46:57.560] distinct_vals(mixed_0_inds_s_cp_ad__src.narrow_adl_1_nl0_ce0.order_adl_1_nl0_ae6)=509
+[15:46:57.567] distinct_vals(mixed_0_inds_s_cp_ad__src.narrow_adl_1_nl0_ce0.expansion_adl_1_nl0_ae1)=509
+[15:46:57.577] distinct_vals(mixed_0_inds_s_cp_ad__src.narrow_adl_1_nl0_ce0.future_adl_1_nl0_ae9)=509
+[15:46:57.583] distinct_vals(mixed_0_inds_s_cp_ad__src.narrow_adl_1_nl0_ce0.indicate_adl_1_nl0_ae3)=509
+[15:46:57.591] distinct_vals(mixed_0_inds_s_cp_ad__src.walk_adl_4_nl0_ce0.settle_adl_4_nl0_ae3)=516
+[15:46:57.600] distinct_vals(mixed_0_inds_s_cp_ad__src.walk_adl_4_nl0_ce0.probable_adl_4_nl0_ae5)=516
+[15:46:57.610] distinct_vals(mixed_0_inds_s_cp_ad__src.walk_adl_4_nl0_ce0.count_adl_4_nl0_ae0ke0)=516
+[15:46:57.617] distinct_vals(mixed_0_inds_s_cp_ad__src.walk_adl_4_nl0_ce0.poor_adl_4_nl0_ae6)=516
+[15:46:57.623] distinct_vals(mixed_0_inds_s_cp_ad__src.walk_adl_4_nl0_ce0.theory_adl_4_nl0_ae2)=516
+[15:46:57.633] distinct_vals(mixed_0_inds_s_cp_ad__src.walk_adl_4_nl0_ce0.pick_adl_4_nl0_ae8)=516
+[15:46:57.641] distinct_vals(mixed_0_inds_s_cp_ad__src.walk_adl_4_nl0_ce0.record_adl_4_nl0_ae4)=516
+[15:46:57.648] distinct_vals(mixed_0_inds_s_cp_ad__src.walk_adl_4_nl0_ce0.explain_adl_4_nl0_ae1)=516
+[15:46:57.656] distinct_vals(mixed_0_inds_s_cp_ad__src.walk_adl_4_nl0_ce0.goat_adl_4_nl0_ae7)=516
+[15:46:57.665] distinct_vals(mixed_0_inds_s_cp_ad__src.walk_adl_4_nl0_ce0.head_adl_4_nl0_ae9)=516
+[15:46:57.675] distinct_vals(mixed_0_inds_s_cp_ad__src.judge_cp_5_nl0_ce0.delicate_cp_5_nl0_ae8)=552
+[15:46:57.683] distinct_vals(mixed_0_inds_s_cp_ad__src.judge_cp_5_nl0_ce0.agencies_cp_5_nl0_ae2)=552
+[15:46:57.691] distinct_vals(mixed_0_inds_s_cp_ad__src.judge_cp_5_nl0_ce0.dependent_cp_5_nl0_ae6)=552
+[15:46:57.699] distinct_vals(mixed_0_inds_s_cp_ad__src.judge_cp_5_nl0_ce0.prose_cp_5_nl0_ae1)=552
+[15:46:57.708] distinct_vals(mixed_0_inds_s_cp_ad__src.judge_cp_5_nl0_ce0.train_cp_5_nl0_ae4)=552
+[15:46:57.716] distinct_vals(mixed_0_inds_s_cp_ad__src.judge_cp_5_nl0_ce0.boot_cp_5_nl0_ae5)=552
+[15:46:57.723] distinct_vals(mixed_0_inds_s_cp_ad__src.judge_cp_5_nl0_ce0.flat_cp_5_nl0_ae3)=552
+[15:46:57.731] distinct_vals(mixed_0_inds_s_cp_ad__src.judge_cp_5_nl0_ce0.impulse_cp_5_nl0_ae0ke0)=552
+[15:46:57.740] distinct_vals(mixed_0_inds_s_cp_ad__src.judge_cp_5_nl0_ce0.sea_cp_5_nl0_ae7)=552
+[15:46:57.749] distinct_vals(mixed_0_inds_s_cp_ad__src.chin_cp_2_nl0_ce0.blow_cp_2_nl0_ae8)=433
+[15:46:57.756] distinct_vals(mixed_0_inds_s_cp_ad__src.chin_cp_2_nl0_ce0.small_cp_2_nl0_ae1)=433
+[15:46:57.764] distinct_vals(mixed_0_inds_s_cp_ad__src.chin_cp_2_nl0_ce0.branch_cp_2_nl0_ae4)=433
+[15:46:57.772] distinct_vals(mixed_0_inds_s_cp_ad__src.chin_cp_2_nl0_ce0.approval_cp_2_nl0_ae7)=433
+[15:46:57.782] distinct_vals(mixed_0_inds_s_cp_ad__src.chin_cp_2_nl0_ce0.broken_cp_2_nl0_ae2)=433
+[15:46:57.789] distinct_vals(mixed_0_inds_s_cp_ad__src.chin_cp_2_nl0_ce0.brain_cp_2_nl0_ae3)=433
+[15:46:57.797] distinct_vals(mixed_0_inds_s_cp_ad__src.chin_cp_2_nl0_ce0.place_cp_2_nl0_ae6)=433
+[15:46:57.805] distinct_vals(mixed_0_inds_s_cp_ad__src.chin_cp_2_nl0_ce0.mixed_cp_2_nl0_ae0ke0)=433
+[15:46:57.812] distinct_vals(mixed_0_inds_s_cp_ad__src.chin_cp_2_nl0_ce0.swim_cp_2_nl0_ae5)=433
+[15:46:57.820] distinct_vals(mixed_0_inds_s_cp_ad__src.sleep_ad_5_nl0_ce0.place_ad_5_nl0_ae5)=417
+[15:46:57.829] distinct_vals(mixed_0_inds_s_cp_ad__src.sleep_ad_5_nl0_ce0.return_ad_5_nl0_ae6)=417
+[15:46:57.839] distinct_vals(mixed_0_inds_s_cp_ad__src.sleep_ad_5_nl0_ce0.rhythm_ad_5_nl0_ae2)=417
+[15:46:57.846] distinct_vals(mixed_0_inds_s_cp_ad__src.sleep_ad_5_nl0_ce0.stomach_ad_5_nl0_ae3)=417
+[15:46:57.854] distinct_vals(mixed_0_inds_s_cp_ad__src.sleep_ad_5_nl0_ce0.road_ad_5_nl0_ae1)=417
+[15:46:57.863] distinct_vals(mixed_0_inds_s_cp_ad__src.sleep_ad_5_nl0_ce0.speak_ad_5_nl0_ae4)=417
+[15:46:57.871] distinct_vals(mixed_0_inds_s_cp_ad__src.sleep_ad_5_nl0_ce0.bath_ad_5_nl0_ae0ke0)=417
+[15:46:57.880] distinct_vals(mixed_0_inds_s_cp_ad__src.division_ad_2_nl0_ce0.powder_ad_2_nl0_ae3)=419
+[15:46:57.887] distinct_vals(mixed_0_inds_s_cp_ad__src.division_ad_2_nl0_ce0.ready_ad_2_nl0_ae0ke0)=419
+[15:46:57.896] distinct_vals(mixed_0_inds_s_cp_ad__src.division_ad_2_nl0_ce0.winter_ad_2_nl0_ae2)=419
+[15:46:57.904] distinct_vals(mixed_0_inds_s_cp_ad__src.division_ad_2_nl0_ce0.work_ad_2_nl0_ae4)=419
+[15:46:57.912] distinct_vals(mixed_0_inds_s_cp_ad__src.division_ad_2_nl0_ce0.gun_ad_2_nl0_ae1)=419
+[15:46:57.919] distinct_vals(mixed_0_inds_s_cp_ad__src.division_ad_2_nl0_ce0.discuss_ad_2_nl0_ae5)=419
+[15:46:57.927] distinct_vals(mixed_0_inds_s_cp_ad__src.division_ad_2_nl0_ce0.involve_ad_2_nl0_ae6)=419
+[15:46:57.937] distinct_vals(mixed_0_inds_s_cp_ad__src.match_dl_5_nl0_ce0.debts_dl_5_nl0_ae0ke0)=538
+[15:46:57.945] distinct_vals(mixed_0_inds_s_cp_ad__src.match_dl_5_nl0_ce0.gain_dl_5_nl0_ae1)=538
+[15:46:57.954] distinct_vals(mixed_0_inds_s_cp_ad__src.match_dl_5_nl0_ce0.ready_dl_5_nl0_ae11)=538
+[15:46:57.961] distinct_vals(mixed_0_inds_s_cp_ad__src.match_dl_5_nl0_ce0.selection_dl_5_nl0_ae4)=538
+[15:46:57.970] distinct_vals(mixed_0_inds_s_cp_ad__src.match_dl_5_nl0_ce0.window_dl_5_nl0_ae5)=538
+[15:46:57.978] distinct_vals(mixed_0_inds_s_cp_ad__src.match_dl_5_nl0_ce0.increase_dl_5_nl0_ae7)=538
+[15:46:57.985] distinct_vals(mixed_0_inds_s_cp_ad__src.match_dl_5_nl0_ce0.animal_dl_5_nl0_ae9)=538
+[15:46:57.992] distinct_vals(mixed_0_inds_s_cp_ad__src.match_dl_5_nl0_ce0.oven_dl_5_nl0_ae2)=538
+[15:46:58.002] distinct_vals(mixed_0_inds_s_cp_ad__src.match_dl_5_nl0_ce0.female_dl_5_nl0_ae8)=538
+[15:46:58.011] distinct_vals(mixed_0_inds_s_cp_ad__src.match_dl_5_nl0_ce0.give_dl_5_nl0_ae3)=538
+[15:46:58.019] distinct_vals(mixed_0_inds_s_cp_ad__src.match_dl_5_nl0_ce0.belong_dl_5_nl0_ae6)=538
+[15:46:58.026] distinct_vals(mixed_0_inds_s_cp_ad__src.match_dl_5_nl0_ce0.hate_dl_5_nl0_ae10)=538
+[15:46:58.036] distinct_vals(mixed_0_inds_s_cp_ad__src.use_dl_2_nl0_ce0.draw_dl_2_nl0_ae1)=505
+[15:46:58.043] distinct_vals(mixed_0_inds_s_cp_ad__src.use_dl_2_nl0_ce0.library_dl_2_nl0_ae9)=505
+[15:46:58.053] distinct_vals(mixed_0_inds_s_cp_ad__src.use_dl_2_nl0_ce0.handle_dl_2_nl0_ae8)=505
+[15:46:58.060] distinct_vals(mixed_0_inds_s_cp_ad__src.use_dl_2_nl0_ce0.regular_dl_2_nl0_ae3)=505
+[15:46:58.069] distinct_vals(mixed_0_inds_s_cp_ad__src.use_dl_2_nl0_ce0.worry_dl_2_nl0_ae11)=505
+[15:46:58.076] distinct_vals(mixed_0_inds_s_cp_ad__src.use_dl_2_nl0_ce0.paint_dl_2_nl0_ae0ke0)=505
+[15:46:58.085] distinct_vals(mixed_0_inds_s_cp_ad__src.use_dl_2_nl0_ce0.leave_dl_2_nl0_ae5)=505
+[15:46:58.093] distinct_vals(mixed_0_inds_s_cp_ad__src.use_dl_2_nl0_ce0.send_dl_2_nl0_ae2)=505
+[15:46:58.103] distinct_vals(mixed_0_inds_s_cp_ad__src.use_dl_2_nl0_ce0.parallel_dl_2_nl0_ae6)=505
+[15:46:58.110] distinct_vals(mixed_0_inds_s_cp_ad__src.use_dl_2_nl0_ce0.die_dl_2_nl0_ae10)=505
+[15:46:58.118] distinct_vals(mixed_0_inds_s_cp_ad__src.use_dl_2_nl0_ce0.collection_dl_2_nl0_ae7)=505
+[15:46:58.126] distinct_vals(mixed_0_inds_s_cp_ad__src.use_dl_2_nl0_ce0.knee_dl_2_nl0_ae4)=505
+[15:46:58.135] distinct_vals(mixed_0_inds_s_cp_ad__src.round_adl_5_nl0_ce0.buy_adl_5_nl0_ae9)=470
+[15:46:58.142] distinct_vals(mixed_0_inds_s_cp_ad__src.round_adl_5_nl0_ce0.late_adl_5_nl0_ae5)=470
+[15:46:58.151] distinct_vals(mixed_0_inds_s_cp_ad__src.round_adl_5_nl0_ce0.win_adl_5_nl0_ae0ke0)=470
+[15:46:58.159] distinct_vals(mixed_0_inds_s_cp_ad__src.round_adl_5_nl0_ce0.will_adl_5_nl0_ae7)=470
+[15:46:58.168] distinct_vals(mixed_0_inds_s_cp_ad__src.round_adl_5_nl0_ce0.shut_adl_5_nl0_ae8)=470
+[15:46:58.175] distinct_vals(mixed_0_inds_s_cp_ad__src.round_adl_5_nl0_ce0.argue_adl_5_nl0_ae4)=470
+[15:46:58.183] distinct_vals(mixed_0_inds_s_cp_ad__src.round_adl_5_nl0_ce0.summer_adl_5_nl0_ae6)=470
+[15:46:58.191] distinct_vals(mixed_0_inds_s_cp_ad__src.round_adl_5_nl0_ce0.turn_adl_5_nl0_ae1)=470
+[15:46:58.201] distinct_vals(mixed_0_inds_s_cp_ad__src.round_adl_5_nl0_ce0.chin_adl_5_nl0_ae2)=470
+[15:46:58.208] distinct_vals(mixed_0_inds_s_cp_ad__src.round_adl_5_nl0_ce0.salt_adl_5_nl0_ae3)=470
+[15:46:58.217] distinct_vals(mixed_0_inds_s_cp_ad__src.brown_adl_2_nl0_ce0.effect_adl_2_nl0_ae7)=487
+[15:46:58.224] distinct_vals(mixed_0_inds_s_cp_ad__src.brown_adl_2_nl0_ce0.hit_adl_2_nl0_ae0ke0)=487
+[15:46:58.235] distinct_vals(mixed_0_inds_s_cp_ad__src.brown_adl_2_nl0_ce0.mind_adl_2_nl0_ae2)=487
+[15:46:58.241] distinct_vals(mixed_0_inds_s_cp_ad__src.brown_adl_2_nl0_ce0.organization_adl_2_nl0_ae5)=487
+[15:46:58.250] distinct_vals(mixed_0_inds_s_cp_ad__src.brown_adl_2_nl0_ce0.garden_adl_2_nl0_ae3)=487
+[15:46:58.257] distinct_vals(mixed_0_inds_s_cp_ad__src.brown_adl_2_nl0_ce0.necessary_adl_2_nl0_ae4)=487
+[15:46:58.267] distinct_vals(mixed_0_inds_s_cp_ad__src.brown_adl_2_nl0_ce0.stick_adl_2_nl0_ae6)=487
+[15:46:58.273] distinct_vals(mixed_0_inds_s_cp_ad__src.brown_adl_2_nl0_ce0.slow_adl_2_nl0_ae8)=487
+[15:46:58.281] distinct_vals(mixed_0_inds_s_cp_ad__src.brown_adl_2_nl0_ce0.word_adl_2_nl0_ae9)=487
+[15:46:58.288] distinct_vals(mixed_0_inds_s_cp_ad__src.brown_adl_2_nl0_ce0.decision_adl_2_nl0_ae1)=487
+[15:46:58.298] distinct_vals(mixed_0_inds_s_cp_ad__src.kind_cp_3_nl0_ce0.door_cp_3_nl0_ae8)=529
+[15:46:58.304] distinct_vals(mixed_0_inds_s_cp_ad__src.kind_cp_3_nl0_ce0.regular_cp_3_nl0_ae5)=529
+[15:46:58.315] distinct_vals(mixed_0_inds_s_cp_ad__src.kind_cp_3_nl0_ce0.ring_cp_3_nl0_ae1)=529
+[15:46:58.322] distinct_vals(mixed_0_inds_s_cp_ad__src.kind_cp_3_nl0_ce0.prove_cp_3_nl0_ae0ke0)=529
+[15:46:58.332] distinct_vals(mixed_0_inds_s_cp_ad__src.kind_cp_3_nl0_ce0.chalk_cp_3_nl0_ae4)=529
+[15:46:58.339] distinct_vals(mixed_0_inds_s_cp_ad__src.kind_cp_3_nl0_ce0.mind_cp_3_nl0_ae7)=529
+[15:46:58.348] distinct_vals(mixed_0_inds_s_cp_ad__src.kind_cp_3_nl0_ce0.early_cp_3_nl0_ae2)=529
+[15:46:58.355] distinct_vals(mixed_0_inds_s_cp_ad__src.kind_cp_3_nl0_ce0.love_cp_3_nl0_ae6)=529
+[15:46:58.366] distinct_vals(mixed_0_inds_s_cp_ad__src.kind_cp_3_nl0_ce0.violent_cp_3_nl0_ae3)=529
+[15:46:58.374] distinct_vals(mixed_0_inds_s_cp_ad__src.charge_ad_3_nl0_ce0.collection_ad_3_nl0_ae1)=475
+[15:46:58.383] distinct_vals(mixed_0_inds_s_cp_ad__src.charge_ad_3_nl0_ce0.certain_ad_3_nl0_ae0ke0)=475
+[15:46:58.392] distinct_vals(mixed_0_inds_s_cp_ad__src.charge_ad_3_nl0_ce0.bent_ad_3_nl0_ae2)=475
+[15:46:58.399] distinct_vals(mixed_0_inds_s_cp_ad__src.charge_ad_3_nl0_ce0.sweet_ad_3_nl0_ae3)=475
+[15:46:58.408] distinct_vals(mixed_0_inds_s_cp_ad__src.charge_ad_3_nl0_ce0.crush_ad_3_nl0_ae6)=475
+[15:46:58.417] distinct_vals(mixed_0_inds_s_cp_ad__src.charge_ad_3_nl0_ce0.silk_ad_3_nl0_ae5)=475
+[15:46:58.425] distinct_vals(mixed_0_inds_s_cp_ad__src.charge_ad_3_nl0_ce0.rod_ad_3_nl0_ae4)=475
+[15:46:58.435] distinct_vals(mixed_0_inds_s_cp_ad__src.treat_dl_3_nl0_ce0.farm_dl_3_nl0_ae0ke0)=475
+[15:46:58.442] distinct_vals(mixed_0_inds_s_cp_ad__src.treat_dl_3_nl0_ce0.chalk_dl_3_nl0_ae3)=475
+[15:46:58.452] distinct_vals(mixed_0_inds_s_cp_ad__src.treat_dl_3_nl0_ce0.degree_dl_3_nl0_ae5)=475
+[15:46:58.459] distinct_vals(mixed_0_inds_s_cp_ad__src.treat_dl_3_nl0_ce0.fruit_dl_3_nl0_ae7)=475
+[15:46:58.469] distinct_vals(mixed_0_inds_s_cp_ad__src.treat_dl_3_nl0_ce0.regular_dl_3_nl0_ae4)=475
+[15:46:58.475] distinct_vals(mixed_0_inds_s_cp_ad__src.treat_dl_3_nl0_ce0.found_dl_3_nl0_ae11)=475
+[15:46:58.483] distinct_vals(mixed_0_inds_s_cp_ad__src.treat_dl_3_nl0_ce0.language_dl_3_nl0_ae1)=475
+[15:46:58.490] distinct_vals(mixed_0_inds_s_cp_ad__src.treat_dl_3_nl0_ce0.start_dl_3_nl0_ae6)=475
+[15:46:58.499] distinct_vals(mixed_0_inds_s_cp_ad__src.treat_dl_3_nl0_ce0.science_dl_3_nl0_ae8)=475
+[15:46:58.506] distinct_vals(mixed_0_inds_s_cp_ad__src.treat_dl_3_nl0_ce0.desire_dl_3_nl0_ae9)=475
+[15:46:58.515] distinct_vals(mixed_0_inds_s_cp_ad__src.treat_dl_3_nl0_ce0.last_dl_3_nl0_ae10)=475
+[15:46:58.522] distinct_vals(mixed_0_inds_s_cp_ad__src.treat_dl_3_nl0_ce0.worry_dl_3_nl0_ae2)=475
+[15:46:58.531] distinct_vals(mixed_0_inds_s_cp_ad__src.found_adl_3_nl0_ce0.egg_adl_3_nl0_ae9)=524
+[15:46:58.538] distinct_vals(mixed_0_inds_s_cp_ad__src.found_adl_3_nl0_ce0.pencil_adl_3_nl0_ae4)=524
+[15:46:58.547] distinct_vals(mixed_0_inds_s_cp_ad__src.found_adl_3_nl0_ce0.complex_adl_3_nl0_ae6)=524
+[15:46:58.554] distinct_vals(mixed_0_inds_s_cp_ad__src.found_adl_3_nl0_ce0.mention_adl_3_nl0_ae3)=524
+[15:46:58.562] distinct_vals(mixed_0_inds_s_cp_ad__src.found_adl_3_nl0_ce0.sleep_adl_3_nl0_ae0ke0)=524
+[15:46:58.569] distinct_vals(mixed_0_inds_s_cp_ad__src.found_adl_3_nl0_ce0.involve_adl_3_nl0_ae2)=524
+[15:46:58.578] distinct_vals(mixed_0_inds_s_cp_ad__src.found_adl_3_nl0_ce0.grip_adl_3_nl0_ae5)=524
+[15:46:58.585] distinct_vals(mixed_0_inds_s_cp_ad__src.found_adl_3_nl0_ce0.claim_adl_3_nl0_ae7)=524
+[15:46:58.594] distinct_vals(mixed_0_inds_s_cp_ad__src.found_adl_3_nl0_ce0.state_adl_3_nl0_ae8)=524
+[15:46:58.600] distinct_vals(mixed_0_inds_s_cp_ad__src.found_adl_3_nl0_ce0.flower_adl_3_nl0_ae1)=524
+[15:46:58.612] distinct_vals(mixed_0_inds_s_cp_ad__src.agency_cp_4_nl0_ce0.complete_cp_4_nl0_ae0ke0)=492
+[15:46:58.619] distinct_vals(mixed_0_inds_s_cp_ad__src.agency_cp_4_nl0_ce0.hollow_cp_4_nl0_ae6)=492
+[15:46:58.626] distinct_vals(mixed_0_inds_s_cp_ad__src.agency_cp_4_nl0_ce0.distribution_cp_4_nl0_ae8)=492
+[15:46:58.634] distinct_vals(mixed_0_inds_s_cp_ad__src.agency_cp_4_nl0_ce0.count_cp_4_nl0_ae1)=492
+[15:46:58.644] distinct_vals(mixed_0_inds_s_cp_ad__src.agency_cp_4_nl0_ce0.shake_cp_4_nl0_ae4)=492
+[15:46:58.652] distinct_vals(mixed_0_inds_s_cp_ad__src.agency_cp_4_nl0_ce0.leather_cp_4_nl0_ae7)=492
+[15:46:58.659] distinct_vals(mixed_0_inds_s_cp_ad__src.agency_cp_4_nl0_ce0.amount_cp_4_nl0_ae2)=492
+[15:46:58.667] distinct_vals(mixed_0_inds_s_cp_ad__src.agency_cp_4_nl0_ce0.death_cp_4_nl0_ae3)=492
+[15:46:58.677] distinct_vals(mixed_0_inds_s_cp_ad__src.agency_cp_4_nl0_ce0.hollow_cp_4_nl0_ae5)=492
+[15:46:58.677] Initial Profile Data:
+
+[15:46:58.684] Profile Data for relation mixed_0_inds_s_cp_ad__src.gold_ad_4_nl0_ce0:
+[15:46:58.684] ProfileData [keyCandidates=1, inclusionDependencies=0] 
+KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.gold_ad_4_nl0_ce0.pain_ad_4_nl0_ae0ke0], isPrimaryKey=false]
+
+[15:46:58.684] Profile Data for relation mixed_0_inds_s_cp_ad__src.narrow_adl_1_nl0_ce0:
+[15:46:58.684] ProfileData [keyCandidates=1, inclusionDependencies=0] 
+KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.narrow_adl_1_nl0_ce0.rest_adl_1_nl0_ae0ke0], isPrimaryKey=false]
+
+[15:46:58.684] Profile Data for relation mixed_0_inds_s_cp_ad__src.use_dl_2_nl0_ce0:
+[15:46:58.684] ProfileData [keyCandidates=1, inclusionDependencies=0] 
+KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.use_dl_2_nl0_ce0.paint_dl_2_nl0_ae0ke0], isPrimaryKey=false]
+
+[15:46:58.684] Profile Data for relation mixed_0_inds_s_cp_ad__src.copy_dl_4_nl0_ce0:
+[15:46:58.684] ProfileData [keyCandidates=1, inclusionDependencies=0] 
+KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.copy_dl_4_nl0_ce0.thick_dl_4_nl0_ae0ke0], isPrimaryKey=false]
+
+[15:46:58.684] Profile Data for relation mixed_0_inds_s_cp_ad__src.found_adl_3_nl0_ce0:
+[15:46:58.684] ProfileData [keyCandidates=1, inclusionDependencies=0] 
+KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.found_adl_3_nl0_ce0.sleep_adl_3_nl0_ae0ke0], isPrimaryKey=false]
+
+[15:46:58.684] Profile Data for relation mixed_0_inds_s_cp_ad__src.match_dl_5_nl0_ce0:
+[15:46:58.684] ProfileData [keyCandidates=1, inclusionDependencies=0] 
+KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.match_dl_5_nl0_ce0.debts_dl_5_nl0_ae0ke0], isPrimaryKey=false]
+
+[15:46:58.684] Profile Data for relation mixed_0_inds_s_cp_ad__src.nut_cp_1_nl0_ce0:
+[15:46:58.684] ProfileData [keyCandidates=1, inclusionDependencies=0] 
+KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.nut_cp_1_nl0_ce0.art_cp_1_nl0_ae0ke0], isPrimaryKey=false]
+
+[15:46:58.684] Profile Data for relation mixed_0_inds_s_cp_ad__src.chin_cp_2_nl0_ce0:
+[15:46:58.684] ProfileData [keyCandidates=1, inclusionDependencies=0] 
+KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.chin_cp_2_nl0_ce0.mixed_cp_2_nl0_ae0ke0], isPrimaryKey=false]
+
+[15:46:58.684] Profile Data for relation mixed_0_inds_s_cp_ad__src.walk_adl_4_nl0_ce0:
+[15:46:58.684] ProfileData [keyCandidates=1, inclusionDependencies=0] 
+KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.walk_adl_4_nl0_ce0.count_adl_4_nl0_ae0ke0], isPrimaryKey=false]
+
+[15:46:58.684] Profile Data for relation mixed_0_inds_s_cp_ad__src.division_ad_2_nl0_ce0:
+[15:46:58.684] ProfileData [keyCandidates=1, inclusionDependencies=0] 
+KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.division_ad_2_nl0_ce0.ready_ad_2_nl0_ae0ke0], isPrimaryKey=false]
+
+[15:46:58.684] Profile Data for relation mixed_0_inds_s_cp_ad__src.agency_cp_4_nl0_ce0:
+[15:46:58.684] ProfileData [keyCandidates=1, inclusionDependencies=0] 
+KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.agency_cp_4_nl0_ce0.complete_cp_4_nl0_ae0ke0], isPrimaryKey=false]
+
+[15:46:58.684] Profile Data for relation mixed_0_inds_s_cp_ad__src.great_ad_1_nl0_ce0:
+[15:46:58.684] ProfileData [keyCandidates=1, inclusionDependencies=0] 
+KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.great_ad_1_nl0_ce0.board_ad_1_nl0_ae0ke0], isPrimaryKey=false]
+
+[15:46:58.684] Profile Data for relation mixed_0_inds_s_cp_ad__src.past_dl_1_nl0_ce0:
+[15:46:58.684] ProfileData [keyCandidates=1, inclusionDependencies=0] 
+KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.past_dl_1_nl0_ce0.wheel_dl_1_nl0_ae0ke0], isPrimaryKey=false]
+
+[15:46:58.684] Profile Data for relation mixed_0_inds_s_cp_ad__src.kind_cp_3_nl0_ce0:
+[15:46:58.684] ProfileData [keyCandidates=1, inclusionDependencies=0] 
+KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.kind_cp_3_nl0_ce0.prove_cp_3_nl0_ae0ke0], isPrimaryKey=false]
+
+[15:46:58.685] Profile Data for relation mixed_0_inds_s_cp_ad__src.round_adl_5_nl0_ce0:
+[15:46:58.685] ProfileData [keyCandidates=1, inclusionDependencies=0] 
+KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.round_adl_5_nl0_ce0.win_adl_5_nl0_ae0ke0], isPrimaryKey=false]
+
+[15:46:58.685] Profile Data for relation mixed_0_inds_s_cp_ad__src.treat_dl_3_nl0_ce0:
+[15:46:58.685] ProfileData [keyCandidates=1, inclusionDependencies=0] 
+KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.treat_dl_3_nl0_ce0.farm_dl_3_nl0_ae0ke0], isPrimaryKey=false]
+
+[15:46:58.685] Profile Data for relation mixed_0_inds_s_cp_ad__src.brown_adl_2_nl0_ce0:
+[15:46:58.685] ProfileData [keyCandidates=1, inclusionDependencies=0] 
+KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.brown_adl_2_nl0_ce0.hit_adl_2_nl0_ae0ke0], isPrimaryKey=false]
+
+[15:46:58.685] Profile Data for relation mixed_0_inds_s_cp_ad__src.sleep_ad_5_nl0_ce0:
+[15:46:58.685] ProfileData [keyCandidates=1, inclusionDependencies=0] 
+KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.sleep_ad_5_nl0_ce0.bath_ad_5_nl0_ae0ke0], isPrimaryKey=false]
+
+[15:46:58.685] Profile Data for relation mixed_0_inds_s_cp_ad__src.charge_ad_3_nl0_ce0:
+[15:46:58.685] ProfileData [keyCandidates=1, inclusionDependencies=0] 
+KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.charge_ad_3_nl0_ce0.certain_ad_3_nl0_ae0ke0], isPrimaryKey=false]
+
+[15:46:58.685] Profile Data for relation mixed_0_inds_s_cp_ad__src.judge_cp_5_nl0_ce0:
+[15:46:58.685] ProfileData [keyCandidates=1, inclusionDependencies=0] 
+KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.judge_cp_5_nl0_ce0.impulse_cp_5_nl0_ae0ke0], isPrimaryKey=false]
+
+[15:46:58.688] 
+No size estimations were given in the profile data file...reading them from data sources...
+[15:46:58.688] Reading cardinalities for relations in mixed_0_inds_s_cp_ad__trg
+[15:46:58.694] |mixed_0_inds_s_cp_ad__trg.test_le_1_nl0_ce0_target_relation|=1
+[15:46:58.694] 
+No null estimations were given in the profile data file...reading them from data sources...
+[15:46:58.694] Reading number of nulls for relations in mixed_0_inds_s_cp_ad__trg
+[15:46:58.702] nulls(mixed_0_inds_s_cp_ad__trg.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_t_attribute1)=0
+[15:46:58.702] nulls(mixed_0_inds_s_cp_ad__trg.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_t_attribute3)=0
+[15:46:58.703] nulls(mixed_0_inds_s_cp_ad__trg.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_t_attribute2)=0
+[15:46:58.703] nulls(mixed_0_inds_s_cp_ad__trg.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_t_attribute9)=0
+[15:46:58.703] nulls(mixed_0_inds_s_cp_ad__trg.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_t_attribute8)=0
+[15:46:58.704] nulls(mixed_0_inds_s_cp_ad__trg.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_t_attribute5)=0
+[15:46:58.704] nulls(mixed_0_inds_s_cp_ad__trg.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_t_attribute4)=0
+[15:46:58.705] nulls(mixed_0_inds_s_cp_ad__trg.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_t_attribute7)=0
+[15:46:58.705] nulls(mixed_0_inds_s_cp_ad__trg.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_t_attribute6)=0
+[15:46:58.705] 
+No info about attribute's distinct values were given in the profile data file...reading them from data sources...
+[15:46:58.705] Reading distinct values for relations in mixed_0_inds_s_cp_ad__trg
+[15:46:58.712] distinct_vals(mixed_0_inds_s_cp_ad__trg.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_t_attribute1)=1
+[15:46:58.723] distinct_vals(mixed_0_inds_s_cp_ad__trg.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_t_attribute3)=1
+[15:46:58.730] distinct_vals(mixed_0_inds_s_cp_ad__trg.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_t_attribute2)=1
+[15:46:58.741] distinct_vals(mixed_0_inds_s_cp_ad__trg.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_t_attribute9)=1
+[15:46:58.748] distinct_vals(mixed_0_inds_s_cp_ad__trg.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_t_attribute8)=1
+[15:46:58.765] distinct_vals(mixed_0_inds_s_cp_ad__trg.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_t_attribute5)=1
+[15:46:58.776] distinct_vals(mixed_0_inds_s_cp_ad__trg.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_t_attribute4)=1
+[15:46:58.789] distinct_vals(mixed_0_inds_s_cp_ad__trg.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_t_attribute7)=1
+[15:46:58.801] distinct_vals(mixed_0_inds_s_cp_ad__trg.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_t_attribute6)=1
+[15:46:58.801] Initial Profile Data:
+
+[15:46:58.801] Profile Data for relation mixed_0_inds_s_cp_ad__trg.test_le_1_nl0_ce0_target_relation:
+[15:46:58.801] ProfileData [keyCandidates=1, inclusionDependencies=0] 
+KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__trg.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_t_attribute7], isPrimaryKey=true]
+
+[15:46:58.808] 
+Propagating profile data for mixed_0_inds_s_cp_ad__src.nut_cp_1_nl0_ce0 (InitialMappingOperator) = ir_1...
+[15:46:58.808] PROPAGATED KEY:KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.nut_cp_1_nl0_ce0.art_cp_1_nl0_ae0ke0], isPrimaryKey=false] INTO KeyConstraint [keyAttributes=[ir_1.A_7], isPrimaryKey=false]
+[15:46:58.810] 
+Propagating profile data for mixed_0_inds_s_cp_ad__src.great_ad_1_nl0_ce0 (InitialMappingOperator) = ir_3...
+[15:46:58.810] PROPAGATED KEY:KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.great_ad_1_nl0_ce0.board_ad_1_nl0_ae0ke0], isPrimaryKey=false] INTO KeyConstraint [keyAttributes=[ir_3.A_12], isPrimaryKey=false]
+[15:46:58.811] 
+Propagating profile data for mixed_0_inds_s_cp_ad__src.past_dl_1_nl0_ce0 (InitialMappingOperator) = ir_5...
+[15:46:58.811] PROPAGATED KEY:KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.past_dl_1_nl0_ce0.wheel_dl_1_nl0_ae0ke0], isPrimaryKey=false] INTO KeyConstraint [keyAttributes=[ir_5.A_24], isPrimaryKey=false]
+[15:46:58.812] 
+Propagating profile data for mixed_0_inds_s_cp_ad__src.narrow_adl_1_nl0_ce0 (InitialMappingOperator) = ir_7...
+[15:46:58.812] PROPAGATED KEY:KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.narrow_adl_1_nl0_ce0.rest_adl_1_nl0_ae0ke0], isPrimaryKey=false] INTO KeyConstraint [keyAttributes=[ir_7.A_33], isPrimaryKey=false]
+[15:46:58.814] 
+Propagating profile data for mixed_0_inds_s_cp_ad__src.chin_cp_2_nl0_ce0 (InitialMappingOperator) = ir_9...
+[15:46:58.814] PROPAGATED KEY:KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.chin_cp_2_nl0_ce0.mixed_cp_2_nl0_ae0ke0], isPrimaryKey=false] INTO KeyConstraint [keyAttributes=[ir_9.A_45], isPrimaryKey=false]
+[15:46:58.815] 
+Propagating profile data for mixed_0_inds_s_cp_ad__src.division_ad_2_nl0_ce0 (InitialMappingOperator) = ir_11...
+[15:46:58.815] PROPAGATED KEY:KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.division_ad_2_nl0_ce0.ready_ad_2_nl0_ae0ke0], isPrimaryKey=false] INTO KeyConstraint [keyAttributes=[ir_11.A_48], isPrimaryKey=false]
+[15:46:58.817] 
+Propagating profile data for mixed_0_inds_s_cp_ad__src.use_dl_2_nl0_ce0 (InitialMappingOperator) = ir_13...
+[15:46:58.817] PROPAGATED KEY:KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.use_dl_2_nl0_ce0.paint_dl_2_nl0_ae0ke0], isPrimaryKey=false] INTO KeyConstraint [keyAttributes=[ir_13.A_59], isPrimaryKey=false]
+[15:46:58.818] 
+Propagating profile data for mixed_0_inds_s_cp_ad__src.brown_adl_2_nl0_ce0 (InitialMappingOperator) = ir_15...
+[15:46:58.818] PROPAGATED KEY:KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.brown_adl_2_nl0_ce0.hit_adl_2_nl0_ae0ke0], isPrimaryKey=false] INTO KeyConstraint [keyAttributes=[ir_15.A_67], isPrimaryKey=false]
+[15:46:58.820] 
+Propagating profile data for mixed_0_inds_s_cp_ad__src.kind_cp_3_nl0_ce0 (InitialMappingOperator) = ir_17...
+[15:46:58.820] PROPAGATED KEY:KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.kind_cp_3_nl0_ce0.prove_cp_3_nl0_ae0ke0], isPrimaryKey=false] INTO KeyConstraint [keyAttributes=[ir_17.A_79], isPrimaryKey=false]
+[15:46:58.821] 
+Propagating profile data for mixed_0_inds_s_cp_ad__src.charge_ad_3_nl0_ce0 (InitialMappingOperator) = ir_19...
+[15:46:58.821] PROPAGATED KEY:KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.charge_ad_3_nl0_ce0.certain_ad_3_nl0_ae0ke0], isPrimaryKey=false] INTO KeyConstraint [keyAttributes=[ir_19.A_86], isPrimaryKey=false]
+[15:46:58.822] 
+Propagating profile data for mixed_0_inds_s_cp_ad__src.treat_dl_3_nl0_ce0 (InitialMappingOperator) = ir_21...
+[15:46:58.822] PROPAGATED KEY:KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.treat_dl_3_nl0_ce0.farm_dl_3_nl0_ae0ke0], isPrimaryKey=false] INTO KeyConstraint [keyAttributes=[ir_21.A_92], isPrimaryKey=false]
+[15:46:58.823] 
+Propagating profile data for mixed_0_inds_s_cp_ad__src.found_adl_3_nl0_ce0 (InitialMappingOperator) = ir_23...
+[15:46:58.823] PROPAGATED KEY:KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.found_adl_3_nl0_ce0.sleep_adl_3_nl0_ae0ke0], isPrimaryKey=false] INTO KeyConstraint [keyAttributes=[ir_23.A_108], isPrimaryKey=false]
+[15:46:58.825] 
+Propagating profile data for mixed_0_inds_s_cp_ad__src.agency_cp_4_nl0_ce0 (InitialMappingOperator) = ir_25...
+[15:46:58.825] PROPAGATED KEY:KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.agency_cp_4_nl0_ce0.complete_cp_4_nl0_ae0ke0], isPrimaryKey=false] INTO KeyConstraint [keyAttributes=[ir_25.A_114], isPrimaryKey=false]
+[15:46:58.825] 
+Propagating profile data for mixed_0_inds_s_cp_ad__src.gold_ad_4_nl0_ce0 (InitialMappingOperator) = ir_27...
+[15:46:58.826] PROPAGATED KEY:KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.gold_ad_4_nl0_ce0.pain_ad_4_nl0_ae0ke0], isPrimaryKey=false] INTO KeyConstraint [keyAttributes=[ir_27.A_125], isPrimaryKey=false]
+[15:46:58.827] 
+Propagating profile data for mixed_0_inds_s_cp_ad__src.copy_dl_4_nl0_ce0 (InitialMappingOperator) = ir_29...
+[15:46:58.827] PROPAGATED KEY:KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.copy_dl_4_nl0_ce0.thick_dl_4_nl0_ae0ke0], isPrimaryKey=false] INTO KeyConstraint [keyAttributes=[ir_29.A_140], isPrimaryKey=false]
+[15:46:58.828] 
+Propagating profile data for mixed_0_inds_s_cp_ad__src.walk_adl_4_nl0_ce0 (InitialMappingOperator) = ir_31...
+[15:46:58.828] PROPAGATED KEY:KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.walk_adl_4_nl0_ce0.count_adl_4_nl0_ae0ke0], isPrimaryKey=false] INTO KeyConstraint [keyAttributes=[ir_31.A_144], isPrimaryKey=false]
+[15:46:58.829] 
+Propagating profile data for mixed_0_inds_s_cp_ad__src.judge_cp_5_nl0_ce0 (InitialMappingOperator) = ir_33...
+[15:46:58.829] PROPAGATED KEY:KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.judge_cp_5_nl0_ce0.impulse_cp_5_nl0_ae0ke0], isPrimaryKey=false] INTO KeyConstraint [keyAttributes=[ir_33.A_159], isPrimaryKey=false]
+[15:46:58.830] 
+Propagating profile data for mixed_0_inds_s_cp_ad__src.sleep_ad_5_nl0_ce0 (InitialMappingOperator) = ir_35...
+[15:46:58.830] PROPAGATED KEY:KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.sleep_ad_5_nl0_ce0.bath_ad_5_nl0_ae0ke0], isPrimaryKey=false] INTO KeyConstraint [keyAttributes=[ir_35.A_167], isPrimaryKey=false]
+[15:46:58.831] 
+Propagating profile data for mixed_0_inds_s_cp_ad__src.match_dl_5_nl0_ce0 (InitialMappingOperator) = ir_37...
+[15:46:58.831] PROPAGATED KEY:KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.match_dl_5_nl0_ce0.debts_dl_5_nl0_ae0ke0], isPrimaryKey=false] INTO KeyConstraint [keyAttributes=[ir_37.A_168], isPrimaryKey=false]
+[15:46:58.833] 
+Propagating profile data for mixed_0_inds_s_cp_ad__src.round_adl_5_nl0_ce0 (InitialMappingOperator) = ir_39...
+[15:46:58.833] PROPAGATED KEY:KeyConstraint [keyAttributes=[mixed_0_inds_s_cp_ad__src.round_adl_5_nl0_ce0.win_adl_5_nl0_ae0ke0], isPrimaryKey=false] INTO KeyConstraint [keyAttributes=[ir_39.A_182], isPrimaryKey=false]
+[15:46:58.910] 
+Propagating profile data for (agency_cp_4_nl0_ce0) UnionOperator (judge_cp_5_nl0_ce0) = ir_60...
+[15:46:58.910] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_25.A_114], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_60.A_333], isPrimaryKey=false]
+[15:46:58.910] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_25.A_114], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_60.A_333], isPrimaryKey=false]
+[15:46:58.910] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_33.A_159], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_60.A_342], isPrimaryKey=false]
+[15:46:58.910] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_33.A_159], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_60.A_342], isPrimaryKey=false]
+[15:46:58.910] 
+Propagating profile data for (great_ad_1_nl0_ce0) UnionOperator (found_adl_3_nl0_ce0) = ir_58...
+[15:46:58.910] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_3.A_12], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_58.A_319], isPrimaryKey=false]
+[15:46:58.910] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_3.A_12], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_58.A_319], isPrimaryKey=false]
+[15:46:58.911] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_23.A_108], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_58.A_326], isPrimaryKey=false]
+[15:46:58.911] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_23.A_108], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_58.A_326], isPrimaryKey=false]
+[15:46:58.911] 
+Propagating profile data for (gold_ad_4_nl0_ce0) UnionOperator (walk_adl_4_nl0_ce0) = ir_48...
+[15:46:58.911] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_27.A_125], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_48.A_237], isPrimaryKey=false]
+[15:46:58.911] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_27.A_125], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_48.A_237], isPrimaryKey=false]
+[15:46:58.911] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_31.A_144], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_48.A_244], isPrimaryKey=false]
+[15:46:58.911] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_31.A_144], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_48.A_244], isPrimaryKey=false]
+[15:46:58.911] 
+Propagating profile data for (kind_cp_3_nl0_ce0) UnionOperator (nut_cp_1_nl0_ce0) = ir_56...
+[15:46:58.911] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_17.A_79], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_56.A_301], isPrimaryKey=false]
+[15:46:58.911] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_17.A_79], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_56.A_301], isPrimaryKey=false]
+[15:46:58.911] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_1.A_7], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_56.A_310], isPrimaryKey=false]
+[15:46:58.912] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_1.A_7], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_56.A_310], isPrimaryKey=false]
+[15:46:58.912] 
+Propagating profile data for (narrow_adl_1_nl0_ce0) UnionOperator (sleep_ad_5_nl0_ce0) = ir_42...
+[15:46:58.914] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_7.A_33], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_42.A_191], isPrimaryKey=false]
+[15:46:58.914] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_7.A_33], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_42.A_191], isPrimaryKey=false]
+[15:46:58.914] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_35.A_167], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_42.A_198], isPrimaryKey=false]
+[15:46:58.914] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_35.A_167], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_42.A_198], isPrimaryKey=false]
+[15:46:58.915] 
+Propagating profile data for (brown_adl_2_nl0_ce0) UnionOperator (round_adl_5_nl0_ce0) = ir_52...
+[15:46:58.915] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_15.A_67], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_52.A_269], isPrimaryKey=false]
+[15:46:58.915] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_15.A_67], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_52.A_269], isPrimaryKey=false]
+[15:46:58.915] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_39.A_182], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_52.A_276], isPrimaryKey=false]
+[15:46:58.915] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_39.A_182], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_52.A_276], isPrimaryKey=false]
+[15:46:58.916] 
+Propagating profile data for (past_dl_1_nl0_ce0) UnionOperator (match_dl_5_nl0_ce0) = ir_54...
+[15:46:58.916] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_5.A_24], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_54.A_283], isPrimaryKey=false]
+[15:46:58.916] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_5.A_24], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_54.A_283], isPrimaryKey=false]
+[15:46:58.916] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_37.A_168], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_54.A_292], isPrimaryKey=false]
+[15:46:58.916] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_37.A_168], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_54.A_292], isPrimaryKey=false]
+[15:46:58.917] 
+Propagating profile data for (treat_dl_3_nl0_ce0) UnionOperator (copy_dl_4_nl0_ce0) = ir_50...
+[15:46:58.917] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_21.A_92], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_50.A_251], isPrimaryKey=false]
+[15:46:58.917] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_21.A_92], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_50.A_251], isPrimaryKey=false]
+[15:46:58.917] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_29.A_140], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_50.A_260], isPrimaryKey=false]
+[15:46:58.917] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_29.A_140], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_50.A_260], isPrimaryKey=false]
+[15:46:58.923] 
+Propagating profile data for (division_ad_2_nl0_ce0) UnionOperator (charge_ad_3_nl0_ce0) = ir_46...
+[15:46:58.923] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_11.A_48], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_46.A_223], isPrimaryKey=false]
+[15:46:58.923] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_11.A_48], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_46.A_223], isPrimaryKey=false]
+[15:46:58.923] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_19.A_86], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_46.A_230], isPrimaryKey=false]
+[15:46:58.924] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_19.A_86], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_46.A_230], isPrimaryKey=false]
+[15:46:58.926] 
+Propagating profile data for (chin_cp_2_nl0_ce0) UnionOperator (use_dl_2_nl0_ce0) = ir_44...
+[15:46:58.926] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_9.A_45], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_44.A_205], isPrimaryKey=false]
+[15:46:58.926] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_9.A_45], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_44.A_205], isPrimaryKey=false]
+[15:46:58.927] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_13.A_59], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_44.A_214], isPrimaryKey=false]
+[15:46:58.927] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_13.A_59], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_44.A_214], isPrimaryKey=false]
+[15:46:58.940] 
+Propagating profile data for (match_dl_5_nl0_ce0..past_dl_1_nl0_ce0) UnionOperator (copy_dl_4_nl0_ce0..treat_dl_3_nl0_ce0) = ir_68...
+[15:46:58.940] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_54.A_283], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_68.A_397], isPrimaryKey=false]
+[15:46:58.940] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_54.A_283], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_68.A_397], isPrimaryKey=false]
+[15:46:58.940] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_50.A_251], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_68.A_406], isPrimaryKey=false]
+[15:46:58.940] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_50.A_251], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_68.A_406], isPrimaryKey=false]
+[15:46:58.941] 
+Propagating profile data for (narrow_adl_1_nl0_ce0..sleep_ad_5_nl0_ce0) UnionOperator (brown_adl_2_nl0_ce0..round_adl_5_nl0_ce0) = ir_66...
+[15:46:58.941] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_42.A_191], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_66.A_383], isPrimaryKey=false]
+[15:46:58.941] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_42.A_191], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_66.A_383], isPrimaryKey=false]
+[15:46:58.941] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_52.A_269], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_66.A_390], isPrimaryKey=false]
+[15:46:58.941] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_52.A_269], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_66.A_390], isPrimaryKey=false]
+[15:46:58.942] 
+Propagating profile data for (agency_cp_4_nl0_ce0..judge_cp_5_nl0_ce0) UnionOperator (kind_cp_3_nl0_ce0..nut_cp_1_nl0_ce0) = ir_62...
+[15:46:58.942] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_60.A_333], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_62.A_351], isPrimaryKey=false]
+[15:46:58.942] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_60.A_333], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_62.A_351], isPrimaryKey=false]
+[15:46:58.942] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_56.A_301], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_62.A_360], isPrimaryKey=false]
+[15:46:58.942] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_56.A_301], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_62.A_360], isPrimaryKey=false]
+[15:46:58.943] 
+Propagating profile data for (found_adl_3_nl0_ce0..great_ad_1_nl0_ce0) UnionOperator (gold_ad_4_nl0_ce0..walk_adl_4_nl0_ce0) = ir_64...
+[15:46:58.943] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_58.A_319], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_64.A_369], isPrimaryKey=false]
+[15:46:58.943] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_58.A_319], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_64.A_369], isPrimaryKey=false]
+[15:46:58.943] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_48.A_237], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_64.A_376], isPrimaryKey=false]
+[15:46:58.943] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_48.A_237], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_64.A_376], isPrimaryKey=false]
+[15:46:58.952] 
+Propagating profile data for (chin_cp_2_nl0_ce0..use_dl_2_nl0_ce0) UnionOperator (copy_dl_4_nl0_ce0..match_dl_5_nl0_ce0..past_dl_1_nl0_ce0..treat_dl_3_nl0_ce0) = ir_72...
+[15:46:58.952] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_44.A_205], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_72.A_429], isPrimaryKey=false]
+[15:46:58.952] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_44.A_205], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_72.A_429], isPrimaryKey=false]
+[15:46:58.952] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_68.A_397], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_72.A_438], isPrimaryKey=false]
+[15:46:58.952] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_68.A_397], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_72.A_438], isPrimaryKey=false]
+[15:46:58.953] 
+Propagating profile data for (charge_ad_3_nl0_ce0..division_ad_2_nl0_ce0) UnionOperator (brown_adl_2_nl0_ce0..narrow_adl_1_nl0_ce0..round_adl_5_nl0_ce0..sleep_ad_5_nl0_ce0) = ir_70...
+[15:46:58.953] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_46.A_223], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_70.A_415], isPrimaryKey=false]
+[15:46:58.953] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_46.A_223], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_70.A_415], isPrimaryKey=false]
+[15:46:58.953] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_66.A_383], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_70.A_422], isPrimaryKey=false]
+[15:46:58.953] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_66.A_383], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_70.A_422], isPrimaryKey=false]
+[15:46:58.958] 
+Propagating profile data for (agency_cp_4_nl0_ce0..judge_cp_5_nl0_ce0..kind_cp_3_nl0_ce0..nut_cp_1_nl0_ce0) UnionOperator (chin_cp_2_nl0_ce0..copy_dl_4_nl0_ce0..match_dl_5_nl0_ce0..past_dl_1_nl0_ce0..treat_dl_3_nl0_ce0..use_dl_2_nl0_ce0) = ir_74...
+[15:46:58.958] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_62.A_351], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_74.A_447], isPrimaryKey=false]
+[15:46:58.958] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_62.A_351], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_74.A_447], isPrimaryKey=false]
+[15:46:58.958] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_72.A_429], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_74.A_456], isPrimaryKey=false]
+[15:46:58.958] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_72.A_429], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_74.A_456], isPrimaryKey=false]
+[15:46:58.959] 
+Propagating profile data for (found_adl_3_nl0_ce0..gold_ad_4_nl0_ce0..great_ad_1_nl0_ce0..walk_adl_4_nl0_ce0) UnionOperator (brown_adl_2_nl0_ce0..charge_ad_3_nl0_ce0..division_ad_2_nl0_ce0..narrow_adl_1_nl0_ce0..round_adl_5_nl0_ce0..sleep_ad_5_nl0_ce0) = ir_76...
+[15:46:58.959] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_64.A_369], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_76.A_465], isPrimaryKey=false]
+[15:46:58.959] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_64.A_369], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_76.A_465], isPrimaryKey=false]
+[15:46:58.959] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_70.A_415], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_76.A_472], isPrimaryKey=false]
+[15:46:58.959] PROPAGATED KEY:
+KeyConstraint [keyAttributes=[ir_70.A_415], isPrimaryKey=false] INTO
+KeyConstraint [keyAttributes=[ir_76.A_472], isPrimaryKey=false]
+[15:46:58.973] -- end of file --

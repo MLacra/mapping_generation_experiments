@@ -1,0 +1,1245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mappingtask>
+  <config>
+ <rewriteSubsumptions>true</rewriteSubsumptions>
+    <rewriteCoverages>true</rewriteCoverages>
+    <rewriteSelfJoins>true</rewriteSelfJoins>
+    <rewriteEGDs>true</rewriteEGDs>
+    <sortStrategy>-1</sortStrategy>
+    <skolemTableStrategy>-1</skolemTableStrategy>
+    <useLocalSkolem>false</useLocalSkolem>
+  </config>
+  <source>
+    <type>relational</type>
+    <relational>
+      <driver>org.postgresql.Driver</driver>
+ <uri>jdbc:postgresql://localhost:5432/testsdatabase</uri>
+ <login>lara</login>
+ <password>postgres</password> 
+ </relational>
+    <inclusions />
+    <exclusions />
+    <duplications />
+    <functionalDependencies />
+    <selectionConditions />
+ <joinConditions>
+ <joinCondition>
+ <join>
+<from>testsdatabase.mixed_ma_1_nl0_ce0.mixed_ma_1_nl0_ce0Tuple.chin_ma_1_nl0_ae0comp1_joinref_0</from>
+<to>testsdatabase.branch_ma_1_nl0_ce1.branch_ma_1_nl0_ce1Tuple.chin_ma_1_nl0_ae0comp1_joinattr_0</to>
+</join> <foreignKey>true</foreignKey>
+  <mandatory>false</mandatory>
+</joinCondition>
+ </joinConditions>
+  </source> 
+ <target>
+    <type>relational</type>
+    <relational>
+      <driver>org.postgresql.Driver</driver>
+      <uri> jdbc:postgresql://localhost:5432/testsdatabase</uri>
+ <login>lara</login>
+      <password>postgres</password>
+    </relational>
+    <inclusions />
+    <exclusions />
+    <duplications />
+    <functionalDependencies />
+    <selectionConditions />
+    <joinConditions />
+  </target> 
+<correspondences>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.nut_cp_1_nl0_ce0.nut_cp_1_nl0_ce0Tuple.art_cp_1_nl0_ae0ke0</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute1</target-path>
+<transformation-function>testsdatabase.nut_cp_1_nl0_ce0.nut_cp_1_nl0_ce0Tuple.art_cp_1_nl0_ae0ke0</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.nut_cp_1_nl0_ce0.nut_cp_1_nl0_ce0Tuple.slope_cp_1_nl0_ae1</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute2</target-path>
+<transformation-function>testsdatabase.nut_cp_1_nl0_ce0.nut_cp_1_nl0_ce0Tuple.slope_cp_1_nl0_ae1</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.nut_cp_1_nl0_ce0.nut_cp_1_nl0_ce0Tuple.measure_cp_1_nl0_ae2</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute3</target-path>
+<transformation-function>testsdatabase.nut_cp_1_nl0_ce0.nut_cp_1_nl0_ce0Tuple.measure_cp_1_nl0_ae2</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.nut_cp_1_nl0_ce0.nut_cp_1_nl0_ce0Tuple.touch_cp_1_nl0_ae3</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute4</target-path>
+<transformation-function>testsdatabase.nut_cp_1_nl0_ce0.nut_cp_1_nl0_ce0Tuple.touch_cp_1_nl0_ae3</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.nut_cp_1_nl0_ce0.nut_cp_1_nl0_ce0Tuple.cheese_cp_1_nl0_ae4</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute5</target-path>
+<transformation-function>testsdatabase.nut_cp_1_nl0_ce0.nut_cp_1_nl0_ce0Tuple.cheese_cp_1_nl0_ae4</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.nut_cp_1_nl0_ce0.nut_cp_1_nl0_ce0Tuple.society_cp_1_nl0_ae5</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute6</target-path>
+<transformation-function>testsdatabase.nut_cp_1_nl0_ce0.nut_cp_1_nl0_ce0Tuple.society_cp_1_nl0_ae5</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.nut_cp_1_nl0_ce0.nut_cp_1_nl0_ce0Tuple.compare_cp_1_nl0_ae6</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute7</target-path>
+<transformation-function>testsdatabase.nut_cp_1_nl0_ce0.nut_cp_1_nl0_ce0Tuple.compare_cp_1_nl0_ae6</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.nut_cp_1_nl0_ce0.nut_cp_1_nl0_ce0Tuple.branch_cp_1_nl0_ae7</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute8</target-path>
+<transformation-function>testsdatabase.nut_cp_1_nl0_ce0.nut_cp_1_nl0_ce0Tuple.branch_cp_1_nl0_ae7</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.nut_cp_1_nl0_ce0.nut_cp_1_nl0_ce0Tuple.demand_cp_1_nl0_ae8</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute9</target-path>
+<transformation-function>testsdatabase.nut_cp_1_nl0_ce0.nut_cp_1_nl0_ce0Tuple.demand_cp_1_nl0_ae8</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.great_ad_1_nl0_ce0.great_ad_1_nl0_ce0Tuple.board_ad_1_nl0_ae0ke0</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute1</target-path>
+<transformation-function>testsdatabase.great_ad_1_nl0_ce0.great_ad_1_nl0_ce0Tuple.board_ad_1_nl0_ae0ke0</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.great_ad_1_nl0_ce0.great_ad_1_nl0_ce0Tuple.different_ad_1_nl0_ae1</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute2</target-path>
+<transformation-function>testsdatabase.great_ad_1_nl0_ce0.great_ad_1_nl0_ce0Tuple.different_ad_1_nl0_ae1</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.great_ad_1_nl0_ce0.great_ad_1_nl0_ce0Tuple.society_ad_1_nl0_ae2</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute3</target-path>
+<transformation-function>testsdatabase.great_ad_1_nl0_ce0.great_ad_1_nl0_ce0Tuple.society_ad_1_nl0_ae2</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.great_ad_1_nl0_ce0.great_ad_1_nl0_ce0Tuple.warn_ad_1_nl0_ae3</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute4</target-path>
+<transformation-function>testsdatabase.great_ad_1_nl0_ce0.great_ad_1_nl0_ce0Tuple.warn_ad_1_nl0_ae3</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.great_ad_1_nl0_ce0.great_ad_1_nl0_ce0Tuple.tail_ad_1_nl0_ae4</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute5</target-path>
+<transformation-function>testsdatabase.great_ad_1_nl0_ce0.great_ad_1_nl0_ce0Tuple.tail_ad_1_nl0_ae4</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.great_ad_1_nl0_ce0.great_ad_1_nl0_ce0Tuple.red_ad_1_nl0_ae5</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute6</target-path>
+<transformation-function>testsdatabase.great_ad_1_nl0_ce0.great_ad_1_nl0_ce0Tuple.red_ad_1_nl0_ae5</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.great_ad_1_nl0_ce0.great_ad_1_nl0_ce0Tuple.wrong_ad_1_nl0_ae6</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute7</target-path>
+<transformation-function>testsdatabase.great_ad_1_nl0_ce0.great_ad_1_nl0_ce0Tuple.wrong_ad_1_nl0_ae6</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.past_dl_1_nl0_ce0.past_dl_1_nl0_ce0Tuple.wheel_dl_1_nl0_ae0ke0</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute1</target-path>
+<transformation-function>testsdatabase.past_dl_1_nl0_ce0.past_dl_1_nl0_ce0Tuple.wheel_dl_1_nl0_ae0ke0</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.past_dl_1_nl0_ce0.past_dl_1_nl0_ce0Tuple.letter_dl_1_nl0_ae1</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute2</target-path>
+<transformation-function>testsdatabase.past_dl_1_nl0_ce0.past_dl_1_nl0_ce0Tuple.letter_dl_1_nl0_ae1</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.past_dl_1_nl0_ce0.past_dl_1_nl0_ce0Tuple.blue_dl_1_nl0_ae2</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute3</target-path>
+<transformation-function>testsdatabase.past_dl_1_nl0_ce0.past_dl_1_nl0_ce0Tuple.blue_dl_1_nl0_ae2</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.past_dl_1_nl0_ce0.past_dl_1_nl0_ce0Tuple.describe_dl_1_nl0_ae3</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute4</target-path>
+<transformation-function>testsdatabase.past_dl_1_nl0_ce0.past_dl_1_nl0_ce0Tuple.describe_dl_1_nl0_ae3</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.past_dl_1_nl0_ce0.past_dl_1_nl0_ce0Tuple.report_dl_1_nl0_ae4</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute5</target-path>
+<transformation-function>testsdatabase.past_dl_1_nl0_ce0.past_dl_1_nl0_ce0Tuple.report_dl_1_nl0_ae4</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.past_dl_1_nl0_ce0.past_dl_1_nl0_ce0Tuple.night_dl_1_nl0_ae5</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute6</target-path>
+<transformation-function>testsdatabase.past_dl_1_nl0_ce0.past_dl_1_nl0_ce0Tuple.night_dl_1_nl0_ae5</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.past_dl_1_nl0_ce0.past_dl_1_nl0_ce0Tuple.find_dl_1_nl0_ae6</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute7</target-path>
+<transformation-function>testsdatabase.past_dl_1_nl0_ce0.past_dl_1_nl0_ce0Tuple.find_dl_1_nl0_ae6</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.past_dl_1_nl0_ce0.past_dl_1_nl0_ce0Tuple.attention_dl_1_nl0_ae7</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute8</target-path>
+<transformation-function>testsdatabase.past_dl_1_nl0_ce0.past_dl_1_nl0_ce0Tuple.attention_dl_1_nl0_ae7</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.past_dl_1_nl0_ce0.past_dl_1_nl0_ce0Tuple.discover_dl_1_nl0_ae8</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute9</target-path>
+<transformation-function>testsdatabase.past_dl_1_nl0_ce0.past_dl_1_nl0_ce0Tuple.discover_dl_1_nl0_ae8</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.narrow_adl_1_nl0_ce0.narrow_adl_1_nl0_ce0Tuple.rest_adl_1_nl0_ae0ke0</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute1</target-path>
+<transformation-function>testsdatabase.narrow_adl_1_nl0_ce0.narrow_adl_1_nl0_ce0Tuple.rest_adl_1_nl0_ae0ke0</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.narrow_adl_1_nl0_ce0.narrow_adl_1_nl0_ce0Tuple.expansion_adl_1_nl0_ae1</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute2</target-path>
+<transformation-function>testsdatabase.narrow_adl_1_nl0_ce0.narrow_adl_1_nl0_ce0Tuple.expansion_adl_1_nl0_ae1</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.narrow_adl_1_nl0_ce0.narrow_adl_1_nl0_ce0Tuple.pipe_adl_1_nl0_ae2</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute3</target-path>
+<transformation-function>testsdatabase.narrow_adl_1_nl0_ce0.narrow_adl_1_nl0_ce0Tuple.pipe_adl_1_nl0_ae2</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.narrow_adl_1_nl0_ce0.narrow_adl_1_nl0_ce0Tuple.indicate_adl_1_nl0_ae3</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute4</target-path>
+<transformation-function>testsdatabase.narrow_adl_1_nl0_ce0.narrow_adl_1_nl0_ce0Tuple.indicate_adl_1_nl0_ae3</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.narrow_adl_1_nl0_ce0.narrow_adl_1_nl0_ce0Tuple.thank_adl_1_nl0_ae4</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute5</target-path>
+<transformation-function>testsdatabase.narrow_adl_1_nl0_ce0.narrow_adl_1_nl0_ce0Tuple.thank_adl_1_nl0_ae4</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.narrow_adl_1_nl0_ce0.narrow_adl_1_nl0_ce0Tuple.stick_adl_1_nl0_ae5</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute6</target-path>
+<transformation-function>testsdatabase.narrow_adl_1_nl0_ce0.narrow_adl_1_nl0_ce0Tuple.stick_adl_1_nl0_ae5</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.narrow_adl_1_nl0_ce0.narrow_adl_1_nl0_ce0Tuple.order_adl_1_nl0_ae6</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute7</target-path>
+<transformation-function>testsdatabase.narrow_adl_1_nl0_ce0.narrow_adl_1_nl0_ce0Tuple.order_adl_1_nl0_ae6</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.mixed_ma_1_nl0_ce0.mixed_ma_1_nl0_ce0Tuple.small_ma_1_nl0_ae0</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute1</target-path>
+<transformation-function>testsdatabase.mixed_ma_1_nl0_ce0.mixed_ma_1_nl0_ce0Tuple.small_ma_1_nl0_ae0</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.mixed_ma_1_nl0_ce0.mixed_ma_1_nl0_ce0Tuple.broken_ma_1_nl0_ae1</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute2</target-path>
+<transformation-function>testsdatabase.mixed_ma_1_nl0_ce0.mixed_ma_1_nl0_ce0Tuple.broken_ma_1_nl0_ae1</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.mixed_ma_1_nl0_ce0.mixed_ma_1_nl0_ce0Tuple.brain_ma_1_nl0_ae2</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute3</target-path>
+<transformation-function>testsdatabase.mixed_ma_1_nl0_ce0.mixed_ma_1_nl0_ce0Tuple.brain_ma_1_nl0_ae2</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.branch_ma_1_nl0_ce1.branch_ma_1_nl0_ce1Tuple.swim_ma_1_nl1_ae0</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute4</target-path>
+<transformation-function>testsdatabase.branch_ma_1_nl0_ce1.branch_ma_1_nl0_ce1Tuple.swim_ma_1_nl1_ae0</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.branch_ma_1_nl0_ce1.branch_ma_1_nl0_ce1Tuple.place_ma_1_nl1_ae1</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute5</target-path>
+<transformation-function>testsdatabase.branch_ma_1_nl0_ce1.branch_ma_1_nl0_ce1Tuple.place_ma_1_nl1_ae1</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.branch_ma_1_nl0_ce1.branch_ma_1_nl0_ce1Tuple.approval_ma_1_nl1_ae2</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute6</target-path>
+<transformation-function>testsdatabase.branch_ma_1_nl0_ce1.branch_ma_1_nl0_ce1Tuple.approval_ma_1_nl1_ae2</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.branch_ma_1_nl0_ce1.branch_ma_1_nl0_ce1Tuple.chin_ma_1_nl0_ae0comp1_joinattr_0</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute7</target-path>
+<transformation-function>testsdatabase.branch_ma_1_nl0_ce1.branch_ma_1_nl0_ce1Tuple.chin_ma_1_nl0_ae0comp1_joinattr_0</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.blow_cp_2_nl0_ce0.blow_cp_2_nl0_ce0Tuple.division_cp_2_nl0_ae0ke0</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute1</target-path>
+<transformation-function>testsdatabase.blow_cp_2_nl0_ce0.blow_cp_2_nl0_ce0Tuple.division_cp_2_nl0_ae0ke0</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.blow_cp_2_nl0_ce0.blow_cp_2_nl0_ce0Tuple.ready_cp_2_nl0_ae1</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute2</target-path>
+<transformation-function>testsdatabase.blow_cp_2_nl0_ce0.blow_cp_2_nl0_ce0Tuple.ready_cp_2_nl0_ae1</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.blow_cp_2_nl0_ce0.blow_cp_2_nl0_ce0Tuple.property_cp_2_nl0_ae2</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute3</target-path>
+<transformation-function>testsdatabase.blow_cp_2_nl0_ce0.blow_cp_2_nl0_ce0Tuple.property_cp_2_nl0_ae2</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.blow_cp_2_nl0_ce0.blow_cp_2_nl0_ce0Tuple.gun_cp_2_nl0_ae3</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute4</target-path>
+<transformation-function>testsdatabase.blow_cp_2_nl0_ce0.blow_cp_2_nl0_ce0Tuple.gun_cp_2_nl0_ae3</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.blow_cp_2_nl0_ce0.blow_cp_2_nl0_ce0Tuple.winter_cp_2_nl0_ae4</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute5</target-path>
+<transformation-function>testsdatabase.blow_cp_2_nl0_ce0.blow_cp_2_nl0_ce0Tuple.winter_cp_2_nl0_ae4</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.blow_cp_2_nl0_ce0.blow_cp_2_nl0_ce0Tuple.powder_cp_2_nl0_ae5</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute6</target-path>
+<transformation-function>testsdatabase.blow_cp_2_nl0_ce0.blow_cp_2_nl0_ce0Tuple.powder_cp_2_nl0_ae5</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.blow_cp_2_nl0_ce0.blow_cp_2_nl0_ce0Tuple.work_cp_2_nl0_ae6</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute7</target-path>
+<transformation-function>testsdatabase.blow_cp_2_nl0_ce0.blow_cp_2_nl0_ce0Tuple.work_cp_2_nl0_ae6</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.blow_cp_2_nl0_ce0.blow_cp_2_nl0_ce0Tuple.discuss_cp_2_nl0_ae7</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute8</target-path>
+<transformation-function>testsdatabase.blow_cp_2_nl0_ce0.blow_cp_2_nl0_ce0Tuple.discuss_cp_2_nl0_ae7</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.blow_cp_2_nl0_ce0.blow_cp_2_nl0_ce0Tuple.involve_cp_2_nl0_ae8</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute9</target-path>
+<transformation-function>testsdatabase.blow_cp_2_nl0_ce0.blow_cp_2_nl0_ce0Tuple.involve_cp_2_nl0_ae8</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.use_ad_2_nl0_ce0.use_ad_2_nl0_ce0Tuple.paint_ad_2_nl0_ae0ke0</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute1</target-path>
+<transformation-function>testsdatabase.use_ad_2_nl0_ce0.use_ad_2_nl0_ce0Tuple.paint_ad_2_nl0_ae0ke0</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.use_ad_2_nl0_ce0.use_ad_2_nl0_ce0Tuple.draw_ad_2_nl0_ae1</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute2</target-path>
+<transformation-function>testsdatabase.use_ad_2_nl0_ce0.use_ad_2_nl0_ce0Tuple.draw_ad_2_nl0_ae1</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.use_ad_2_nl0_ce0.use_ad_2_nl0_ce0Tuple.send_ad_2_nl0_ae2</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute3</target-path>
+<transformation-function>testsdatabase.use_ad_2_nl0_ce0.use_ad_2_nl0_ce0Tuple.send_ad_2_nl0_ae2</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.use_ad_2_nl0_ce0.use_ad_2_nl0_ce0Tuple.regular_ad_2_nl0_ae3</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute4</target-path>
+<transformation-function>testsdatabase.use_ad_2_nl0_ce0.use_ad_2_nl0_ce0Tuple.regular_ad_2_nl0_ae3</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.use_ad_2_nl0_ce0.use_ad_2_nl0_ce0Tuple.knee_ad_2_nl0_ae4</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute5</target-path>
+<transformation-function>testsdatabase.use_ad_2_nl0_ce0.use_ad_2_nl0_ce0Tuple.knee_ad_2_nl0_ae4</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.use_ad_2_nl0_ce0.use_ad_2_nl0_ce0Tuple.leave_ad_2_nl0_ae5</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute6</target-path>
+<transformation-function>testsdatabase.use_ad_2_nl0_ce0.use_ad_2_nl0_ce0Tuple.leave_ad_2_nl0_ae5</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.use_ad_2_nl0_ce0.use_ad_2_nl0_ce0Tuple.parallel_ad_2_nl0_ae6</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute7</target-path>
+<transformation-function>testsdatabase.use_ad_2_nl0_ce0.use_ad_2_nl0_ce0Tuple.parallel_ad_2_nl0_ae6</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.collection_dl_2_nl0_ce0.collection_dl_2_nl0_ce0Tuple.handle_dl_2_nl0_ae0ke0</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute1</target-path>
+<transformation-function>testsdatabase.collection_dl_2_nl0_ce0.collection_dl_2_nl0_ce0Tuple.handle_dl_2_nl0_ae0ke0</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.collection_dl_2_nl0_ce0.collection_dl_2_nl0_ce0Tuple.die_dl_2_nl0_ae1</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute2</target-path>
+<transformation-function>testsdatabase.collection_dl_2_nl0_ce0.collection_dl_2_nl0_ce0Tuple.die_dl_2_nl0_ae1</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.collection_dl_2_nl0_ce0.collection_dl_2_nl0_ce0Tuple.worry_dl_2_nl0_ae2</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute3</target-path>
+<transformation-function>testsdatabase.collection_dl_2_nl0_ce0.collection_dl_2_nl0_ce0Tuple.worry_dl_2_nl0_ae2</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.collection_dl_2_nl0_ce0.collection_dl_2_nl0_ce0Tuple.brown_dl_2_nl0_ae3</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute4</target-path>
+<transformation-function>testsdatabase.collection_dl_2_nl0_ce0.collection_dl_2_nl0_ce0Tuple.brown_dl_2_nl0_ae3</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.collection_dl_2_nl0_ce0.collection_dl_2_nl0_ce0Tuple.hit_dl_2_nl0_ae4</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute5</target-path>
+<transformation-function>testsdatabase.collection_dl_2_nl0_ce0.collection_dl_2_nl0_ce0Tuple.hit_dl_2_nl0_ae4</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.collection_dl_2_nl0_ce0.collection_dl_2_nl0_ce0Tuple.paint_dl_2_nl0_ae5</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute6</target-path>
+<transformation-function>testsdatabase.collection_dl_2_nl0_ce0.collection_dl_2_nl0_ce0Tuple.paint_dl_2_nl0_ae5</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.collection_dl_2_nl0_ce0.collection_dl_2_nl0_ce0Tuple.decision_dl_2_nl0_ae6</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute7</target-path>
+<transformation-function>testsdatabase.collection_dl_2_nl0_ce0.collection_dl_2_nl0_ce0Tuple.decision_dl_2_nl0_ae6</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.collection_dl_2_nl0_ce0.collection_dl_2_nl0_ce0Tuple.mind_dl_2_nl0_ae7</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute8</target-path>
+<transformation-function>testsdatabase.collection_dl_2_nl0_ce0.collection_dl_2_nl0_ce0Tuple.mind_dl_2_nl0_ae7</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.collection_dl_2_nl0_ce0.collection_dl_2_nl0_ce0Tuple.garden_dl_2_nl0_ae8</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute9</target-path>
+<transformation-function>testsdatabase.collection_dl_2_nl0_ce0.collection_dl_2_nl0_ce0Tuple.garden_dl_2_nl0_ae8</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.effect_adl_2_nl0_ce0.effect_adl_2_nl0_ce0Tuple.slow_adl_2_nl0_ae0ke0</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute1</target-path>
+<transformation-function>testsdatabase.effect_adl_2_nl0_ce0.effect_adl_2_nl0_ce0Tuple.slow_adl_2_nl0_ae0ke0</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.effect_adl_2_nl0_ce0.effect_adl_2_nl0_ce0Tuple.kind_adl_2_nl0_ae1</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute2</target-path>
+<transformation-function>testsdatabase.effect_adl_2_nl0_ce0.effect_adl_2_nl0_ce0Tuple.kind_adl_2_nl0_ae1</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.effect_adl_2_nl0_ce0.effect_adl_2_nl0_ce0Tuple.prove_adl_2_nl0_ae2</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute3</target-path>
+<transformation-function>testsdatabase.effect_adl_2_nl0_ce0.effect_adl_2_nl0_ce0Tuple.prove_adl_2_nl0_ae2</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.effect_adl_2_nl0_ce0.effect_adl_2_nl0_ce0Tuple.ring_adl_2_nl0_ae3</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute4</target-path>
+<transformation-function>testsdatabase.effect_adl_2_nl0_ce0.effect_adl_2_nl0_ce0Tuple.ring_adl_2_nl0_ae3</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.effect_adl_2_nl0_ce0.effect_adl_2_nl0_ce0Tuple.early_adl_2_nl0_ae4</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute5</target-path>
+<transformation-function>testsdatabase.effect_adl_2_nl0_ce0.effect_adl_2_nl0_ce0Tuple.early_adl_2_nl0_ae4</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.effect_adl_2_nl0_ce0.effect_adl_2_nl0_ce0Tuple.violent_adl_2_nl0_ae5</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute6</target-path>
+<transformation-function>testsdatabase.effect_adl_2_nl0_ce0.effect_adl_2_nl0_ce0Tuple.violent_adl_2_nl0_ae5</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.effect_adl_2_nl0_ce0.effect_adl_2_nl0_ce0Tuple.chalk_adl_2_nl0_ae6</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute7</target-path>
+<transformation-function>testsdatabase.effect_adl_2_nl0_ce0.effect_adl_2_nl0_ce0Tuple.chalk_adl_2_nl0_ae6</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.door_cp_3_nl0_ce0.door_cp_3_nl0_ce0Tuple.charge_cp_3_nl0_ae0ke0</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute1</target-path>
+<transformation-function>testsdatabase.door_cp_3_nl0_ce0.door_cp_3_nl0_ce0Tuple.charge_cp_3_nl0_ae0ke0</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.door_cp_3_nl0_ce0.door_cp_3_nl0_ce0Tuple.certain_cp_3_nl0_ae1</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute2</target-path>
+<transformation-function>testsdatabase.door_cp_3_nl0_ce0.door_cp_3_nl0_ce0Tuple.certain_cp_3_nl0_ae1</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.door_cp_3_nl0_ce0.door_cp_3_nl0_ce0Tuple.sugar_cp_3_nl0_ae2</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute3</target-path>
+<transformation-function>testsdatabase.door_cp_3_nl0_ce0.door_cp_3_nl0_ce0Tuple.sugar_cp_3_nl0_ae2</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.door_cp_3_nl0_ce0.door_cp_3_nl0_ce0Tuple.collection_cp_3_nl0_ae3</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute4</target-path>
+<transformation-function>testsdatabase.door_cp_3_nl0_ce0.door_cp_3_nl0_ce0Tuple.collection_cp_3_nl0_ae3</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.door_cp_3_nl0_ce0.door_cp_3_nl0_ce0Tuple.bent_cp_3_nl0_ae4</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute5</target-path>
+<transformation-function>testsdatabase.door_cp_3_nl0_ce0.door_cp_3_nl0_ce0Tuple.bent_cp_3_nl0_ae4</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.door_cp_3_nl0_ce0.door_cp_3_nl0_ce0Tuple.sweet_cp_3_nl0_ae5</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute6</target-path>
+<transformation-function>testsdatabase.door_cp_3_nl0_ce0.door_cp_3_nl0_ce0Tuple.sweet_cp_3_nl0_ae5</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.door_cp_3_nl0_ce0.door_cp_3_nl0_ce0Tuple.rod_cp_3_nl0_ae6</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute7</target-path>
+<transformation-function>testsdatabase.door_cp_3_nl0_ce0.door_cp_3_nl0_ce0Tuple.rod_cp_3_nl0_ae6</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.door_cp_3_nl0_ce0.door_cp_3_nl0_ce0Tuple.silk_cp_3_nl0_ae7</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute8</target-path>
+<transformation-function>testsdatabase.door_cp_3_nl0_ce0.door_cp_3_nl0_ce0Tuple.silk_cp_3_nl0_ae7</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.door_cp_3_nl0_ce0.door_cp_3_nl0_ce0Tuple.crush_cp_3_nl0_ae8</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute9</target-path>
+<transformation-function>testsdatabase.door_cp_3_nl0_ce0.door_cp_3_nl0_ce0Tuple.crush_cp_3_nl0_ae8</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.treat_ad_3_nl0_ce0.treat_ad_3_nl0_ce0Tuple.farm_ad_3_nl0_ae0ke0</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute1</target-path>
+<transformation-function>testsdatabase.treat_ad_3_nl0_ce0.treat_ad_3_nl0_ce0Tuple.farm_ad_3_nl0_ae0ke0</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.treat_ad_3_nl0_ce0.treat_ad_3_nl0_ce0Tuple.language_ad_3_nl0_ae1</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute2</target-path>
+<transformation-function>testsdatabase.treat_ad_3_nl0_ce0.treat_ad_3_nl0_ce0Tuple.language_ad_3_nl0_ae1</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.treat_ad_3_nl0_ce0.treat_ad_3_nl0_ce0Tuple.worry_ad_3_nl0_ae2</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute3</target-path>
+<transformation-function>testsdatabase.treat_ad_3_nl0_ce0.treat_ad_3_nl0_ce0Tuple.worry_ad_3_nl0_ae2</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.treat_ad_3_nl0_ce0.treat_ad_3_nl0_ce0Tuple.chalk_ad_3_nl0_ae3</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute4</target-path>
+<transformation-function>testsdatabase.treat_ad_3_nl0_ce0.treat_ad_3_nl0_ce0Tuple.chalk_ad_3_nl0_ae3</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.treat_ad_3_nl0_ce0.treat_ad_3_nl0_ce0Tuple.regular_ad_3_nl0_ae4</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute5</target-path>
+<transformation-function>testsdatabase.treat_ad_3_nl0_ce0.treat_ad_3_nl0_ce0Tuple.regular_ad_3_nl0_ae4</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.treat_ad_3_nl0_ce0.treat_ad_3_nl0_ce0Tuple.degree_ad_3_nl0_ae5</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute6</target-path>
+<transformation-function>testsdatabase.treat_ad_3_nl0_ce0.treat_ad_3_nl0_ce0Tuple.degree_ad_3_nl0_ae5</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.treat_ad_3_nl0_ce0.treat_ad_3_nl0_ce0Tuple.start_ad_3_nl0_ae6</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute7</target-path>
+<transformation-function>testsdatabase.treat_ad_3_nl0_ce0.treat_ad_3_nl0_ce0Tuple.start_ad_3_nl0_ae6</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.fruit_dl_3_nl0_ce0.fruit_dl_3_nl0_ce0Tuple.science_dl_3_nl0_ae0ke0</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute1</target-path>
+<transformation-function>testsdatabase.fruit_dl_3_nl0_ce0.fruit_dl_3_nl0_ce0Tuple.science_dl_3_nl0_ae0ke0</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.fruit_dl_3_nl0_ce0.fruit_dl_3_nl0_ce0Tuple.last_dl_3_nl0_ae1</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute2</target-path>
+<transformation-function>testsdatabase.fruit_dl_3_nl0_ce0.fruit_dl_3_nl0_ce0Tuple.last_dl_3_nl0_ae1</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.fruit_dl_3_nl0_ce0.fruit_dl_3_nl0_ce0Tuple.found_dl_3_nl0_ae2</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute3</target-path>
+<transformation-function>testsdatabase.fruit_dl_3_nl0_ce0.fruit_dl_3_nl0_ce0Tuple.found_dl_3_nl0_ae2</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.fruit_dl_3_nl0_ce0.fruit_dl_3_nl0_ce0Tuple.found_dl_3_nl0_ae3</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute4</target-path>
+<transformation-function>testsdatabase.fruit_dl_3_nl0_ce0.fruit_dl_3_nl0_ce0Tuple.found_dl_3_nl0_ae3</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.fruit_dl_3_nl0_ce0.fruit_dl_3_nl0_ce0Tuple.sleep_dl_3_nl0_ae4</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute5</target-path>
+<transformation-function>testsdatabase.fruit_dl_3_nl0_ce0.fruit_dl_3_nl0_ce0Tuple.sleep_dl_3_nl0_ae4</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.fruit_dl_3_nl0_ce0.fruit_dl_3_nl0_ce0Tuple.clean_dl_3_nl0_ae5</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute6</target-path>
+<transformation-function>testsdatabase.fruit_dl_3_nl0_ce0.fruit_dl_3_nl0_ce0Tuple.clean_dl_3_nl0_ae5</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.fruit_dl_3_nl0_ce0.fruit_dl_3_nl0_ce0Tuple.flower_dl_3_nl0_ae6</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute7</target-path>
+<transformation-function>testsdatabase.fruit_dl_3_nl0_ce0.fruit_dl_3_nl0_ce0Tuple.flower_dl_3_nl0_ae6</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.fruit_dl_3_nl0_ce0.fruit_dl_3_nl0_ce0Tuple.involve_dl_3_nl0_ae7</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute8</target-path>
+<transformation-function>testsdatabase.fruit_dl_3_nl0_ce0.fruit_dl_3_nl0_ce0Tuple.involve_dl_3_nl0_ae7</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.fruit_dl_3_nl0_ce0.fruit_dl_3_nl0_ce0Tuple.mention_dl_3_nl0_ae8</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute9</target-path>
+<transformation-function>testsdatabase.fruit_dl_3_nl0_ce0.fruit_dl_3_nl0_ce0Tuple.mention_dl_3_nl0_ae8</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.claim_adl_3_nl0_ce0.claim_adl_3_nl0_ce0Tuple.state_adl_3_nl0_ae0ke0</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute1</target-path>
+<transformation-function>testsdatabase.claim_adl_3_nl0_ce0.claim_adl_3_nl0_ce0Tuple.state_adl_3_nl0_ae0ke0</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.claim_adl_3_nl0_ce0.claim_adl_3_nl0_ce0Tuple.agency_adl_3_nl0_ae1</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute2</target-path>
+<transformation-function>testsdatabase.claim_adl_3_nl0_ce0.claim_adl_3_nl0_ce0Tuple.agency_adl_3_nl0_ae1</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.claim_adl_3_nl0_ce0.claim_adl_3_nl0_ce0Tuple.complete_adl_3_nl0_ae2</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute3</target-path>
+<transformation-function>testsdatabase.claim_adl_3_nl0_ce0.claim_adl_3_nl0_ce0Tuple.complete_adl_3_nl0_ae2</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.claim_adl_3_nl0_ce0.claim_adl_3_nl0_ce0Tuple.count_adl_3_nl0_ae3</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute4</target-path>
+<transformation-function>testsdatabase.claim_adl_3_nl0_ce0.claim_adl_3_nl0_ce0Tuple.count_adl_3_nl0_ae3</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.claim_adl_3_nl0_ce0.claim_adl_3_nl0_ce0Tuple.amount_adl_3_nl0_ae4</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute5</target-path>
+<transformation-function>testsdatabase.claim_adl_3_nl0_ce0.claim_adl_3_nl0_ce0Tuple.amount_adl_3_nl0_ae4</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.claim_adl_3_nl0_ce0.claim_adl_3_nl0_ce0Tuple.death_adl_3_nl0_ae5</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute6</target-path>
+<transformation-function>testsdatabase.claim_adl_3_nl0_ce0.claim_adl_3_nl0_ce0Tuple.death_adl_3_nl0_ae5</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.claim_adl_3_nl0_ce0.claim_adl_3_nl0_ce0Tuple.shake_adl_3_nl0_ae6</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute7</target-path>
+<transformation-function>testsdatabase.claim_adl_3_nl0_ce0.claim_adl_3_nl0_ce0Tuple.shake_adl_3_nl0_ae6</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.distribution_cp_4_nl0_ce0.distribution_cp_4_nl0_ce0Tuple.gold_cp_4_nl0_ae0ke0</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute1</target-path>
+<transformation-function>testsdatabase.distribution_cp_4_nl0_ce0.distribution_cp_4_nl0_ce0Tuple.gold_cp_4_nl0_ae0ke0</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.distribution_cp_4_nl0_ce0.distribution_cp_4_nl0_ce0Tuple.pain_cp_4_nl0_ae1</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute2</target-path>
+<transformation-function>testsdatabase.distribution_cp_4_nl0_ce0.distribution_cp_4_nl0_ce0Tuple.pain_cp_4_nl0_ae1</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.distribution_cp_4_nl0_ce0.distribution_cp_4_nl0_ce0Tuple.accept_cp_4_nl0_ae2</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute3</target-path>
+<transformation-function>testsdatabase.distribution_cp_4_nl0_ce0.distribution_cp_4_nl0_ce0Tuple.accept_cp_4_nl0_ae2</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.distribution_cp_4_nl0_ce0.distribution_cp_4_nl0_ce0Tuple.make_cp_4_nl0_ae3</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute4</target-path>
+<transformation-function>testsdatabase.distribution_cp_4_nl0_ce0.distribution_cp_4_nl0_ce0Tuple.make_cp_4_nl0_ae3</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.distribution_cp_4_nl0_ce0.distribution_cp_4_nl0_ce0Tuple.prevent_cp_4_nl0_ae4</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute5</target-path>
+<transformation-function>testsdatabase.distribution_cp_4_nl0_ce0.distribution_cp_4_nl0_ce0Tuple.prevent_cp_4_nl0_ae4</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.distribution_cp_4_nl0_ce0.distribution_cp_4_nl0_ce0Tuple.probable_cp_4_nl0_ae5</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute6</target-path>
+<transformation-function>testsdatabase.distribution_cp_4_nl0_ce0.distribution_cp_4_nl0_ce0Tuple.probable_cp_4_nl0_ae5</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.distribution_cp_4_nl0_ce0.distribution_cp_4_nl0_ce0Tuple.low_cp_4_nl0_ae6</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute7</target-path>
+<transformation-function>testsdatabase.distribution_cp_4_nl0_ce0.distribution_cp_4_nl0_ce0Tuple.low_cp_4_nl0_ae6</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.distribution_cp_4_nl0_ce0.distribution_cp_4_nl0_ce0Tuple.bath_cp_4_nl0_ae7</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute8</target-path>
+<transformation-function>testsdatabase.distribution_cp_4_nl0_ce0.distribution_cp_4_nl0_ce0Tuple.bath_cp_4_nl0_ae7</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.distribution_cp_4_nl0_ce0.distribution_cp_4_nl0_ce0Tuple.butter_cp_4_nl0_ae8</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute9</target-path>
+<transformation-function>testsdatabase.distribution_cp_4_nl0_ce0.distribution_cp_4_nl0_ce0Tuple.butter_cp_4_nl0_ae8</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.copy_ad_4_nl0_ce0.copy_ad_4_nl0_ce0Tuple.thick_ad_4_nl0_ae0ke0</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute1</target-path>
+<transformation-function>testsdatabase.copy_ad_4_nl0_ce0.copy_ad_4_nl0_ce0Tuple.thick_ad_4_nl0_ae0ke0</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.copy_ad_4_nl0_ce0.copy_ad_4_nl0_ce0Tuple.stiff_ad_4_nl0_ae1</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute2</target-path>
+<transformation-function>testsdatabase.copy_ad_4_nl0_ce0.copy_ad_4_nl0_ce0Tuple.stiff_ad_4_nl0_ae1</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.copy_ad_4_nl0_ce0.copy_ad_4_nl0_ce0Tuple.feeling_ad_4_nl0_ae2</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute3</target-path>
+<transformation-function>testsdatabase.copy_ad_4_nl0_ce0.copy_ad_4_nl0_ce0Tuple.feeling_ad_4_nl0_ae2</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.copy_ad_4_nl0_ce0.copy_ad_4_nl0_ce0Tuple.connect_ad_4_nl0_ae3</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute4</target-path>
+<transformation-function>testsdatabase.copy_ad_4_nl0_ce0.copy_ad_4_nl0_ce0Tuple.connect_ad_4_nl0_ae3</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.copy_ad_4_nl0_ce0.copy_ad_4_nl0_ce0Tuple.disease_ad_4_nl0_ae4</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute5</target-path>
+<transformation-function>testsdatabase.copy_ad_4_nl0_ce0.copy_ad_4_nl0_ce0Tuple.disease_ad_4_nl0_ae4</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.copy_ad_4_nl0_ce0.copy_ad_4_nl0_ce0Tuple.attraction_ad_4_nl0_ae5</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute6</target-path>
+<transformation-function>testsdatabase.copy_ad_4_nl0_ce0.copy_ad_4_nl0_ce0Tuple.attraction_ad_4_nl0_ae5</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.copy_ad_4_nl0_ce0.copy_ad_4_nl0_ce0Tuple.sad_ad_4_nl0_ae6</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute7</target-path>
+<transformation-function>testsdatabase.copy_ad_4_nl0_ce0.copy_ad_4_nl0_ce0Tuple.sad_ad_4_nl0_ae6</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.root_dl_4_nl0_ce0.root_dl_4_nl0_ce0Tuple.pain_dl_4_nl0_ae0ke0</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute1</target-path>
+<transformation-function>testsdatabase.root_dl_4_nl0_ce0.root_dl_4_nl0_ce0Tuple.pain_dl_4_nl0_ae0ke0</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.root_dl_4_nl0_ce0.root_dl_4_nl0_ce0Tuple.complain_dl_4_nl0_ae1</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute2</target-path>
+<transformation-function>testsdatabase.root_dl_4_nl0_ce0.root_dl_4_nl0_ce0Tuple.complain_dl_4_nl0_ae1</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.root_dl_4_nl0_ce0.root_dl_4_nl0_ce0Tuple.question_dl_4_nl0_ae2</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute3</target-path>
+<transformation-function>testsdatabase.root_dl_4_nl0_ce0.root_dl_4_nl0_ce0Tuple.question_dl_4_nl0_ae2</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.root_dl_4_nl0_ce0.root_dl_4_nl0_ce0Tuple.walk_dl_4_nl0_ae3</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute4</target-path>
+<transformation-function>testsdatabase.root_dl_4_nl0_ce0.root_dl_4_nl0_ce0Tuple.walk_dl_4_nl0_ae3</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.root_dl_4_nl0_ce0.root_dl_4_nl0_ce0Tuple.count_dl_4_nl0_ae4</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute5</target-path>
+<transformation-function>testsdatabase.root_dl_4_nl0_ce0.root_dl_4_nl0_ce0Tuple.count_dl_4_nl0_ae4</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.root_dl_4_nl0_ce0.root_dl_4_nl0_ce0Tuple.involve_dl_4_nl0_ae5</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute6</target-path>
+<transformation-function>testsdatabase.root_dl_4_nl0_ce0.root_dl_4_nl0_ce0Tuple.involve_dl_4_nl0_ae5</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.root_dl_4_nl0_ce0.root_dl_4_nl0_ce0Tuple.explain_dl_4_nl0_ae6</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute7</target-path>
+<transformation-function>testsdatabase.root_dl_4_nl0_ce0.root_dl_4_nl0_ce0Tuple.explain_dl_4_nl0_ae6</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.root_dl_4_nl0_ce0.root_dl_4_nl0_ce0Tuple.theory_dl_4_nl0_ae7</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute8</target-path>
+<transformation-function>testsdatabase.root_dl_4_nl0_ce0.root_dl_4_nl0_ce0Tuple.theory_dl_4_nl0_ae7</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.root_dl_4_nl0_ce0.root_dl_4_nl0_ce0Tuple.settle_dl_4_nl0_ae8</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute9</target-path>
+<transformation-function>testsdatabase.root_dl_4_nl0_ce0.root_dl_4_nl0_ce0Tuple.settle_dl_4_nl0_ae8</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.goat_adl_4_nl0_ce0.goat_adl_4_nl0_ce0Tuple.pick_adl_4_nl0_ae0ke0</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute1</target-path>
+<transformation-function>testsdatabase.goat_adl_4_nl0_ce0.goat_adl_4_nl0_ce0Tuple.pick_adl_4_nl0_ae0ke0</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.goat_adl_4_nl0_ce0.goat_adl_4_nl0_ce0Tuple.judge_adl_4_nl0_ae1</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute2</target-path>
+<transformation-function>testsdatabase.goat_adl_4_nl0_ce0.goat_adl_4_nl0_ce0Tuple.judge_adl_4_nl0_ae1</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.goat_adl_4_nl0_ce0.goat_adl_4_nl0_ce0Tuple.impulse_adl_4_nl0_ae2</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute3</target-path>
+<transformation-function>testsdatabase.goat_adl_4_nl0_ce0.goat_adl_4_nl0_ce0Tuple.impulse_adl_4_nl0_ae2</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.goat_adl_4_nl0_ce0.goat_adl_4_nl0_ce0Tuple.prose_adl_4_nl0_ae3</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute4</target-path>
+<transformation-function>testsdatabase.goat_adl_4_nl0_ce0.goat_adl_4_nl0_ce0Tuple.prose_adl_4_nl0_ae3</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.goat_adl_4_nl0_ce0.goat_adl_4_nl0_ce0Tuple.agencies_adl_4_nl0_ae4</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute5</target-path>
+<transformation-function>testsdatabase.goat_adl_4_nl0_ce0.goat_adl_4_nl0_ce0Tuple.agencies_adl_4_nl0_ae4</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.goat_adl_4_nl0_ce0.goat_adl_4_nl0_ce0Tuple.flat_adl_4_nl0_ae5</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute6</target-path>
+<transformation-function>testsdatabase.goat_adl_4_nl0_ce0.goat_adl_4_nl0_ce0Tuple.flat_adl_4_nl0_ae5</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.goat_adl_4_nl0_ce0.goat_adl_4_nl0_ce0Tuple.train_adl_4_nl0_ae6</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute7</target-path>
+<transformation-function>testsdatabase.goat_adl_4_nl0_ce0.goat_adl_4_nl0_ce0Tuple.train_adl_4_nl0_ae6</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.delicate_ad_5_nl0_ce0.delicate_ad_5_nl0_ce0Tuple.sleep_ad_5_nl0_ae0ke0</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute1</target-path>
+<transformation-function>testsdatabase.delicate_ad_5_nl0_ce0.delicate_ad_5_nl0_ce0Tuple.sleep_ad_5_nl0_ae0ke0</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.delicate_ad_5_nl0_ce0.delicate_ad_5_nl0_ce0Tuple.call_ad_5_nl0_ae1</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute2</target-path>
+<transformation-function>testsdatabase.delicate_ad_5_nl0_ce0.delicate_ad_5_nl0_ce0Tuple.call_ad_5_nl0_ae1</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.delicate_ad_5_nl0_ce0.delicate_ad_5_nl0_ce0Tuple.road_ad_5_nl0_ae2</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute3</target-path>
+<transformation-function>testsdatabase.delicate_ad_5_nl0_ce0.delicate_ad_5_nl0_ce0Tuple.road_ad_5_nl0_ae2</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.delicate_ad_5_nl0_ce0.delicate_ad_5_nl0_ce0Tuple.rhythm_ad_5_nl0_ae3</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute4</target-path>
+<transformation-function>testsdatabase.delicate_ad_5_nl0_ce0.delicate_ad_5_nl0_ce0Tuple.rhythm_ad_5_nl0_ae3</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.delicate_ad_5_nl0_ce0.delicate_ad_5_nl0_ce0Tuple.stomach_ad_5_nl0_ae4</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute5</target-path>
+<transformation-function>testsdatabase.delicate_ad_5_nl0_ce0.delicate_ad_5_nl0_ce0Tuple.stomach_ad_5_nl0_ae4</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.delicate_ad_5_nl0_ce0.delicate_ad_5_nl0_ce0Tuple.speak_ad_5_nl0_ae5</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute6</target-path>
+<transformation-function>testsdatabase.delicate_ad_5_nl0_ce0.delicate_ad_5_nl0_ce0Tuple.speak_ad_5_nl0_ae5</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.delicate_ad_5_nl0_ce0.delicate_ad_5_nl0_ce0Tuple.place_ad_5_nl0_ae6</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute7</target-path>
+<transformation-function>testsdatabase.delicate_ad_5_nl0_ce0.delicate_ad_5_nl0_ce0Tuple.place_ad_5_nl0_ae6</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.return_adl_5_nl0_ce0.return_adl_5_nl0_ce0Tuple.match_adl_5_nl0_ae0ke0</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute1</target-path>
+<transformation-function>testsdatabase.return_adl_5_nl0_ce0.return_adl_5_nl0_ce0Tuple.match_adl_5_nl0_ae0ke0</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.return_adl_5_nl0_ce0.return_adl_5_nl0_ce0Tuple.wash_adl_5_nl0_ae1</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute2</target-path>
+<transformation-function>testsdatabase.return_adl_5_nl0_ce0.return_adl_5_nl0_ce0Tuple.wash_adl_5_nl0_ae1</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.return_adl_5_nl0_ce0.return_adl_5_nl0_ce0Tuple.gain_adl_5_nl0_ae2</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute3</target-path>
+<transformation-function>testsdatabase.return_adl_5_nl0_ce0.return_adl_5_nl0_ce0Tuple.gain_adl_5_nl0_ae2</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.return_adl_5_nl0_ce0.return_adl_5_nl0_ce0Tuple.oven_adl_5_nl0_ae3</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute4</target-path>
+<transformation-function>testsdatabase.return_adl_5_nl0_ce0.return_adl_5_nl0_ce0Tuple.oven_adl_5_nl0_ae3</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.return_adl_5_nl0_ce0.return_adl_5_nl0_ce0Tuple.give_adl_5_nl0_ae4</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute5</target-path>
+<transformation-function>testsdatabase.return_adl_5_nl0_ce0.return_adl_5_nl0_ce0Tuple.give_adl_5_nl0_ae4</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.return_adl_5_nl0_ce0.return_adl_5_nl0_ce0Tuple.selection_adl_5_nl0_ae5</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute6</target-path>
+<transformation-function>testsdatabase.return_adl_5_nl0_ce0.return_adl_5_nl0_ce0Tuple.selection_adl_5_nl0_ae5</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+<correspondence>
+<source-paths>
+<source-path>testsdatabase.return_adl_5_nl0_ce0.return_adl_5_nl0_ce0Tuple.window_adl_5_nl0_ae6</source-path>
+</source-paths>
+<target-path>testsdatabase.test_le_1_nl0_ce0_target_relation.test_le_1_nl0_ce0_target_relationTuple.test_le_1_nl0_ce0_t_attribute7</target-path>
+<transformation-function>testsdatabase.return_adl_5_nl0_ce0.return_adl_5_nl0_ce0Tuple.window_adl_5_nl0_ae6</transformation-function>
+ <confidence>1.0</confidence>
+</correspondence>
+</correspondences>
+
+</mappingtask>

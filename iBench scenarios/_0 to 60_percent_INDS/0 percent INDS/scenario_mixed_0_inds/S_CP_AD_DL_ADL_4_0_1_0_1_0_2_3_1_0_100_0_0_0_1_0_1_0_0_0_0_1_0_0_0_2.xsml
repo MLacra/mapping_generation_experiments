@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="ASCII"?>
+<xsml:schemaMapping xmlns:xsml="http://com.ibm.clio.model/xsml/2.0">
+  <schemas>
+    <source name="S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0" rootName="S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src" schemaLocation="S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src.xsd"/>
+    <target name="S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0" rootName="S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg" schemaLocation="S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg.xsd"/>
+  </schemas>
+  <componentMappings>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/nut_cp_1_nl0_ce0/art_cp_1_nl0_ae0ke0"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/nut_cp_1_nl0_ce0/slope_cp_1_nl0_ae1"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/nut_cp_1_nl0_ce0/measure_cp_1_nl0_ae2"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/nut_cp_1_nl0_ce0/touch_cp_1_nl0_ae3"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/nut_cp_1_nl0_ce0/cheese_cp_1_nl0_ae4"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/nut_cp_1_nl0_ce0/society_cp_1_nl0_ae5"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/nut_cp_1_nl0_ce0/compare_cp_1_nl0_ae6"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/nut_cp_1_nl0_ce0/branch_cp_1_nl0_ae7"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute8"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/nut_cp_1_nl0_ce0/demand_cp_1_nl0_ae8"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute9"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/great_ad_1_nl0_ce0/board_ad_1_nl0_ae0ke0"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/great_ad_1_nl0_ce0/different_ad_1_nl0_ae1"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/great_ad_1_nl0_ce0/society_ad_1_nl0_ae2"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/great_ad_1_nl0_ce0/warn_ad_1_nl0_ae3"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/great_ad_1_nl0_ce0/tail_ad_1_nl0_ae4"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/great_ad_1_nl0_ce0/red_ad_1_nl0_ae5"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/great_ad_1_nl0_ce0/wrong_ad_1_nl0_ae6"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/past_dl_1_nl0_ce0/wheel_dl_1_nl0_ae0ke0"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/past_dl_1_nl0_ce0/letter_dl_1_nl0_ae1"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/past_dl_1_nl0_ce0/blue_dl_1_nl0_ae2"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/past_dl_1_nl0_ce0/describe_dl_1_nl0_ae3"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/past_dl_1_nl0_ce0/report_dl_1_nl0_ae4"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/past_dl_1_nl0_ce0/night_dl_1_nl0_ae5"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/past_dl_1_nl0_ce0/find_dl_1_nl0_ae6"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/past_dl_1_nl0_ce0/attention_dl_1_nl0_ae7"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute8"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/past_dl_1_nl0_ce0/discover_dl_1_nl0_ae8"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute9"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/narrow_adl_1_nl0_ce0/rest_adl_1_nl0_ae0ke0"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/narrow_adl_1_nl0_ce0/expansion_adl_1_nl0_ae1"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/narrow_adl_1_nl0_ce0/pipe_adl_1_nl0_ae2"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/narrow_adl_1_nl0_ce0/indicate_adl_1_nl0_ae3"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/narrow_adl_1_nl0_ce0/thank_adl_1_nl0_ae4"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/narrow_adl_1_nl0_ce0/stick_adl_1_nl0_ae5"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/narrow_adl_1_nl0_ce0/order_adl_1_nl0_ae6"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/chin_cp_2_nl0_ce0/mixed_cp_2_nl0_ae0ke0"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/chin_cp_2_nl0_ce0/small_cp_2_nl0_ae1"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/chin_cp_2_nl0_ce0/broken_cp_2_nl0_ae2"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/chin_cp_2_nl0_ce0/brain_cp_2_nl0_ae3"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/chin_cp_2_nl0_ce0/branch_cp_2_nl0_ae4"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/chin_cp_2_nl0_ce0/swim_cp_2_nl0_ae5"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/chin_cp_2_nl0_ce0/place_cp_2_nl0_ae6"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/chin_cp_2_nl0_ce0/approval_cp_2_nl0_ae7"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute8"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/chin_cp_2_nl0_ce0/blow_cp_2_nl0_ae8"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute9"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/division_ad_2_nl0_ce0/ready_ad_2_nl0_ae0ke0"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/division_ad_2_nl0_ce0/gun_ad_2_nl0_ae1"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/division_ad_2_nl0_ce0/winter_ad_2_nl0_ae2"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/division_ad_2_nl0_ce0/powder_ad_2_nl0_ae3"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/division_ad_2_nl0_ce0/work_ad_2_nl0_ae4"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/division_ad_2_nl0_ce0/discuss_ad_2_nl0_ae5"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/division_ad_2_nl0_ce0/involve_ad_2_nl0_ae6"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/use_dl_2_nl0_ce0/paint_dl_2_nl0_ae0ke0"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/use_dl_2_nl0_ce0/draw_dl_2_nl0_ae1"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/use_dl_2_nl0_ce0/send_dl_2_nl0_ae2"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/use_dl_2_nl0_ce0/regular_dl_2_nl0_ae3"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/use_dl_2_nl0_ce0/knee_dl_2_nl0_ae4"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/use_dl_2_nl0_ce0/leave_dl_2_nl0_ae5"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/use_dl_2_nl0_ce0/parallel_dl_2_nl0_ae6"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/use_dl_2_nl0_ce0/collection_dl_2_nl0_ae7"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute8"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/use_dl_2_nl0_ce0/handle_dl_2_nl0_ae8"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute9"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/brown_adl_2_nl0_ce0/hit_adl_2_nl0_ae0ke0"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/brown_adl_2_nl0_ce0/decision_adl_2_nl0_ae1"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/brown_adl_2_nl0_ce0/mind_adl_2_nl0_ae2"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/brown_adl_2_nl0_ce0/garden_adl_2_nl0_ae3"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/brown_adl_2_nl0_ce0/necessary_adl_2_nl0_ae4"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/brown_adl_2_nl0_ce0/organization_adl_2_nl0_ae5"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/brown_adl_2_nl0_ce0/stick_adl_2_nl0_ae6"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/kind_cp_3_nl0_ce0/prove_cp_3_nl0_ae0ke0"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/kind_cp_3_nl0_ce0/ring_cp_3_nl0_ae1"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/kind_cp_3_nl0_ce0/early_cp_3_nl0_ae2"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/kind_cp_3_nl0_ce0/violent_cp_3_nl0_ae3"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/kind_cp_3_nl0_ce0/chalk_cp_3_nl0_ae4"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/kind_cp_3_nl0_ce0/regular_cp_3_nl0_ae5"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/kind_cp_3_nl0_ce0/love_cp_3_nl0_ae6"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/kind_cp_3_nl0_ce0/mind_cp_3_nl0_ae7"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute8"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/kind_cp_3_nl0_ce0/door_cp_3_nl0_ae8"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute9"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/charge_ad_3_nl0_ce0/certain_ad_3_nl0_ae0ke0"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/charge_ad_3_nl0_ce0/collection_ad_3_nl0_ae1"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/charge_ad_3_nl0_ce0/bent_ad_3_nl0_ae2"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/charge_ad_3_nl0_ce0/sweet_ad_3_nl0_ae3"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/charge_ad_3_nl0_ce0/rod_ad_3_nl0_ae4"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/charge_ad_3_nl0_ce0/silk_ad_3_nl0_ae5"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/charge_ad_3_nl0_ce0/crush_ad_3_nl0_ae6"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/treat_dl_3_nl0_ce0/farm_dl_3_nl0_ae0ke0"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/treat_dl_3_nl0_ce0/language_dl_3_nl0_ae1"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/treat_dl_3_nl0_ce0/worry_dl_3_nl0_ae2"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/treat_dl_3_nl0_ce0/chalk_dl_3_nl0_ae3"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/treat_dl_3_nl0_ce0/regular_dl_3_nl0_ae4"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/treat_dl_3_nl0_ce0/degree_dl_3_nl0_ae5"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/treat_dl_3_nl0_ce0/start_dl_3_nl0_ae6"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/treat_dl_3_nl0_ce0/fruit_dl_3_nl0_ae7"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute8"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/treat_dl_3_nl0_ce0/science_dl_3_nl0_ae8"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute9"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/found_adl_3_nl0_ce0/sleep_adl_3_nl0_ae0ke0"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/found_adl_3_nl0_ce0/flower_adl_3_nl0_ae1"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/found_adl_3_nl0_ce0/involve_adl_3_nl0_ae2"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/found_adl_3_nl0_ce0/mention_adl_3_nl0_ae3"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/found_adl_3_nl0_ce0/pencil_adl_3_nl0_ae4"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/found_adl_3_nl0_ce0/grip_adl_3_nl0_ae5"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/found_adl_3_nl0_ce0/complex_adl_3_nl0_ae6"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/agency_cp_4_nl0_ce0/complete_cp_4_nl0_ae0ke0"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/agency_cp_4_nl0_ce0/count_cp_4_nl0_ae1"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/agency_cp_4_nl0_ce0/amount_cp_4_nl0_ae2"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/agency_cp_4_nl0_ce0/death_cp_4_nl0_ae3"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/agency_cp_4_nl0_ce0/shake_cp_4_nl0_ae4"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/agency_cp_4_nl0_ce0/hollow_cp_4_nl0_ae5"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/agency_cp_4_nl0_ce0/hollow_cp_4_nl0_ae6"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/agency_cp_4_nl0_ce0/leather_cp_4_nl0_ae7"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute8"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/agency_cp_4_nl0_ce0/distribution_cp_4_nl0_ae8"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute9"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/gold_ad_4_nl0_ce0/pain_ad_4_nl0_ae0ke0"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/gold_ad_4_nl0_ce0/make_ad_4_nl0_ae1"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/gold_ad_4_nl0_ce0/prevent_ad_4_nl0_ae2"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/gold_ad_4_nl0_ce0/probable_ad_4_nl0_ae3"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/gold_ad_4_nl0_ce0/low_ad_4_nl0_ae4"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/gold_ad_4_nl0_ce0/bath_ad_4_nl0_ae5"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/gold_ad_4_nl0_ce0/butter_ad_4_nl0_ae6"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/copy_dl_4_nl0_ce0/thick_dl_4_nl0_ae0ke0"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/copy_dl_4_nl0_ce0/stiff_dl_4_nl0_ae1"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/copy_dl_4_nl0_ce0/feeling_dl_4_nl0_ae2"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/copy_dl_4_nl0_ce0/connect_dl_4_nl0_ae3"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/copy_dl_4_nl0_ce0/disease_dl_4_nl0_ae4"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/copy_dl_4_nl0_ce0/attraction_dl_4_nl0_ae5"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/copy_dl_4_nl0_ce0/sad_dl_4_nl0_ae6"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/copy_dl_4_nl0_ce0/root_dl_4_nl0_ae7"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute8"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/copy_dl_4_nl0_ce0/pain_dl_4_nl0_ae8"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute9"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/walk_adl_4_nl0_ce0/count_adl_4_nl0_ae0ke0"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/walk_adl_4_nl0_ce0/explain_adl_4_nl0_ae1"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/walk_adl_4_nl0_ce0/theory_adl_4_nl0_ae2"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/walk_adl_4_nl0_ce0/settle_adl_4_nl0_ae3"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/walk_adl_4_nl0_ce0/record_adl_4_nl0_ae4"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/walk_adl_4_nl0_ce0/probable_adl_4_nl0_ae5"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/walk_adl_4_nl0_ce0/poor_adl_4_nl0_ae6"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/judge_cp_5_nl0_ce0/impulse_cp_5_nl0_ae0ke0"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/judge_cp_5_nl0_ce0/prose_cp_5_nl0_ae1"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/judge_cp_5_nl0_ce0/agencies_cp_5_nl0_ae2"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/judge_cp_5_nl0_ce0/flat_cp_5_nl0_ae3"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/judge_cp_5_nl0_ce0/train_cp_5_nl0_ae4"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/judge_cp_5_nl0_ce0/boot_cp_5_nl0_ae5"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/judge_cp_5_nl0_ce0/dependent_cp_5_nl0_ae6"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/judge_cp_5_nl0_ce0/sea_cp_5_nl0_ae7"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute8"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/judge_cp_5_nl0_ce0/delicate_cp_5_nl0_ae8"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute9"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/sleep_ad_5_nl0_ce0/bath_ad_5_nl0_ae0ke0"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/sleep_ad_5_nl0_ce0/road_ad_5_nl0_ae1"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/sleep_ad_5_nl0_ce0/rhythm_ad_5_nl0_ae2"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/sleep_ad_5_nl0_ce0/stomach_ad_5_nl0_ae3"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/sleep_ad_5_nl0_ce0/speak_ad_5_nl0_ae4"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/sleep_ad_5_nl0_ce0/place_ad_5_nl0_ae5"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/sleep_ad_5_nl0_ce0/return_ad_5_nl0_ae6"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/match_dl_5_nl0_ce0/debts_dl_5_nl0_ae0ke0"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/match_dl_5_nl0_ce0/gain_dl_5_nl0_ae1"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/match_dl_5_nl0_ce0/oven_dl_5_nl0_ae2"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/match_dl_5_nl0_ce0/give_dl_5_nl0_ae3"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/match_dl_5_nl0_ce0/selection_dl_5_nl0_ae4"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/match_dl_5_nl0_ce0/window_dl_5_nl0_ae5"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/match_dl_5_nl0_ce0/belong_dl_5_nl0_ae6"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/match_dl_5_nl0_ce0/increase_dl_5_nl0_ae7"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute8"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/match_dl_5_nl0_ce0/female_dl_5_nl0_ae8"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute9"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/round_adl_5_nl0_ce0/win_adl_5_nl0_ae0ke0"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/round_adl_5_nl0_ce0/turn_adl_5_nl0_ae1"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/round_adl_5_nl0_ce0/chin_adl_5_nl0_ae2"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/round_adl_5_nl0_ce0/salt_adl_5_nl0_ae3"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/round_adl_5_nl0_ce0/argue_adl_5_nl0_ae4"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/round_adl_5_nl0_ce0/late_adl_5_nl0_ae5"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6"/>
+    </valueMapping>
+    <valueMapping>
+      <source value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/round_adl_5_nl0_ce0/summer_adl_5_nl0_ae6"/>
+      <target value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7"/>
+    </valueMapping>
+  </componentMappings>
+  <logicalMappings>
+    <logicalMapping name="M0">
+      <source>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/nut_cp_1_nl0_ce0" name="smnut_cp_1_nl0_ce0"/>
+      </source>
+      <target>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation" name="tmtest_le_1_nl0_ce0_target_relation"/>
+      </target>
+      <mapping>$smnut_cp_1_nl0_ce0/art_cp_1_nl0_ae0ke0 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1 AND $smnut_cp_1_nl0_ce0/slope_cp_1_nl0_ae1 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2 AND $smnut_cp_1_nl0_ce0/measure_cp_1_nl0_ae2 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3 AND $smnut_cp_1_nl0_ce0/touch_cp_1_nl0_ae3 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4 AND $smnut_cp_1_nl0_ce0/cheese_cp_1_nl0_ae4 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5 AND $smnut_cp_1_nl0_ce0/society_cp_1_nl0_ae5 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6 AND $smnut_cp_1_nl0_ce0/compare_cp_1_nl0_ae6 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7 AND $smnut_cp_1_nl0_ce0/branch_cp_1_nl0_ae7 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute8 AND $smnut_cp_1_nl0_ce0/demand_cp_1_nl0_ae8 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute9</mapping>
+      </logicalMapping>
+    <logicalMapping name="M1">
+      <source>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/great_ad_1_nl0_ce0" name="smgreat_ad_1_nl0_ce0"/>
+      </source>
+      <target>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation" name="tmtest_le_1_nl0_ce0_target_relation"/>
+      </target>
+      <mapping>$smgreat_ad_1_nl0_ce0/board_ad_1_nl0_ae0ke0 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1 AND $smgreat_ad_1_nl0_ce0/different_ad_1_nl0_ae1 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2 AND $smgreat_ad_1_nl0_ce0/society_ad_1_nl0_ae2 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3 AND $smgreat_ad_1_nl0_ce0/warn_ad_1_nl0_ae3 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4 AND $smgreat_ad_1_nl0_ce0/tail_ad_1_nl0_ae4 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5 AND $smgreat_ad_1_nl0_ce0/red_ad_1_nl0_ae5 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6 AND $smgreat_ad_1_nl0_ce0/wrong_ad_1_nl0_ae6 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7 AND SK0($smgreat_ad_1_nl0_ce0/board_ad_1_nl0_ae0ke0, $smgreat_ad_1_nl0_ce0/different_ad_1_nl0_ae1, $smgreat_ad_1_nl0_ce0/society_ad_1_nl0_ae2, $smgreat_ad_1_nl0_ce0/warn_ad_1_nl0_ae3, $smgreat_ad_1_nl0_ce0/tail_ad_1_nl0_ae4, $smgreat_ad_1_nl0_ce0/red_ad_1_nl0_ae5, $smgreat_ad_1_nl0_ce0/wrong_ad_1_nl0_ae6) = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute8 AND SK1($smgreat_ad_1_nl0_ce0/board_ad_1_nl0_ae0ke0, $smgreat_ad_1_nl0_ce0/different_ad_1_nl0_ae1, $smgreat_ad_1_nl0_ce0/society_ad_1_nl0_ae2, $smgreat_ad_1_nl0_ce0/warn_ad_1_nl0_ae3, $smgreat_ad_1_nl0_ce0/tail_ad_1_nl0_ae4, $smgreat_ad_1_nl0_ce0/red_ad_1_nl0_ae5, $smgreat_ad_1_nl0_ce0/wrong_ad_1_nl0_ae6) = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute9</mapping>
+      </logicalMapping>
+    <logicalMapping name="M2">
+      <source>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/past_dl_1_nl0_ce0" name="smpast_dl_1_nl0_ce0"/>
+      </source>
+      <target>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation" name="tmtest_le_1_nl0_ce0_target_relation"/>
+      </target>
+      <mapping>$smpast_dl_1_nl0_ce0/wheel_dl_1_nl0_ae0ke0 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1 AND $smpast_dl_1_nl0_ce0/letter_dl_1_nl0_ae1 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2 AND $smpast_dl_1_nl0_ce0/blue_dl_1_nl0_ae2 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3 AND $smpast_dl_1_nl0_ce0/describe_dl_1_nl0_ae3 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4 AND $smpast_dl_1_nl0_ce0/report_dl_1_nl0_ae4 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5 AND $smpast_dl_1_nl0_ce0/night_dl_1_nl0_ae5 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6 AND $smpast_dl_1_nl0_ce0/find_dl_1_nl0_ae6 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7 AND $smpast_dl_1_nl0_ce0/attention_dl_1_nl0_ae7 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute8 AND $smpast_dl_1_nl0_ce0/discover_dl_1_nl0_ae8 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute9</mapping>
+      </logicalMapping>
+    <logicalMapping name="M3">
+      <source>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/narrow_adl_1_nl0_ce0" name="smnarrow_adl_1_nl0_ce0"/>
+      </source>
+      <target>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation" name="tmtest_le_1_nl0_ce0_target_relation"/>
+      </target>
+      <mapping>$smnarrow_adl_1_nl0_ce0/rest_adl_1_nl0_ae0ke0 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1 AND $smnarrow_adl_1_nl0_ce0/expansion_adl_1_nl0_ae1 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2 AND $smnarrow_adl_1_nl0_ce0/pipe_adl_1_nl0_ae2 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3 AND $smnarrow_adl_1_nl0_ce0/indicate_adl_1_nl0_ae3 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4 AND $smnarrow_adl_1_nl0_ce0/thank_adl_1_nl0_ae4 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5 AND $smnarrow_adl_1_nl0_ce0/stick_adl_1_nl0_ae5 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6 AND $smnarrow_adl_1_nl0_ce0/order_adl_1_nl0_ae6 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7 AND SK2($smnarrow_adl_1_nl0_ce0/rest_adl_1_nl0_ae0ke0, $smnarrow_adl_1_nl0_ce0/expansion_adl_1_nl0_ae1, $smnarrow_adl_1_nl0_ce0/pipe_adl_1_nl0_ae2, $smnarrow_adl_1_nl0_ce0/indicate_adl_1_nl0_ae3, $smnarrow_adl_1_nl0_ce0/thank_adl_1_nl0_ae4, $smnarrow_adl_1_nl0_ce0/stick_adl_1_nl0_ae5, $smnarrow_adl_1_nl0_ce0/order_adl_1_nl0_ae6, $smnarrow_adl_1_nl0_ce0/twist_adl_1_nl0_ae7, $smnarrow_adl_1_nl0_ce0/account_adl_1_nl0_ae8, $smnarrow_adl_1_nl0_ce0/future_adl_1_nl0_ae9) = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute8 AND SK3($smnarrow_adl_1_nl0_ce0/rest_adl_1_nl0_ae0ke0, $smnarrow_adl_1_nl0_ce0/expansion_adl_1_nl0_ae1, $smnarrow_adl_1_nl0_ce0/pipe_adl_1_nl0_ae2, $smnarrow_adl_1_nl0_ce0/indicate_adl_1_nl0_ae3, $smnarrow_adl_1_nl0_ce0/thank_adl_1_nl0_ae4, $smnarrow_adl_1_nl0_ce0/stick_adl_1_nl0_ae5, $smnarrow_adl_1_nl0_ce0/order_adl_1_nl0_ae6, $smnarrow_adl_1_nl0_ce0/twist_adl_1_nl0_ae7, $smnarrow_adl_1_nl0_ce0/account_adl_1_nl0_ae8, $smnarrow_adl_1_nl0_ce0/future_adl_1_nl0_ae9) = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute9</mapping>
+      </logicalMapping>
+    <logicalMapping name="M4">
+      <source>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/chin_cp_2_nl0_ce0" name="smchin_cp_2_nl0_ce0"/>
+      </source>
+      <target>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation" name="tmtest_le_1_nl0_ce0_target_relation"/>
+      </target>
+      <mapping>$smchin_cp_2_nl0_ce0/mixed_cp_2_nl0_ae0ke0 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1 AND $smchin_cp_2_nl0_ce0/small_cp_2_nl0_ae1 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2 AND $smchin_cp_2_nl0_ce0/broken_cp_2_nl0_ae2 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3 AND $smchin_cp_2_nl0_ce0/brain_cp_2_nl0_ae3 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4 AND $smchin_cp_2_nl0_ce0/branch_cp_2_nl0_ae4 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5 AND $smchin_cp_2_nl0_ce0/swim_cp_2_nl0_ae5 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6 AND $smchin_cp_2_nl0_ce0/place_cp_2_nl0_ae6 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7 AND $smchin_cp_2_nl0_ce0/approval_cp_2_nl0_ae7 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute8 AND $smchin_cp_2_nl0_ce0/blow_cp_2_nl0_ae8 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute9</mapping>
+      </logicalMapping>
+    <logicalMapping name="M5">
+      <source>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/division_ad_2_nl0_ce0" name="smdivision_ad_2_nl0_ce0"/>
+      </source>
+      <target>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation" name="tmtest_le_1_nl0_ce0_target_relation"/>
+      </target>
+      <mapping>$smdivision_ad_2_nl0_ce0/ready_ad_2_nl0_ae0ke0 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1 AND $smdivision_ad_2_nl0_ce0/gun_ad_2_nl0_ae1 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2 AND $smdivision_ad_2_nl0_ce0/winter_ad_2_nl0_ae2 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3 AND $smdivision_ad_2_nl0_ce0/powder_ad_2_nl0_ae3 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4 AND $smdivision_ad_2_nl0_ce0/work_ad_2_nl0_ae4 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5 AND $smdivision_ad_2_nl0_ce0/discuss_ad_2_nl0_ae5 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6 AND $smdivision_ad_2_nl0_ce0/involve_ad_2_nl0_ae6 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7 AND SK4($smdivision_ad_2_nl0_ce0/ready_ad_2_nl0_ae0ke0, $smdivision_ad_2_nl0_ce0/gun_ad_2_nl0_ae1, $smdivision_ad_2_nl0_ce0/winter_ad_2_nl0_ae2, $smdivision_ad_2_nl0_ce0/powder_ad_2_nl0_ae3, $smdivision_ad_2_nl0_ce0/work_ad_2_nl0_ae4, $smdivision_ad_2_nl0_ce0/discuss_ad_2_nl0_ae5, $smdivision_ad_2_nl0_ce0/involve_ad_2_nl0_ae6) = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute8 AND SK5($smdivision_ad_2_nl0_ce0/ready_ad_2_nl0_ae0ke0, $smdivision_ad_2_nl0_ce0/gun_ad_2_nl0_ae1, $smdivision_ad_2_nl0_ce0/winter_ad_2_nl0_ae2, $smdivision_ad_2_nl0_ce0/powder_ad_2_nl0_ae3, $smdivision_ad_2_nl0_ce0/work_ad_2_nl0_ae4, $smdivision_ad_2_nl0_ce0/discuss_ad_2_nl0_ae5, $smdivision_ad_2_nl0_ce0/involve_ad_2_nl0_ae6) = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute9</mapping>
+      </logicalMapping>
+    <logicalMapping name="M6">
+      <source>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/use_dl_2_nl0_ce0" name="smuse_dl_2_nl0_ce0"/>
+      </source>
+      <target>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation" name="tmtest_le_1_nl0_ce0_target_relation"/>
+      </target>
+      <mapping>$smuse_dl_2_nl0_ce0/paint_dl_2_nl0_ae0ke0 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1 AND $smuse_dl_2_nl0_ce0/draw_dl_2_nl0_ae1 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2 AND $smuse_dl_2_nl0_ce0/send_dl_2_nl0_ae2 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3 AND $smuse_dl_2_nl0_ce0/regular_dl_2_nl0_ae3 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4 AND $smuse_dl_2_nl0_ce0/knee_dl_2_nl0_ae4 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5 AND $smuse_dl_2_nl0_ce0/leave_dl_2_nl0_ae5 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6 AND $smuse_dl_2_nl0_ce0/parallel_dl_2_nl0_ae6 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7 AND $smuse_dl_2_nl0_ce0/collection_dl_2_nl0_ae7 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute8 AND $smuse_dl_2_nl0_ce0/handle_dl_2_nl0_ae8 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute9</mapping>
+      </logicalMapping>
+    <logicalMapping name="M7">
+      <source>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/brown_adl_2_nl0_ce0" name="smbrown_adl_2_nl0_ce0"/>
+      </source>
+      <target>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation" name="tmtest_le_1_nl0_ce0_target_relation"/>
+      </target>
+      <mapping>$smbrown_adl_2_nl0_ce0/hit_adl_2_nl0_ae0ke0 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1 AND $smbrown_adl_2_nl0_ce0/decision_adl_2_nl0_ae1 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2 AND $smbrown_adl_2_nl0_ce0/mind_adl_2_nl0_ae2 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3 AND $smbrown_adl_2_nl0_ce0/garden_adl_2_nl0_ae3 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4 AND $smbrown_adl_2_nl0_ce0/necessary_adl_2_nl0_ae4 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5 AND $smbrown_adl_2_nl0_ce0/organization_adl_2_nl0_ae5 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6 AND $smbrown_adl_2_nl0_ce0/stick_adl_2_nl0_ae6 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7 AND SK6($smbrown_adl_2_nl0_ce0/hit_adl_2_nl0_ae0ke0, $smbrown_adl_2_nl0_ce0/decision_adl_2_nl0_ae1, $smbrown_adl_2_nl0_ce0/mind_adl_2_nl0_ae2, $smbrown_adl_2_nl0_ce0/garden_adl_2_nl0_ae3, $smbrown_adl_2_nl0_ce0/necessary_adl_2_nl0_ae4, $smbrown_adl_2_nl0_ce0/organization_adl_2_nl0_ae5, $smbrown_adl_2_nl0_ce0/stick_adl_2_nl0_ae6, $smbrown_adl_2_nl0_ce0/effect_adl_2_nl0_ae7, $smbrown_adl_2_nl0_ce0/slow_adl_2_nl0_ae8, $smbrown_adl_2_nl0_ce0/word_adl_2_nl0_ae9) = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute8 AND SK7($smbrown_adl_2_nl0_ce0/hit_adl_2_nl0_ae0ke0, $smbrown_adl_2_nl0_ce0/decision_adl_2_nl0_ae1, $smbrown_adl_2_nl0_ce0/mind_adl_2_nl0_ae2, $smbrown_adl_2_nl0_ce0/garden_adl_2_nl0_ae3, $smbrown_adl_2_nl0_ce0/necessary_adl_2_nl0_ae4, $smbrown_adl_2_nl0_ce0/organization_adl_2_nl0_ae5, $smbrown_adl_2_nl0_ce0/stick_adl_2_nl0_ae6, $smbrown_adl_2_nl0_ce0/effect_adl_2_nl0_ae7, $smbrown_adl_2_nl0_ce0/slow_adl_2_nl0_ae8, $smbrown_adl_2_nl0_ce0/word_adl_2_nl0_ae9) = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute9</mapping>
+      </logicalMapping>
+    <logicalMapping name="M8">
+      <source>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/kind_cp_3_nl0_ce0" name="smkind_cp_3_nl0_ce0"/>
+      </source>
+      <target>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation" name="tmtest_le_1_nl0_ce0_target_relation"/>
+      </target>
+      <mapping>$smkind_cp_3_nl0_ce0/prove_cp_3_nl0_ae0ke0 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1 AND $smkind_cp_3_nl0_ce0/ring_cp_3_nl0_ae1 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2 AND $smkind_cp_3_nl0_ce0/early_cp_3_nl0_ae2 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3 AND $smkind_cp_3_nl0_ce0/violent_cp_3_nl0_ae3 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4 AND $smkind_cp_3_nl0_ce0/chalk_cp_3_nl0_ae4 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5 AND $smkind_cp_3_nl0_ce0/regular_cp_3_nl0_ae5 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6 AND $smkind_cp_3_nl0_ce0/love_cp_3_nl0_ae6 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7 AND $smkind_cp_3_nl0_ce0/mind_cp_3_nl0_ae7 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute8 AND $smkind_cp_3_nl0_ce0/door_cp_3_nl0_ae8 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute9</mapping>
+      </logicalMapping>
+    <logicalMapping name="M9">
+      <source>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/charge_ad_3_nl0_ce0" name="smcharge_ad_3_nl0_ce0"/>
+      </source>
+      <target>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation" name="tmtest_le_1_nl0_ce0_target_relation"/>
+      </target>
+      <mapping>$smcharge_ad_3_nl0_ce0/certain_ad_3_nl0_ae0ke0 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1 AND $smcharge_ad_3_nl0_ce0/collection_ad_3_nl0_ae1 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2 AND $smcharge_ad_3_nl0_ce0/bent_ad_3_nl0_ae2 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3 AND $smcharge_ad_3_nl0_ce0/sweet_ad_3_nl0_ae3 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4 AND $smcharge_ad_3_nl0_ce0/rod_ad_3_nl0_ae4 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5 AND $smcharge_ad_3_nl0_ce0/silk_ad_3_nl0_ae5 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6 AND $smcharge_ad_3_nl0_ce0/crush_ad_3_nl0_ae6 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7 AND SK8($smcharge_ad_3_nl0_ce0/certain_ad_3_nl0_ae0ke0, $smcharge_ad_3_nl0_ce0/collection_ad_3_nl0_ae1, $smcharge_ad_3_nl0_ce0/bent_ad_3_nl0_ae2, $smcharge_ad_3_nl0_ce0/sweet_ad_3_nl0_ae3, $smcharge_ad_3_nl0_ce0/rod_ad_3_nl0_ae4, $smcharge_ad_3_nl0_ce0/silk_ad_3_nl0_ae5, $smcharge_ad_3_nl0_ce0/crush_ad_3_nl0_ae6) = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute8 AND SK9($smcharge_ad_3_nl0_ce0/certain_ad_3_nl0_ae0ke0, $smcharge_ad_3_nl0_ce0/collection_ad_3_nl0_ae1, $smcharge_ad_3_nl0_ce0/bent_ad_3_nl0_ae2, $smcharge_ad_3_nl0_ce0/sweet_ad_3_nl0_ae3, $smcharge_ad_3_nl0_ce0/rod_ad_3_nl0_ae4, $smcharge_ad_3_nl0_ce0/silk_ad_3_nl0_ae5, $smcharge_ad_3_nl0_ce0/crush_ad_3_nl0_ae6) = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute9</mapping>
+      </logicalMapping>
+    <logicalMapping name="M10">
+      <source>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/treat_dl_3_nl0_ce0" name="smtreat_dl_3_nl0_ce0"/>
+      </source>
+      <target>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation" name="tmtest_le_1_nl0_ce0_target_relation"/>
+      </target>
+      <mapping>$smtreat_dl_3_nl0_ce0/farm_dl_3_nl0_ae0ke0 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1 AND $smtreat_dl_3_nl0_ce0/language_dl_3_nl0_ae1 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2 AND $smtreat_dl_3_nl0_ce0/worry_dl_3_nl0_ae2 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3 AND $smtreat_dl_3_nl0_ce0/chalk_dl_3_nl0_ae3 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4 AND $smtreat_dl_3_nl0_ce0/regular_dl_3_nl0_ae4 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5 AND $smtreat_dl_3_nl0_ce0/degree_dl_3_nl0_ae5 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6 AND $smtreat_dl_3_nl0_ce0/start_dl_3_nl0_ae6 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7 AND $smtreat_dl_3_nl0_ce0/fruit_dl_3_nl0_ae7 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute8 AND $smtreat_dl_3_nl0_ce0/science_dl_3_nl0_ae8 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute9</mapping>
+      </logicalMapping>
+    <logicalMapping name="M11">
+      <source>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/found_adl_3_nl0_ce0" name="smfound_adl_3_nl0_ce0"/>
+      </source>
+      <target>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation" name="tmtest_le_1_nl0_ce0_target_relation"/>
+      </target>
+      <mapping>$smfound_adl_3_nl0_ce0/sleep_adl_3_nl0_ae0ke0 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1 AND $smfound_adl_3_nl0_ce0/flower_adl_3_nl0_ae1 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2 AND $smfound_adl_3_nl0_ce0/involve_adl_3_nl0_ae2 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3 AND $smfound_adl_3_nl0_ce0/mention_adl_3_nl0_ae3 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4 AND $smfound_adl_3_nl0_ce0/pencil_adl_3_nl0_ae4 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5 AND $smfound_adl_3_nl0_ce0/grip_adl_3_nl0_ae5 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6 AND $smfound_adl_3_nl0_ce0/complex_adl_3_nl0_ae6 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7 AND SK10($smfound_adl_3_nl0_ce0/sleep_adl_3_nl0_ae0ke0, $smfound_adl_3_nl0_ce0/flower_adl_3_nl0_ae1, $smfound_adl_3_nl0_ce0/involve_adl_3_nl0_ae2, $smfound_adl_3_nl0_ce0/mention_adl_3_nl0_ae3, $smfound_adl_3_nl0_ce0/pencil_adl_3_nl0_ae4, $smfound_adl_3_nl0_ce0/grip_adl_3_nl0_ae5, $smfound_adl_3_nl0_ce0/complex_adl_3_nl0_ae6, $smfound_adl_3_nl0_ce0/claim_adl_3_nl0_ae7, $smfound_adl_3_nl0_ce0/state_adl_3_nl0_ae8, $smfound_adl_3_nl0_ce0/egg_adl_3_nl0_ae9) = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute8 AND SK11($smfound_adl_3_nl0_ce0/sleep_adl_3_nl0_ae0ke0, $smfound_adl_3_nl0_ce0/flower_adl_3_nl0_ae1, $smfound_adl_3_nl0_ce0/involve_adl_3_nl0_ae2, $smfound_adl_3_nl0_ce0/mention_adl_3_nl0_ae3, $smfound_adl_3_nl0_ce0/pencil_adl_3_nl0_ae4, $smfound_adl_3_nl0_ce0/grip_adl_3_nl0_ae5, $smfound_adl_3_nl0_ce0/complex_adl_3_nl0_ae6, $smfound_adl_3_nl0_ce0/claim_adl_3_nl0_ae7, $smfound_adl_3_nl0_ce0/state_adl_3_nl0_ae8, $smfound_adl_3_nl0_ce0/egg_adl_3_nl0_ae9) = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute9</mapping>
+      </logicalMapping>
+    <logicalMapping name="M12">
+      <source>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/agency_cp_4_nl0_ce0" name="smagency_cp_4_nl0_ce0"/>
+      </source>
+      <target>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation" name="tmtest_le_1_nl0_ce0_target_relation"/>
+      </target>
+      <mapping>$smagency_cp_4_nl0_ce0/complete_cp_4_nl0_ae0ke0 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1 AND $smagency_cp_4_nl0_ce0/count_cp_4_nl0_ae1 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2 AND $smagency_cp_4_nl0_ce0/amount_cp_4_nl0_ae2 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3 AND $smagency_cp_4_nl0_ce0/death_cp_4_nl0_ae3 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4 AND $smagency_cp_4_nl0_ce0/shake_cp_4_nl0_ae4 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5 AND $smagency_cp_4_nl0_ce0/hollow_cp_4_nl0_ae5 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6 AND $smagency_cp_4_nl0_ce0/hollow_cp_4_nl0_ae6 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7 AND $smagency_cp_4_nl0_ce0/leather_cp_4_nl0_ae7 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute8 AND $smagency_cp_4_nl0_ce0/distribution_cp_4_nl0_ae8 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute9</mapping>
+      </logicalMapping>
+    <logicalMapping name="M13">
+      <source>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/gold_ad_4_nl0_ce0" name="smgold_ad_4_nl0_ce0"/>
+      </source>
+      <target>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation" name="tmtest_le_1_nl0_ce0_target_relation"/>
+      </target>
+      <mapping>$smgold_ad_4_nl0_ce0/pain_ad_4_nl0_ae0ke0 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1 AND $smgold_ad_4_nl0_ce0/make_ad_4_nl0_ae1 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2 AND $smgold_ad_4_nl0_ce0/prevent_ad_4_nl0_ae2 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3 AND $smgold_ad_4_nl0_ce0/probable_ad_4_nl0_ae3 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4 AND $smgold_ad_4_nl0_ce0/low_ad_4_nl0_ae4 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5 AND $smgold_ad_4_nl0_ce0/bath_ad_4_nl0_ae5 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6 AND $smgold_ad_4_nl0_ce0/butter_ad_4_nl0_ae6 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7 AND SK12($smgold_ad_4_nl0_ce0/pain_ad_4_nl0_ae0ke0, $smgold_ad_4_nl0_ce0/make_ad_4_nl0_ae1, $smgold_ad_4_nl0_ce0/prevent_ad_4_nl0_ae2, $smgold_ad_4_nl0_ce0/probable_ad_4_nl0_ae3, $smgold_ad_4_nl0_ce0/low_ad_4_nl0_ae4, $smgold_ad_4_nl0_ce0/bath_ad_4_nl0_ae5, $smgold_ad_4_nl0_ce0/butter_ad_4_nl0_ae6) = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute8 AND SK13($smgold_ad_4_nl0_ce0/pain_ad_4_nl0_ae0ke0, $smgold_ad_4_nl0_ce0/make_ad_4_nl0_ae1, $smgold_ad_4_nl0_ce0/prevent_ad_4_nl0_ae2, $smgold_ad_4_nl0_ce0/probable_ad_4_nl0_ae3, $smgold_ad_4_nl0_ce0/low_ad_4_nl0_ae4, $smgold_ad_4_nl0_ce0/bath_ad_4_nl0_ae5, $smgold_ad_4_nl0_ce0/butter_ad_4_nl0_ae6) = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute9</mapping>
+      </logicalMapping>
+    <logicalMapping name="M14">
+      <source>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/copy_dl_4_nl0_ce0" name="smcopy_dl_4_nl0_ce0"/>
+      </source>
+      <target>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation" name="tmtest_le_1_nl0_ce0_target_relation"/>
+      </target>
+      <mapping>$smcopy_dl_4_nl0_ce0/thick_dl_4_nl0_ae0ke0 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1 AND $smcopy_dl_4_nl0_ce0/stiff_dl_4_nl0_ae1 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2 AND $smcopy_dl_4_nl0_ce0/feeling_dl_4_nl0_ae2 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3 AND $smcopy_dl_4_nl0_ce0/connect_dl_4_nl0_ae3 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4 AND $smcopy_dl_4_nl0_ce0/disease_dl_4_nl0_ae4 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5 AND $smcopy_dl_4_nl0_ce0/attraction_dl_4_nl0_ae5 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6 AND $smcopy_dl_4_nl0_ce0/sad_dl_4_nl0_ae6 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7 AND $smcopy_dl_4_nl0_ce0/root_dl_4_nl0_ae7 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute8 AND $smcopy_dl_4_nl0_ce0/pain_dl_4_nl0_ae8 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute9</mapping>
+      </logicalMapping>
+    <logicalMapping name="M15">
+      <source>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/walk_adl_4_nl0_ce0" name="smwalk_adl_4_nl0_ce0"/>
+      </source>
+      <target>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation" name="tmtest_le_1_nl0_ce0_target_relation"/>
+      </target>
+      <mapping>$smwalk_adl_4_nl0_ce0/count_adl_4_nl0_ae0ke0 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1 AND $smwalk_adl_4_nl0_ce0/explain_adl_4_nl0_ae1 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2 AND $smwalk_adl_4_nl0_ce0/theory_adl_4_nl0_ae2 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3 AND $smwalk_adl_4_nl0_ce0/settle_adl_4_nl0_ae3 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4 AND $smwalk_adl_4_nl0_ce0/record_adl_4_nl0_ae4 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5 AND $smwalk_adl_4_nl0_ce0/probable_adl_4_nl0_ae5 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6 AND $smwalk_adl_4_nl0_ce0/poor_adl_4_nl0_ae6 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7 AND SK14($smwalk_adl_4_nl0_ce0/count_adl_4_nl0_ae0ke0, $smwalk_adl_4_nl0_ce0/explain_adl_4_nl0_ae1, $smwalk_adl_4_nl0_ce0/theory_adl_4_nl0_ae2, $smwalk_adl_4_nl0_ce0/settle_adl_4_nl0_ae3, $smwalk_adl_4_nl0_ce0/record_adl_4_nl0_ae4, $smwalk_adl_4_nl0_ce0/probable_adl_4_nl0_ae5, $smwalk_adl_4_nl0_ce0/poor_adl_4_nl0_ae6, $smwalk_adl_4_nl0_ce0/goat_adl_4_nl0_ae7, $smwalk_adl_4_nl0_ce0/pick_adl_4_nl0_ae8, $smwalk_adl_4_nl0_ce0/head_adl_4_nl0_ae9) = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute8 AND SK15($smwalk_adl_4_nl0_ce0/count_adl_4_nl0_ae0ke0, $smwalk_adl_4_nl0_ce0/explain_adl_4_nl0_ae1, $smwalk_adl_4_nl0_ce0/theory_adl_4_nl0_ae2, $smwalk_adl_4_nl0_ce0/settle_adl_4_nl0_ae3, $smwalk_adl_4_nl0_ce0/record_adl_4_nl0_ae4, $smwalk_adl_4_nl0_ce0/probable_adl_4_nl0_ae5, $smwalk_adl_4_nl0_ce0/poor_adl_4_nl0_ae6, $smwalk_adl_4_nl0_ce0/goat_adl_4_nl0_ae7, $smwalk_adl_4_nl0_ce0/pick_adl_4_nl0_ae8, $smwalk_adl_4_nl0_ce0/head_adl_4_nl0_ae9) = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute9</mapping>
+      </logicalMapping>
+    <logicalMapping name="M16">
+      <source>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/judge_cp_5_nl0_ce0" name="smjudge_cp_5_nl0_ce0"/>
+      </source>
+      <target>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation" name="tmtest_le_1_nl0_ce0_target_relation"/>
+      </target>
+      <mapping>$smjudge_cp_5_nl0_ce0/impulse_cp_5_nl0_ae0ke0 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1 AND $smjudge_cp_5_nl0_ce0/prose_cp_5_nl0_ae1 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2 AND $smjudge_cp_5_nl0_ce0/agencies_cp_5_nl0_ae2 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3 AND $smjudge_cp_5_nl0_ce0/flat_cp_5_nl0_ae3 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4 AND $smjudge_cp_5_nl0_ce0/train_cp_5_nl0_ae4 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5 AND $smjudge_cp_5_nl0_ce0/boot_cp_5_nl0_ae5 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6 AND $smjudge_cp_5_nl0_ce0/dependent_cp_5_nl0_ae6 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7 AND $smjudge_cp_5_nl0_ce0/sea_cp_5_nl0_ae7 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute8 AND $smjudge_cp_5_nl0_ce0/delicate_cp_5_nl0_ae8 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute9</mapping>
+      </logicalMapping>
+    <logicalMapping name="M17">
+      <source>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/sleep_ad_5_nl0_ce0" name="smsleep_ad_5_nl0_ce0"/>
+      </source>
+      <target>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation" name="tmtest_le_1_nl0_ce0_target_relation"/>
+      </target>
+      <mapping>$smsleep_ad_5_nl0_ce0/bath_ad_5_nl0_ae0ke0 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1 AND $smsleep_ad_5_nl0_ce0/road_ad_5_nl0_ae1 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2 AND $smsleep_ad_5_nl0_ce0/rhythm_ad_5_nl0_ae2 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3 AND $smsleep_ad_5_nl0_ce0/stomach_ad_5_nl0_ae3 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4 AND $smsleep_ad_5_nl0_ce0/speak_ad_5_nl0_ae4 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5 AND $smsleep_ad_5_nl0_ce0/place_ad_5_nl0_ae5 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6 AND $smsleep_ad_5_nl0_ce0/return_ad_5_nl0_ae6 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7 AND SK16($smsleep_ad_5_nl0_ce0/bath_ad_5_nl0_ae0ke0, $smsleep_ad_5_nl0_ce0/road_ad_5_nl0_ae1, $smsleep_ad_5_nl0_ce0/rhythm_ad_5_nl0_ae2, $smsleep_ad_5_nl0_ce0/stomach_ad_5_nl0_ae3, $smsleep_ad_5_nl0_ce0/speak_ad_5_nl0_ae4, $smsleep_ad_5_nl0_ce0/place_ad_5_nl0_ae5, $smsleep_ad_5_nl0_ce0/return_ad_5_nl0_ae6) = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute8 AND SK17($smsleep_ad_5_nl0_ce0/bath_ad_5_nl0_ae0ke0, $smsleep_ad_5_nl0_ce0/road_ad_5_nl0_ae1, $smsleep_ad_5_nl0_ce0/rhythm_ad_5_nl0_ae2, $smsleep_ad_5_nl0_ce0/stomach_ad_5_nl0_ae3, $smsleep_ad_5_nl0_ce0/speak_ad_5_nl0_ae4, $smsleep_ad_5_nl0_ce0/place_ad_5_nl0_ae5, $smsleep_ad_5_nl0_ce0/return_ad_5_nl0_ae6) = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute9</mapping>
+      </logicalMapping>
+    <logicalMapping name="M18">
+      <source>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/match_dl_5_nl0_ce0" name="smmatch_dl_5_nl0_ce0"/>
+      </source>
+      <target>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation" name="tmtest_le_1_nl0_ce0_target_relation"/>
+      </target>
+      <mapping>$smmatch_dl_5_nl0_ce0/debts_dl_5_nl0_ae0ke0 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1 AND $smmatch_dl_5_nl0_ce0/gain_dl_5_nl0_ae1 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2 AND $smmatch_dl_5_nl0_ce0/oven_dl_5_nl0_ae2 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3 AND $smmatch_dl_5_nl0_ce0/give_dl_5_nl0_ae3 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4 AND $smmatch_dl_5_nl0_ce0/selection_dl_5_nl0_ae4 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5 AND $smmatch_dl_5_nl0_ce0/window_dl_5_nl0_ae5 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6 AND $smmatch_dl_5_nl0_ce0/belong_dl_5_nl0_ae6 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7 AND $smmatch_dl_5_nl0_ce0/increase_dl_5_nl0_ae7 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute8 AND $smmatch_dl_5_nl0_ce0/female_dl_5_nl0_ae8 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute9</mapping>
+      </logicalMapping>
+    <logicalMapping name="M19">
+      <source>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src0/round_adl_5_nl0_ce0" name="smround_adl_5_nl0_ce0"/>
+      </source>
+      <target>
+        <entity value="$S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Trg0/test_le_1_nl0_ce0_target_relation" name="tmtest_le_1_nl0_ce0_target_relation"/>
+      </target>
+      <mapping>$smround_adl_5_nl0_ce0/win_adl_5_nl0_ae0ke0 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute1 AND $smround_adl_5_nl0_ce0/turn_adl_5_nl0_ae1 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute2 AND $smround_adl_5_nl0_ce0/chin_adl_5_nl0_ae2 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute3 AND $smround_adl_5_nl0_ce0/salt_adl_5_nl0_ae3 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute4 AND $smround_adl_5_nl0_ce0/argue_adl_5_nl0_ae4 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute5 AND $smround_adl_5_nl0_ce0/late_adl_5_nl0_ae5 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute6 AND $smround_adl_5_nl0_ce0/summer_adl_5_nl0_ae6 = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute7 AND SK18($smround_adl_5_nl0_ce0/win_adl_5_nl0_ae0ke0, $smround_adl_5_nl0_ce0/turn_adl_5_nl0_ae1, $smround_adl_5_nl0_ce0/chin_adl_5_nl0_ae2, $smround_adl_5_nl0_ce0/salt_adl_5_nl0_ae3, $smround_adl_5_nl0_ce0/argue_adl_5_nl0_ae4, $smround_adl_5_nl0_ce0/late_adl_5_nl0_ae5, $smround_adl_5_nl0_ce0/summer_adl_5_nl0_ae6, $smround_adl_5_nl0_ce0/will_adl_5_nl0_ae7, $smround_adl_5_nl0_ce0/shut_adl_5_nl0_ae8, $smround_adl_5_nl0_ce0/buy_adl_5_nl0_ae9) = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute8 AND SK19($smround_adl_5_nl0_ce0/win_adl_5_nl0_ae0ke0, $smround_adl_5_nl0_ce0/turn_adl_5_nl0_ae1, $smround_adl_5_nl0_ce0/chin_adl_5_nl0_ae2, $smround_adl_5_nl0_ce0/salt_adl_5_nl0_ae3, $smround_adl_5_nl0_ce0/argue_adl_5_nl0_ae4, $smround_adl_5_nl0_ce0/late_adl_5_nl0_ae5, $smround_adl_5_nl0_ce0/summer_adl_5_nl0_ae6, $smround_adl_5_nl0_ce0/will_adl_5_nl0_ae7, $smround_adl_5_nl0_ce0/shut_adl_5_nl0_ae8, $smround_adl_5_nl0_ce0/buy_adl_5_nl0_ae9) = $tmtest_le_1_nl0_ce0_target_relation/test_le_1_nl0_ce0_t_attribute9</mapping>
+      </logicalMapping>
+  </logicalMappings>
+</xsml:schemaMapping>

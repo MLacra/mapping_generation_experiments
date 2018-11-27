@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mappingtask>
+  <config>
+ <rewriteSubsumptions>true</rewriteSubsumptions>
+    <rewriteCoverages>true</rewriteCoverages>
+    <rewriteSelfJoins>true</rewriteSelfJoins>
+    <rewriteEGDs>true</rewriteEGDs>
+    <sortStrategy>-1</sortStrategy>
+    <skolemTableStrategy>-1</skolemTableStrategy>
+    <useLocalSkolem>false</useLocalSkolem>
+  </config>
+  <source>
+    <type>relational</type>
+    <relational>
+      <driver>org.postgresql.Driver</driver>
+ <uri>jdbc:postgresql://localhost:5432/testsdatabase</uri>
+ <login>lara</login>
+ <password>postgres</password> 
+ </relational>
+    <inclusions />
+    <exclusions />
+    <duplications />
+    <functionalDependencies />
+    <selectionConditions />
+ <joinConditions>
+ <joinCondition>
+ <join>
+<from>testsdatabase.charge_ma_2_nl0_ce0.charge_ma_2_nl0_ce0Tuple.door_ma_2_nl0_ae0comp1_joinref_0</from>
+<to>testsdatabase.bent_ma_2_nl0_ce1.bent_ma_2_nl0_ce1Tuple.door_ma_2_nl0_ae0comp1_joinattr_0</to>
+</join> <foreignKey>true</foreignKey>
+  <mandatory>false</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>testsdatabase.death_ma_4_nl0_ce0.death_ma_4_nl0_ce0Tuple.amount_ma_4_nl0_ae0comp1_joinref_0</from>
+<to>testsdatabase.leather_ma_4_nl0_ce1.leather_ma_4_nl0_ce1Tuple.amount_ma_4_nl0_ae0comp1_joinattr_0</to>
+</join> <foreignKey>true</foreignKey>
+  <mandatory>false</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>testsdatabase.grip_ma_3_nl0_ce0.grip_ma_3_nl0_ce0Tuple.pencil_ma_3_nl0_ae0comp1_joinref_0</from>
+<to>testsdatabase.egg_ma_3_nl0_ce1.egg_ma_3_nl0_ce1Tuple.pencil_ma_3_nl0_ae0comp1_joinattr_0</to>
+</join> <foreignKey>true</foreignKey>
+  <mandatory>false</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>testsdatabase.make_ma_5_nl0_ce0.make_ma_5_nl0_ce0Tuple.accept_ma_5_nl0_ae0comp1_joinref_0</from>
+<to>testsdatabase.bath_ma_5_nl0_ce1.bath_ma_5_nl0_ce1Tuple.accept_ma_5_nl0_ae0comp1_joinattr_0</to>
+</join> <foreignKey>true</foreignKey>
+  <mandatory>false</mandatory>
+</joinCondition>
+ <joinCondition>
+ <join>
+<from>testsdatabase.mixed_ma_1_nl0_ce0.mixed_ma_1_nl0_ce0Tuple.chin_ma_1_nl0_ae0comp1_joinref_0</from>
+<to>testsdatabase.branch_ma_1_nl0_ce1.branch_ma_1_nl0_ce1Tuple.chin_ma_1_nl0_ae0comp1_joinattr_0</to>
+</join> <foreignKey>true</foreignKey>
+  <mandatory>false</mandatory>
+</joinCondition>
+ </joinConditions>
+  </source> 
+ <target>
+    <type>relational</type>
+    <relational>
+      <driver>org.postgresql.Driver</driver>
+      <uri> jdbc:postgresql://localhost:5432/testsdatabase</uri>
+ <login>lara</login>
+      <password>postgres</password>
+    </relational>
+    <inclusions />
+    <exclusions />
+    <duplications />
+    <functionalDependencies />
+    <selectionConditions />
+    <joinConditions />
+  </target> 
+<correspondences>
+</correspondences>
+</mappingtask>

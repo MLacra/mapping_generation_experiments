@@ -1,0 +1,2 @@
+datasource(mixed_50_inds_s_cp_ad__trg,localhost:5432/testsdatabase,JDBC_POSTGRES,null).
+datasource(mixed_50_inds_s_cp_ad__src,localhost:5432/testsdatabase,JDBC_POSTGRES,null).

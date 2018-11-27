@@ -1,0 +1,2553 @@
+<xm:MappingScenario xmlns:xm="org/vagabond/xmlmodel">
+  <Schemas>
+    <SourceSchema>
+      <Relation name="nut_cp_1_nl0_ce0">
+        <Attr>
+          <Name>art_cp_1_nl0_ae0ke0</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>slope_cp_1_nl0_ae1</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>measure_cp_1_nl0_ae2</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>touch_cp_1_nl0_ae3</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>cheese_cp_1_nl0_ae4</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>society_cp_1_nl0_ae5</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>compare_cp_1_nl0_ae6</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>branch_cp_1_nl0_ae7</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>demand_cp_1_nl0_ae8</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <PrimaryKey>
+          <Attr>art_cp_1_nl0_ae0ke0</Attr>
+        </PrimaryKey>
+      </Relation>
+      <Relation name="great_ad_1_nl0_ce0">
+        <Attr>
+          <Name>board_ad_1_nl0_ae0ke0</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>different_ad_1_nl0_ae1</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>society_ad_1_nl0_ae2</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>warn_ad_1_nl0_ae3</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>tail_ad_1_nl0_ae4</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>red_ad_1_nl0_ae5</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>wrong_ad_1_nl0_ae6</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <PrimaryKey>
+          <Attr>board_ad_1_nl0_ae0ke0</Attr>
+        </PrimaryKey>
+      </Relation>
+      <Relation name="past_dl_1_nl0_ce0">
+        <Attr>
+          <Name>wheel_dl_1_nl0_ae0ke0</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>letter_dl_1_nl0_ae1</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>blue_dl_1_nl0_ae2</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>describe_dl_1_nl0_ae3</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>report_dl_1_nl0_ae4</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>night_dl_1_nl0_ae5</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>find_dl_1_nl0_ae6</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>attention_dl_1_nl0_ae7</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>discover_dl_1_nl0_ae8</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>different_dl_1_nl0_ae9</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>reveal_dl_1_nl0_ae10</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>oven_dl_1_nl0_ae11</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <PrimaryKey>
+          <Attr>wheel_dl_1_nl0_ae0ke0</Attr>
+        </PrimaryKey>
+      </Relation>
+      <Relation name="narrow_adl_1_nl0_ce0">
+        <Attr>
+          <Name>rest_adl_1_nl0_ae0ke0</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>expansion_adl_1_nl0_ae1</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>pipe_adl_1_nl0_ae2</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>indicate_adl_1_nl0_ae3</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>thank_adl_1_nl0_ae4</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>stick_adl_1_nl0_ae5</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>order_adl_1_nl0_ae6</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>twist_adl_1_nl0_ae7</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>account_adl_1_nl0_ae8</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>future_adl_1_nl0_ae9</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <PrimaryKey>
+          <Attr>rest_adl_1_nl0_ae0ke0</Attr>
+        </PrimaryKey>
+      </Relation>
+      <Relation name="mixed_ma_1_nl0_ce0">
+        <Attr>
+          <Name>small_ma_1_nl0_ae0</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>broken_ma_1_nl0_ae1</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>brain_ma_1_nl0_ae2</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>chin_ma_1_nl0_ae0comp1_joinref_0</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <PrimaryKey>
+          <Attr>chin_ma_1_nl0_ae0comp1_joinref_0</Attr>
+        </PrimaryKey>
+      </Relation>
+      <Relation name="branch_ma_1_nl0_ce1">
+        <Attr>
+          <Name>swim_ma_1_nl1_ae0</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>place_ma_1_nl1_ae1</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>approval_ma_1_nl1_ae2</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>chin_ma_1_nl0_ae0comp1_joinattr_0</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <PrimaryKey>
+          <Attr>chin_ma_1_nl0_ae0comp1_joinattr_0</Attr>
+        </PrimaryKey>
+      </Relation>
+      <Relation name="blow_cp_2_nl0_ce0">
+        <Attr>
+          <Name>division_cp_2_nl0_ae0ke0</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>ready_cp_2_nl0_ae1</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>property_cp_2_nl0_ae2</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>gun_cp_2_nl0_ae3</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>winter_cp_2_nl0_ae4</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>powder_cp_2_nl0_ae5</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>work_cp_2_nl0_ae6</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>discuss_cp_2_nl0_ae7</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>involve_cp_2_nl0_ae8</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <PrimaryKey>
+          <Attr>division_cp_2_nl0_ae0ke0</Attr>
+        </PrimaryKey>
+      </Relation>
+      <Relation name="use_ad_2_nl0_ce0">
+        <Attr>
+          <Name>paint_ad_2_nl0_ae0ke0</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>draw_ad_2_nl0_ae1</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>send_ad_2_nl0_ae2</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>regular_ad_2_nl0_ae3</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>knee_ad_2_nl0_ae4</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>leave_ad_2_nl0_ae5</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>parallel_ad_2_nl0_ae6</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <PrimaryKey>
+          <Attr>paint_ad_2_nl0_ae0ke0</Attr>
+        </PrimaryKey>
+      </Relation>
+      <Relation name="collection_dl_2_nl0_ce0">
+        <Attr>
+          <Name>handle_dl_2_nl0_ae0ke0</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>die_dl_2_nl0_ae1</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>worry_dl_2_nl0_ae2</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>brown_dl_2_nl0_ae3</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>hit_dl_2_nl0_ae4</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>paint_dl_2_nl0_ae5</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>decision_dl_2_nl0_ae6</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>mind_dl_2_nl0_ae7</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>garden_dl_2_nl0_ae8</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>necessary_dl_2_nl0_ae9</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>organization_dl_2_nl0_ae10</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>stick_dl_2_nl0_ae11</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <PrimaryKey>
+          <Attr>handle_dl_2_nl0_ae0ke0</Attr>
+        </PrimaryKey>
+      </Relation>
+      <Relation name="effect_adl_2_nl0_ce0">
+        <Attr>
+          <Name>slow_adl_2_nl0_ae0ke0</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>kind_adl_2_nl0_ae1</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>prove_adl_2_nl0_ae2</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>ring_adl_2_nl0_ae3</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>early_adl_2_nl0_ae4</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>violent_adl_2_nl0_ae5</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>chalk_adl_2_nl0_ae6</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>regular_adl_2_nl0_ae7</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>love_adl_2_nl0_ae8</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>mind_adl_2_nl0_ae9</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <PrimaryKey>
+          <Attr>slow_adl_2_nl0_ae0ke0</Attr>
+        </PrimaryKey>
+      </Relation>
+      <Relation name="charge_ma_2_nl0_ce0">
+        <Attr>
+          <Name>certain_ma_2_nl0_ae0</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>sugar_ma_2_nl0_ae1</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>collection_ma_2_nl0_ae2</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>door_ma_2_nl0_ae0comp1_joinref_0</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <PrimaryKey>
+          <Attr>door_ma_2_nl0_ae0comp1_joinref_0</Attr>
+        </PrimaryKey>
+      </Relation>
+      <Relation name="bent_ma_2_nl0_ce1">
+        <Attr>
+          <Name>sweet_ma_2_nl1_ae0</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>rod_ma_2_nl1_ae1</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>silk_ma_2_nl1_ae2</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>door_ma_2_nl0_ae0comp1_joinattr_0</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <PrimaryKey>
+          <Attr>door_ma_2_nl0_ae0comp1_joinattr_0</Attr>
+        </PrimaryKey>
+      </Relation>
+      <Relation name="crush_cp_3_nl0_ce0">
+        <Attr>
+          <Name>treat_cp_3_nl0_ae0ke0</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>farm_cp_3_nl0_ae1</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>political_cp_3_nl0_ae2</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>language_cp_3_nl0_ae3</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>worry_cp_3_nl0_ae4</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>chalk_cp_3_nl0_ae5</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>regular_cp_3_nl0_ae6</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>degree_cp_3_nl0_ae7</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>start_cp_3_nl0_ae8</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <PrimaryKey>
+          <Attr>treat_cp_3_nl0_ae0ke0</Attr>
+        </PrimaryKey>
+      </Relation>
+      <Relation name="fruit_ad_3_nl0_ce0">
+        <Attr>
+          <Name>science_ad_3_nl0_ae0ke0</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>last_ad_3_nl0_ae1</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>found_ad_3_nl0_ae2</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>found_ad_3_nl0_ae3</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>sleep_ad_3_nl0_ae4</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>clean_ad_3_nl0_ae5</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>flower_ad_3_nl0_ae6</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <PrimaryKey>
+          <Attr>science_ad_3_nl0_ae0ke0</Attr>
+        </PrimaryKey>
+      </Relation>
+      <Relation name="involve_dl_3_nl0_ce0">
+        <Attr>
+          <Name>mention_dl_3_nl0_ae0ke0</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>grip_dl_3_nl0_ae1</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>complex_dl_3_nl0_ae2</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>claim_dl_3_nl0_ae3</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>state_dl_3_nl0_ae4</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>egg_dl_3_nl0_ae5</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>agency_dl_3_nl0_ae6</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>complete_dl_3_nl0_ae7</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>count_dl_3_nl0_ae8</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>amount_dl_3_nl0_ae9</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>death_dl_3_nl0_ae10</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>shake_dl_3_nl0_ae11</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <PrimaryKey>
+          <Attr>mention_dl_3_nl0_ae0ke0</Attr>
+        </PrimaryKey>
+      </Relation>
+      <Relation name="hollow_adl_3_nl0_ce0">
+        <Attr>
+          <Name>hollow_adl_3_nl0_ae0ke0</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>distribution_adl_3_nl0_ae1</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>gold_adl_3_nl0_ae2</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>pain_adl_3_nl0_ae3</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>accept_adl_3_nl0_ae4</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>make_adl_3_nl0_ae5</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>prevent_adl_3_nl0_ae6</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>probable_adl_3_nl0_ae7</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>low_adl_3_nl0_ae8</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>bath_adl_3_nl0_ae9</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <PrimaryKey>
+          <Attr>hollow_adl_3_nl0_ae0ke0</Attr>
+        </PrimaryKey>
+      </Relation>
+      <Relation name="copy_ma_3_nl0_ce0">
+        <Attr>
+          <Name>thick_ma_3_nl0_ae0</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>close_ma_3_nl0_ae1</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>stiff_ma_3_nl0_ae2</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>butter_ma_3_nl0_ae0comp1_joinref_0</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <PrimaryKey>
+          <Attr>butter_ma_3_nl0_ae0comp1_joinref_0</Attr>
+        </PrimaryKey>
+      </Relation>
+      <Relation name="feeling_ma_3_nl0_ce1">
+        <Attr>
+          <Name>connect_ma_3_nl1_ae0</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>disease_ma_3_nl1_ae1</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>attraction_ma_3_nl1_ae2</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>butter_ma_3_nl0_ae0comp1_joinattr_0</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <PrimaryKey>
+          <Attr>butter_ma_3_nl0_ae0comp1_joinattr_0</Attr>
+        </PrimaryKey>
+      </Relation>
+      <Relation name="root_ma_4_nl0_ce0">
+        <Attr>
+          <Name>pain_ma_4_nl0_ae0</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>straight_ma_4_nl0_ae1</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>complain_ma_4_nl0_ae2</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>sad_ma_4_nl0_ae0comp1_joinref_0</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <PrimaryKey>
+          <Attr>sad_ma_4_nl0_ae0comp1_joinref_0</Attr>
+        </PrimaryKey>
+      </Relation>
+      <Relation name="question_ma_4_nl0_ce1">
+        <Attr>
+          <Name>walk_ma_4_nl1_ae0</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>count_ma_4_nl1_ae1</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>involve_ma_4_nl1_ae2</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>sad_ma_4_nl0_ae0comp1_joinattr_0</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <PrimaryKey>
+          <Attr>sad_ma_4_nl0_ae0comp1_joinattr_0</Attr>
+        </PrimaryKey>
+      </Relation>
+      <ForeignKey>
+        <From tableref="mixed_ma_1_nl0_ce0">
+          <Attr>chin_ma_1_nl0_ae0comp1_joinref_0</Attr>
+        </From>
+        <To tableref="branch_ma_1_nl0_ce1">
+          <Attr>chin_ma_1_nl0_ae0comp1_joinattr_0</Attr>
+        </To>
+      </ForeignKey>
+      <ForeignKey>
+        <From tableref="charge_ma_2_nl0_ce0">
+          <Attr>door_ma_2_nl0_ae0comp1_joinref_0</Attr>
+        </From>
+        <To tableref="bent_ma_2_nl0_ce1">
+          <Attr>door_ma_2_nl0_ae0comp1_joinattr_0</Attr>
+        </To>
+      </ForeignKey>
+      <ForeignKey>
+        <From tableref="copy_ma_3_nl0_ce0">
+          <Attr>butter_ma_3_nl0_ae0comp1_joinref_0</Attr>
+        </From>
+        <To tableref="feeling_ma_3_nl0_ce1">
+          <Attr>butter_ma_3_nl0_ae0comp1_joinattr_0</Attr>
+        </To>
+      </ForeignKey>
+      <ForeignKey>
+        <From tableref="root_ma_4_nl0_ce0">
+          <Attr>sad_ma_4_nl0_ae0comp1_joinref_0</Attr>
+        </From>
+        <To tableref="question_ma_4_nl0_ce1">
+          <Attr>sad_ma_4_nl0_ae0comp1_joinattr_0</Attr>
+        </To>
+      </ForeignKey>
+    </SourceSchema>
+    <TargetSchema>
+      <Relation name="test_le_1_nl0_ce0_target_relation" xmlns:this="org/vagabond/xmlmodel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <Attr>
+          <Name>test_le_1_nl0_ce0_t_attribute1</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>test_le_1_nl0_ce0_t_attribute2</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>test_le_1_nl0_ce0_t_attribute3</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>test_le_1_nl0_ce0_t_attribute4</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>test_le_1_nl0_ce0_t_attribute5</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>test_le_1_nl0_ce0_t_attribute6</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>test_le_1_nl0_ce0_t_attribute7</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>test_le_1_nl0_ce0_t_attribute8</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <Attr>
+          <Name>test_le_1_nl0_ce0_t_attribute9</Name>
+          <DataType>TEXT</DataType>
+        </Attr>
+        <PrimaryKey>
+          <Attr>test_le_1_nl0_ce0_t_attribute7</Attr>
+        </PrimaryKey>
+      </Relation>
+    </TargetSchema>
+  </Schemas>
+  <Correspondences>
+    <Correspondence id="C0">
+      <From tableref="nut_cp_1_nl0_ce0">
+        <Attr>art_cp_1_nl0_ae0ke0</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute1</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C1">
+      <From tableref="nut_cp_1_nl0_ce0">
+        <Attr>slope_cp_1_nl0_ae1</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute2</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C2">
+      <From tableref="nut_cp_1_nl0_ce0">
+        <Attr>measure_cp_1_nl0_ae2</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute3</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C3">
+      <From tableref="nut_cp_1_nl0_ce0">
+        <Attr>touch_cp_1_nl0_ae3</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute4</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C4">
+      <From tableref="nut_cp_1_nl0_ce0">
+        <Attr>cheese_cp_1_nl0_ae4</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute5</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C5">
+      <From tableref="nut_cp_1_nl0_ce0">
+        <Attr>society_cp_1_nl0_ae5</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute6</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C6">
+      <From tableref="nut_cp_1_nl0_ce0">
+        <Attr>compare_cp_1_nl0_ae6</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute7</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C7">
+      <From tableref="nut_cp_1_nl0_ce0">
+        <Attr>branch_cp_1_nl0_ae7</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute8</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C8">
+      <From tableref="nut_cp_1_nl0_ce0">
+        <Attr>demand_cp_1_nl0_ae8</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute9</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C9">
+      <From tableref="great_ad_1_nl0_ce0">
+        <Attr>board_ad_1_nl0_ae0ke0</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute1</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C10">
+      <From tableref="great_ad_1_nl0_ce0">
+        <Attr>different_ad_1_nl0_ae1</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute2</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C11">
+      <From tableref="great_ad_1_nl0_ce0">
+        <Attr>society_ad_1_nl0_ae2</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute3</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C12">
+      <From tableref="great_ad_1_nl0_ce0">
+        <Attr>warn_ad_1_nl0_ae3</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute4</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C13">
+      <From tableref="great_ad_1_nl0_ce0">
+        <Attr>tail_ad_1_nl0_ae4</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute5</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C14">
+      <From tableref="great_ad_1_nl0_ce0">
+        <Attr>red_ad_1_nl0_ae5</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute6</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C15">
+      <From tableref="great_ad_1_nl0_ce0">
+        <Attr>wrong_ad_1_nl0_ae6</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute7</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C16">
+      <From tableref="past_dl_1_nl0_ce0">
+        <Attr>wheel_dl_1_nl0_ae0ke0</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute1</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C17">
+      <From tableref="past_dl_1_nl0_ce0">
+        <Attr>letter_dl_1_nl0_ae1</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute2</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C18">
+      <From tableref="past_dl_1_nl0_ce0">
+        <Attr>blue_dl_1_nl0_ae2</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute3</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C19">
+      <From tableref="past_dl_1_nl0_ce0">
+        <Attr>describe_dl_1_nl0_ae3</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute4</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C20">
+      <From tableref="past_dl_1_nl0_ce0">
+        <Attr>report_dl_1_nl0_ae4</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute5</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C21">
+      <From tableref="past_dl_1_nl0_ce0">
+        <Attr>night_dl_1_nl0_ae5</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute6</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C22">
+      <From tableref="past_dl_1_nl0_ce0">
+        <Attr>find_dl_1_nl0_ae6</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute7</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C23">
+      <From tableref="past_dl_1_nl0_ce0">
+        <Attr>attention_dl_1_nl0_ae7</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute8</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C24">
+      <From tableref="past_dl_1_nl0_ce0">
+        <Attr>discover_dl_1_nl0_ae8</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute9</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C25">
+      <From tableref="narrow_adl_1_nl0_ce0">
+        <Attr>rest_adl_1_nl0_ae0ke0</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute1</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C26">
+      <From tableref="narrow_adl_1_nl0_ce0">
+        <Attr>expansion_adl_1_nl0_ae1</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute2</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C27">
+      <From tableref="narrow_adl_1_nl0_ce0">
+        <Attr>pipe_adl_1_nl0_ae2</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute3</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C28">
+      <From tableref="narrow_adl_1_nl0_ce0">
+        <Attr>indicate_adl_1_nl0_ae3</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute4</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C29">
+      <From tableref="narrow_adl_1_nl0_ce0">
+        <Attr>thank_adl_1_nl0_ae4</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute5</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C30">
+      <From tableref="narrow_adl_1_nl0_ce0">
+        <Attr>stick_adl_1_nl0_ae5</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute6</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C31">
+      <From tableref="narrow_adl_1_nl0_ce0">
+        <Attr>order_adl_1_nl0_ae6</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute7</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C32">
+      <From tableref="mixed_ma_1_nl0_ce0">
+        <Attr>small_ma_1_nl0_ae0</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute1</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C33">
+      <From tableref="mixed_ma_1_nl0_ce0">
+        <Attr>broken_ma_1_nl0_ae1</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute2</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C34">
+      <From tableref="mixed_ma_1_nl0_ce0">
+        <Attr>brain_ma_1_nl0_ae2</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute3</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C35">
+      <From tableref="branch_ma_1_nl0_ce1">
+        <Attr>swim_ma_1_nl1_ae0</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute4</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C36">
+      <From tableref="branch_ma_1_nl0_ce1">
+        <Attr>place_ma_1_nl1_ae1</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute5</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C37">
+      <From tableref="branch_ma_1_nl0_ce1">
+        <Attr>approval_ma_1_nl1_ae2</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute6</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C38">
+      <From tableref="branch_ma_1_nl0_ce1">
+        <Attr>chin_ma_1_nl0_ae0comp1_joinattr_0</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute7</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C39">
+      <From tableref="blow_cp_2_nl0_ce0">
+        <Attr>division_cp_2_nl0_ae0ke0</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute1</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C40">
+      <From tableref="blow_cp_2_nl0_ce0">
+        <Attr>ready_cp_2_nl0_ae1</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute2</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C41">
+      <From tableref="blow_cp_2_nl0_ce0">
+        <Attr>property_cp_2_nl0_ae2</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute3</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C42">
+      <From tableref="blow_cp_2_nl0_ce0">
+        <Attr>gun_cp_2_nl0_ae3</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute4</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C43">
+      <From tableref="blow_cp_2_nl0_ce0">
+        <Attr>winter_cp_2_nl0_ae4</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute5</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C44">
+      <From tableref="blow_cp_2_nl0_ce0">
+        <Attr>powder_cp_2_nl0_ae5</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute6</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C45">
+      <From tableref="blow_cp_2_nl0_ce0">
+        <Attr>work_cp_2_nl0_ae6</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute7</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C46">
+      <From tableref="blow_cp_2_nl0_ce0">
+        <Attr>discuss_cp_2_nl0_ae7</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute8</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C47">
+      <From tableref="blow_cp_2_nl0_ce0">
+        <Attr>involve_cp_2_nl0_ae8</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute9</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C48">
+      <From tableref="use_ad_2_nl0_ce0">
+        <Attr>paint_ad_2_nl0_ae0ke0</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute1</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C49">
+      <From tableref="use_ad_2_nl0_ce0">
+        <Attr>draw_ad_2_nl0_ae1</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute2</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C50">
+      <From tableref="use_ad_2_nl0_ce0">
+        <Attr>send_ad_2_nl0_ae2</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute3</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C51">
+      <From tableref="use_ad_2_nl0_ce0">
+        <Attr>regular_ad_2_nl0_ae3</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute4</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C52">
+      <From tableref="use_ad_2_nl0_ce0">
+        <Attr>knee_ad_2_nl0_ae4</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute5</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C53">
+      <From tableref="use_ad_2_nl0_ce0">
+        <Attr>leave_ad_2_nl0_ae5</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute6</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C54">
+      <From tableref="use_ad_2_nl0_ce0">
+        <Attr>parallel_ad_2_nl0_ae6</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute7</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C55">
+      <From tableref="collection_dl_2_nl0_ce0">
+        <Attr>handle_dl_2_nl0_ae0ke0</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute1</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C56">
+      <From tableref="collection_dl_2_nl0_ce0">
+        <Attr>die_dl_2_nl0_ae1</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute2</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C57">
+      <From tableref="collection_dl_2_nl0_ce0">
+        <Attr>worry_dl_2_nl0_ae2</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute3</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C58">
+      <From tableref="collection_dl_2_nl0_ce0">
+        <Attr>brown_dl_2_nl0_ae3</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute4</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C59">
+      <From tableref="collection_dl_2_nl0_ce0">
+        <Attr>hit_dl_2_nl0_ae4</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute5</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C60">
+      <From tableref="collection_dl_2_nl0_ce0">
+        <Attr>paint_dl_2_nl0_ae5</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute6</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C61">
+      <From tableref="collection_dl_2_nl0_ce0">
+        <Attr>decision_dl_2_nl0_ae6</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute7</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C62">
+      <From tableref="collection_dl_2_nl0_ce0">
+        <Attr>mind_dl_2_nl0_ae7</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute8</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C63">
+      <From tableref="collection_dl_2_nl0_ce0">
+        <Attr>garden_dl_2_nl0_ae8</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute9</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C64">
+      <From tableref="effect_adl_2_nl0_ce0">
+        <Attr>slow_adl_2_nl0_ae0ke0</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute1</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C65">
+      <From tableref="effect_adl_2_nl0_ce0">
+        <Attr>kind_adl_2_nl0_ae1</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute2</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C66">
+      <From tableref="effect_adl_2_nl0_ce0">
+        <Attr>prove_adl_2_nl0_ae2</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute3</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C67">
+      <From tableref="effect_adl_2_nl0_ce0">
+        <Attr>ring_adl_2_nl0_ae3</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute4</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C68">
+      <From tableref="effect_adl_2_nl0_ce0">
+        <Attr>early_adl_2_nl0_ae4</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute5</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C69">
+      <From tableref="effect_adl_2_nl0_ce0">
+        <Attr>violent_adl_2_nl0_ae5</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute6</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C70">
+      <From tableref="effect_adl_2_nl0_ce0">
+        <Attr>chalk_adl_2_nl0_ae6</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute7</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C71">
+      <From tableref="charge_ma_2_nl0_ce0">
+        <Attr>certain_ma_2_nl0_ae0</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute1</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C72">
+      <From tableref="charge_ma_2_nl0_ce0">
+        <Attr>sugar_ma_2_nl0_ae1</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute2</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C73">
+      <From tableref="charge_ma_2_nl0_ce0">
+        <Attr>collection_ma_2_nl0_ae2</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute3</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C74">
+      <From tableref="bent_ma_2_nl0_ce1">
+        <Attr>sweet_ma_2_nl1_ae0</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute4</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C75">
+      <From tableref="bent_ma_2_nl0_ce1">
+        <Attr>rod_ma_2_nl1_ae1</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute5</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C76">
+      <From tableref="bent_ma_2_nl0_ce1">
+        <Attr>silk_ma_2_nl1_ae2</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute6</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C77">
+      <From tableref="bent_ma_2_nl0_ce1">
+        <Attr>door_ma_2_nl0_ae0comp1_joinattr_0</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute7</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C78">
+      <From tableref="crush_cp_3_nl0_ce0">
+        <Attr>treat_cp_3_nl0_ae0ke0</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute1</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C79">
+      <From tableref="crush_cp_3_nl0_ce0">
+        <Attr>farm_cp_3_nl0_ae1</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute2</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C80">
+      <From tableref="crush_cp_3_nl0_ce0">
+        <Attr>political_cp_3_nl0_ae2</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute3</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C81">
+      <From tableref="crush_cp_3_nl0_ce0">
+        <Attr>language_cp_3_nl0_ae3</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute4</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C82">
+      <From tableref="crush_cp_3_nl0_ce0">
+        <Attr>worry_cp_3_nl0_ae4</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute5</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C83">
+      <From tableref="crush_cp_3_nl0_ce0">
+        <Attr>chalk_cp_3_nl0_ae5</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute6</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C84">
+      <From tableref="crush_cp_3_nl0_ce0">
+        <Attr>regular_cp_3_nl0_ae6</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute7</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C85">
+      <From tableref="crush_cp_3_nl0_ce0">
+        <Attr>degree_cp_3_nl0_ae7</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute8</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C86">
+      <From tableref="crush_cp_3_nl0_ce0">
+        <Attr>start_cp_3_nl0_ae8</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute9</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C87">
+      <From tableref="fruit_ad_3_nl0_ce0">
+        <Attr>science_ad_3_nl0_ae0ke0</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute1</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C88">
+      <From tableref="fruit_ad_3_nl0_ce0">
+        <Attr>last_ad_3_nl0_ae1</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute2</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C89">
+      <From tableref="fruit_ad_3_nl0_ce0">
+        <Attr>found_ad_3_nl0_ae2</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute3</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C90">
+      <From tableref="fruit_ad_3_nl0_ce0">
+        <Attr>found_ad_3_nl0_ae3</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute4</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C91">
+      <From tableref="fruit_ad_3_nl0_ce0">
+        <Attr>sleep_ad_3_nl0_ae4</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute5</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C92">
+      <From tableref="fruit_ad_3_nl0_ce0">
+        <Attr>clean_ad_3_nl0_ae5</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute6</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C93">
+      <From tableref="fruit_ad_3_nl0_ce0">
+        <Attr>flower_ad_3_nl0_ae6</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute7</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C94">
+      <From tableref="involve_dl_3_nl0_ce0">
+        <Attr>mention_dl_3_nl0_ae0ke0</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute1</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C95">
+      <From tableref="involve_dl_3_nl0_ce0">
+        <Attr>grip_dl_3_nl0_ae1</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute2</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C96">
+      <From tableref="involve_dl_3_nl0_ce0">
+        <Attr>complex_dl_3_nl0_ae2</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute3</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C97">
+      <From tableref="involve_dl_3_nl0_ce0">
+        <Attr>claim_dl_3_nl0_ae3</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute4</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C98">
+      <From tableref="involve_dl_3_nl0_ce0">
+        <Attr>state_dl_3_nl0_ae4</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute5</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C99">
+      <From tableref="involve_dl_3_nl0_ce0">
+        <Attr>egg_dl_3_nl0_ae5</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute6</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C100">
+      <From tableref="involve_dl_3_nl0_ce0">
+        <Attr>agency_dl_3_nl0_ae6</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute7</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C101">
+      <From tableref="involve_dl_3_nl0_ce0">
+        <Attr>complete_dl_3_nl0_ae7</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute8</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C102">
+      <From tableref="involve_dl_3_nl0_ce0">
+        <Attr>count_dl_3_nl0_ae8</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute9</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C103">
+      <From tableref="hollow_adl_3_nl0_ce0">
+        <Attr>hollow_adl_3_nl0_ae0ke0</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute1</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C104">
+      <From tableref="hollow_adl_3_nl0_ce0">
+        <Attr>distribution_adl_3_nl0_ae1</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute2</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C105">
+      <From tableref="hollow_adl_3_nl0_ce0">
+        <Attr>gold_adl_3_nl0_ae2</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute3</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C106">
+      <From tableref="hollow_adl_3_nl0_ce0">
+        <Attr>pain_adl_3_nl0_ae3</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute4</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C107">
+      <From tableref="hollow_adl_3_nl0_ce0">
+        <Attr>accept_adl_3_nl0_ae4</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute5</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C108">
+      <From tableref="hollow_adl_3_nl0_ce0">
+        <Attr>make_adl_3_nl0_ae5</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute6</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C109">
+      <From tableref="hollow_adl_3_nl0_ce0">
+        <Attr>prevent_adl_3_nl0_ae6</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute7</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C110">
+      <From tableref="copy_ma_3_nl0_ce0">
+        <Attr>thick_ma_3_nl0_ae0</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute1</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C111">
+      <From tableref="copy_ma_3_nl0_ce0">
+        <Attr>close_ma_3_nl0_ae1</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute2</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C112">
+      <From tableref="copy_ma_3_nl0_ce0">
+        <Attr>stiff_ma_3_nl0_ae2</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute3</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C113">
+      <From tableref="feeling_ma_3_nl0_ce1">
+        <Attr>connect_ma_3_nl1_ae0</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute4</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C114">
+      <From tableref="feeling_ma_3_nl0_ce1">
+        <Attr>disease_ma_3_nl1_ae1</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute5</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C115">
+      <From tableref="feeling_ma_3_nl0_ce1">
+        <Attr>attraction_ma_3_nl1_ae2</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute6</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C116">
+      <From tableref="feeling_ma_3_nl0_ce1">
+        <Attr>butter_ma_3_nl0_ae0comp1_joinattr_0</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute7</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C117">
+      <From tableref="root_ma_4_nl0_ce0">
+        <Attr>pain_ma_4_nl0_ae0</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute1</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C118">
+      <From tableref="root_ma_4_nl0_ce0">
+        <Attr>straight_ma_4_nl0_ae1</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute2</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C119">
+      <From tableref="root_ma_4_nl0_ce0">
+        <Attr>complain_ma_4_nl0_ae2</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute3</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C120">
+      <From tableref="question_ma_4_nl0_ce1">
+        <Attr>walk_ma_4_nl1_ae0</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute4</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C121">
+      <From tableref="question_ma_4_nl0_ce1">
+        <Attr>count_ma_4_nl1_ae1</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute5</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C122">
+      <From tableref="question_ma_4_nl0_ce1">
+        <Attr>involve_ma_4_nl1_ae2</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute6</Attr>
+      </To>
+    </Correspondence>
+    <Correspondence id="C123">
+      <From tableref="question_ma_4_nl0_ce1">
+        <Attr>sad_ma_4_nl0_ae0comp1_joinattr_0</Attr>
+      </From>
+      <To tableref="test_le_1_nl0_ce0_target_relation">
+        <Attr>test_le_1_nl0_ce0_t_attribute7</Attr>
+      </To>
+    </Correspondence>
+  </Correspondences>
+  <Mappings>
+    <Mapping id="M0">
+      <Uses>
+        <Correspondence ref="C0"/>
+        <Correspondence ref="C1"/>
+        <Correspondence ref="C2"/>
+        <Correspondence ref="C3"/>
+        <Correspondence ref="C4"/>
+        <Correspondence ref="C5"/>
+        <Correspondence ref="C6"/>
+        <Correspondence ref="C7"/>
+        <Correspondence ref="C8"/>
+      </Uses>
+      <Foreach>
+        <Atom tableref="nut_cp_1_nl0_ce0">
+          <Var>a</Var>
+          <Var>b</Var>
+          <Var>c</Var>
+          <Var>d</Var>
+          <Var>e</Var>
+          <Var>f</Var>
+          <Var>g</Var>
+          <Var>h</Var>
+          <Var>i</Var>
+        </Atom>
+      </Foreach>
+      <Exists>
+        <Atom tableref="test_le_1_nl0_ce0_target_relation">
+          <Var>a</Var>
+          <Var>b</Var>
+          <Var>c</Var>
+          <Var>d</Var>
+          <Var>e</Var>
+          <Var>f</Var>
+          <Var>g</Var>
+          <Var>h</Var>
+          <Var>i</Var>
+        </Atom>
+      </Exists>
+    </Mapping>
+    <Mapping id="M1">
+      <Uses>
+        <Correspondence ref="C9"/>
+        <Correspondence ref="C10"/>
+        <Correspondence ref="C11"/>
+        <Correspondence ref="C12"/>
+        <Correspondence ref="C13"/>
+        <Correspondence ref="C14"/>
+        <Correspondence ref="C15"/>
+      </Uses>
+      <Foreach>
+        <Atom tableref="great_ad_1_nl0_ce0">
+          <Var>a</Var>
+          <Var>b</Var>
+          <Var>c</Var>
+          <Var>d</Var>
+          <Var>e</Var>
+          <Var>f</Var>
+          <Var>g</Var>
+        </Atom>
+      </Foreach>
+      <Exists>
+        <Atom tableref="test_le_1_nl0_ce0_target_relation">
+          <Var>a</Var>
+          <Var>b</Var>
+          <Var>c</Var>
+          <Var>d</Var>
+          <Var>e</Var>
+          <Var>f</Var>
+          <Var>g</Var>
+          <SKFunction skname="SK0">
+            <Var>a</Var>
+            <Var>b</Var>
+            <Var>c</Var>
+            <Var>d</Var>
+            <Var>e</Var>
+            <Var>f</Var>
+            <Var>g</Var>
+          </SKFunction>
+          <SKFunction skname="SK1">
+            <Var>a</Var>
+            <Var>b</Var>
+            <Var>c</Var>
+            <Var>d</Var>
+            <Var>e</Var>
+            <Var>f</Var>
+            <Var>g</Var>
+          </SKFunction>
+        </Atom>
+      </Exists>
+    </Mapping>
+    <Mapping id="M2">
+      <Uses>
+        <Correspondence ref="C16"/>
+        <Correspondence ref="C17"/>
+        <Correspondence ref="C18"/>
+        <Correspondence ref="C19"/>
+        <Correspondence ref="C20"/>
+        <Correspondence ref="C21"/>
+        <Correspondence ref="C22"/>
+        <Correspondence ref="C23"/>
+        <Correspondence ref="C24"/>
+      </Uses>
+      <Foreach>
+        <Atom tableref="past_dl_1_nl0_ce0">
+          <Var>a</Var>
+          <Var>b</Var>
+          <Var>c</Var>
+          <Var>d</Var>
+          <Var>e</Var>
+          <Var>f</Var>
+          <Var>g</Var>
+          <Var>h</Var>
+          <Var>i</Var>
+          <Var>j</Var>
+          <Var>k</Var>
+          <Var>l</Var>
+        </Atom>
+      </Foreach>
+      <Exists>
+        <Atom tableref="test_le_1_nl0_ce0_target_relation">
+          <Var>a</Var>
+          <Var>b</Var>
+          <Var>c</Var>
+          <Var>d</Var>
+          <Var>e</Var>
+          <Var>f</Var>
+          <Var>g</Var>
+          <Var>h</Var>
+          <Var>i</Var>
+        </Atom>
+      </Exists>
+    </Mapping>
+    <Mapping id="M3">
+      <Uses>
+        <Correspondence ref="C25"/>
+        <Correspondence ref="C26"/>
+        <Correspondence ref="C27"/>
+        <Correspondence ref="C28"/>
+        <Correspondence ref="C29"/>
+        <Correspondence ref="C30"/>
+        <Correspondence ref="C31"/>
+      </Uses>
+      <Foreach>
+        <Atom tableref="narrow_adl_1_nl0_ce0">
+          <Var>a</Var>
+          <Var>b</Var>
+          <Var>c</Var>
+          <Var>d</Var>
+          <Var>e</Var>
+          <Var>f</Var>
+          <Var>g</Var>
+          <Var>h</Var>
+          <Var>i</Var>
+          <Var>j</Var>
+        </Atom>
+      </Foreach>
+      <Exists>
+        <Atom tableref="test_le_1_nl0_ce0_target_relation">
+          <Var>a</Var>
+          <Var>b</Var>
+          <Var>c</Var>
+          <Var>d</Var>
+          <Var>e</Var>
+          <Var>f</Var>
+          <Var>g</Var>
+          <SKFunction skname="SK2">
+            <Var>a</Var>
+            <Var>b</Var>
+            <Var>c</Var>
+            <Var>d</Var>
+            <Var>e</Var>
+            <Var>f</Var>
+            <Var>g</Var>
+            <Var>h</Var>
+            <Var>i</Var>
+            <Var>j</Var>
+          </SKFunction>
+          <SKFunction skname="SK3">
+            <Var>a</Var>
+            <Var>b</Var>
+            <Var>c</Var>
+            <Var>d</Var>
+            <Var>e</Var>
+            <Var>f</Var>
+            <Var>g</Var>
+            <Var>h</Var>
+            <Var>i</Var>
+            <Var>j</Var>
+          </SKFunction>
+        </Atom>
+      </Exists>
+    </Mapping>
+    <Mapping id="M4">
+      <Uses>
+        <Correspondence ref="C32"/>
+        <Correspondence ref="C33"/>
+        <Correspondence ref="C34"/>
+        <Correspondence ref="C35"/>
+        <Correspondence ref="C36"/>
+        <Correspondence ref="C37"/>
+        <Correspondence ref="C38"/>
+      </Uses>
+      <Foreach>
+        <Atom tableref="mixed_ma_1_nl0_ce0">
+          <Var>a</Var>
+          <Var>b</Var>
+          <Var>c</Var>
+          <Var>d</Var>
+        </Atom>
+        <Atom tableref="branch_ma_1_nl0_ce1">
+          <Var>e</Var>
+          <Var>f</Var>
+          <Var>g</Var>
+          <Var>d</Var>
+        </Atom>
+      </Foreach>
+      <Exists>
+        <Atom tableref="test_le_1_nl0_ce0_target_relation">
+          <Var>a</Var>
+          <Var>b</Var>
+          <Var>c</Var>
+          <Var>e</Var>
+          <Var>f</Var>
+          <Var>g</Var>
+          <Var>d</Var>
+          <SKFunction skname="SK4">
+            <Var>a</Var>
+            <Var>b</Var>
+            <Var>c</Var>
+            <Var>e</Var>
+            <Var>f</Var>
+            <Var>g</Var>
+            <Var>d</Var>
+          </SKFunction>
+          <SKFunction skname="SK5">
+            <Var>a</Var>
+            <Var>b</Var>
+            <Var>c</Var>
+            <Var>e</Var>
+            <Var>f</Var>
+            <Var>g</Var>
+            <Var>d</Var>
+          </SKFunction>
+        </Atom>
+      </Exists>
+    </Mapping>
+    <Mapping id="M5">
+      <Uses>
+        <Correspondence ref="C39"/>
+        <Correspondence ref="C40"/>
+        <Correspondence ref="C41"/>
+        <Correspondence ref="C42"/>
+        <Correspondence ref="C43"/>
+        <Correspondence ref="C44"/>
+        <Correspondence ref="C45"/>
+        <Correspondence ref="C46"/>
+        <Correspondence ref="C47"/>
+      </Uses>
+      <Foreach>
+        <Atom tableref="blow_cp_2_nl0_ce0">
+          <Var>a</Var>
+          <Var>b</Var>
+          <Var>c</Var>
+          <Var>d</Var>
+          <Var>e</Var>
+          <Var>f</Var>
+          <Var>g</Var>
+          <Var>h</Var>
+          <Var>i</Var>
+        </Atom>
+      </Foreach>
+      <Exists>
+        <Atom tableref="test_le_1_nl0_ce0_target_relation">
+          <Var>a</Var>
+          <Var>b</Var>
+          <Var>c</Var>
+          <Var>d</Var>
+          <Var>e</Var>
+          <Var>f</Var>
+          <Var>g</Var>
+          <Var>h</Var>
+          <Var>i</Var>
+        </Atom>
+      </Exists>
+    </Mapping>
+    <Mapping id="M6">
+      <Uses>
+        <Correspondence ref="C48"/>
+        <Correspondence ref="C49"/>
+        <Correspondence ref="C50"/>
+        <Correspondence ref="C51"/>
+        <Correspondence ref="C52"/>
+        <Correspondence ref="C53"/>
+        <Correspondence ref="C54"/>
+      </Uses>
+      <Foreach>
+        <Atom tableref="use_ad_2_nl0_ce0">
+          <Var>a</Var>
+          <Var>b</Var>
+          <Var>c</Var>
+          <Var>d</Var>
+          <Var>e</Var>
+          <Var>f</Var>
+          <Var>g</Var>
+        </Atom>
+      </Foreach>
+      <Exists>
+        <Atom tableref="test_le_1_nl0_ce0_target_relation">
+          <Var>a</Var>
+          <Var>b</Var>
+          <Var>c</Var>
+          <Var>d</Var>
+          <Var>e</Var>
+          <Var>f</Var>
+          <Var>g</Var>
+          <SKFunction skname="SK6">
+            <Var>a</Var>
+            <Var>b</Var>
+            <Var>c</Var>
+            <Var>d</Var>
+            <Var>e</Var>
+            <Var>f</Var>
+            <Var>g</Var>
+          </SKFunction>
+          <SKFunction skname="SK7">
+            <Var>a</Var>
+            <Var>b</Var>
+            <Var>c</Var>
+            <Var>d</Var>
+            <Var>e</Var>
+            <Var>f</Var>
+            <Var>g</Var>
+          </SKFunction>
+        </Atom>
+      </Exists>
+    </Mapping>
+    <Mapping id="M7">
+      <Uses>
+        <Correspondence ref="C55"/>
+        <Correspondence ref="C56"/>
+        <Correspondence ref="C57"/>
+        <Correspondence ref="C58"/>
+        <Correspondence ref="C59"/>
+        <Correspondence ref="C60"/>
+        <Correspondence ref="C61"/>
+        <Correspondence ref="C62"/>
+        <Correspondence ref="C63"/>
+      </Uses>
+      <Foreach>
+        <Atom tableref="collection_dl_2_nl0_ce0">
+          <Var>a</Var>
+          <Var>b</Var>
+          <Var>c</Var>
+          <Var>d</Var>
+          <Var>e</Var>
+          <Var>f</Var>
+          <Var>g</Var>
+          <Var>h</Var>
+          <Var>i</Var>
+          <Var>j</Var>
+          <Var>k</Var>
+          <Var>l</Var>
+        </Atom>
+      </Foreach>
+      <Exists>
+        <Atom tableref="test_le_1_nl0_ce0_target_relation">
+          <Var>a</Var>
+          <Var>b</Var>
+          <Var>c</Var>
+          <Var>d</Var>
+          <Var>e</Var>
+          <Var>f</Var>
+          <Var>g</Var>
+          <Var>h</Var>
+          <Var>i</Var>
+        </Atom>
+      </Exists>
+    </Mapping>
+    <Mapping id="M8">
+      <Uses>
+        <Correspondence ref="C64"/>
+        <Correspondence ref="C65"/>
+        <Correspondence ref="C66"/>
+        <Correspondence ref="C67"/>
+        <Correspondence ref="C68"/>
+        <Correspondence ref="C69"/>
+        <Correspondence ref="C70"/>
+      </Uses>
+      <Foreach>
+        <Atom tableref="effect_adl_2_nl0_ce0">
+          <Var>a</Var>
+          <Var>b</Var>
+          <Var>c</Var>
+          <Var>d</Var>
+          <Var>e</Var>
+          <Var>f</Var>
+          <Var>g</Var>
+          <Var>h</Var>
+          <Var>i</Var>
+          <Var>j</Var>
+        </Atom>
+      </Foreach>
+      <Exists>
+        <Atom tableref="test_le_1_nl0_ce0_target_relation">
+          <Var>a</Var>
+          <Var>b</Var>
+          <Var>c</Var>
+          <Var>d</Var>
+          <Var>e</Var>
+          <Var>f</Var>
+          <Var>g</Var>
+          <SKFunction skname="SK8">
+            <Var>a</Var>
+            <Var>b</Var>
+            <Var>c</Var>
+            <Var>d</Var>
+            <Var>e</Var>
+            <Var>f</Var>
+            <Var>g</Var>
+            <Var>h</Var>
+            <Var>i</Var>
+            <Var>j</Var>
+          </SKFunction>
+          <SKFunction skname="SK9">
+            <Var>a</Var>
+            <Var>b</Var>
+            <Var>c</Var>
+            <Var>d</Var>
+            <Var>e</Var>
+            <Var>f</Var>
+            <Var>g</Var>
+            <Var>h</Var>
+            <Var>i</Var>
+            <Var>j</Var>
+          </SKFunction>
+        </Atom>
+      </Exists>
+    </Mapping>
+    <Mapping id="M9">
+      <Uses>
+        <Correspondence ref="C71"/>
+        <Correspondence ref="C72"/>
+        <Correspondence ref="C73"/>
+        <Correspondence ref="C74"/>
+        <Correspondence ref="C75"/>
+        <Correspondence ref="C76"/>
+        <Correspondence ref="C77"/>
+      </Uses>
+      <Foreach>
+        <Atom tableref="charge_ma_2_nl0_ce0">
+          <Var>a</Var>
+          <Var>b</Var>
+          <Var>c</Var>
+          <Var>d</Var>
+        </Atom>
+        <Atom tableref="bent_ma_2_nl0_ce1">
+          <Var>e</Var>
+          <Var>f</Var>
+          <Var>g</Var>
+          <Var>d</Var>
+        </Atom>
+      </Foreach>
+      <Exists>
+        <Atom tableref="test_le_1_nl0_ce0_target_relation">
+          <Var>a</Var>
+          <Var>b</Var>
+          <Var>c</Var>
+          <Var>e</Var>
+          <Var>f</Var>
+          <Var>g</Var>
+          <Var>d</Var>
+          <SKFunction skname="SK10">
+            <Var>a</Var>
+            <Var>b</Var>
+            <Var>c</Var>
+            <Var>e</Var>
+            <Var>f</Var>
+            <Var>g</Var>
+            <Var>d</Var>
+          </SKFunction>
+          <SKFunction skname="SK11">
+            <Var>a</Var>
+            <Var>b</Var>
+            <Var>c</Var>
+            <Var>e</Var>
+            <Var>f</Var>
+            <Var>g</Var>
+            <Var>d</Var>
+          </SKFunction>
+        </Atom>
+      </Exists>
+    </Mapping>
+    <Mapping id="M10">
+      <Uses>
+        <Correspondence ref="C78"/>
+        <Correspondence ref="C79"/>
+        <Correspondence ref="C80"/>
+        <Correspondence ref="C81"/>
+        <Correspondence ref="C82"/>
+        <Correspondence ref="C83"/>
+        <Correspondence ref="C84"/>
+        <Correspondence ref="C85"/>
+        <Correspondence ref="C86"/>
+      </Uses>
+      <Foreach>
+        <Atom tableref="crush_cp_3_nl0_ce0">
+          <Var>a</Var>
+          <Var>b</Var>
+          <Var>c</Var>
+          <Var>d</Var>
+          <Var>e</Var>
+          <Var>f</Var>
+          <Var>g</Var>
+          <Var>h</Var>
+          <Var>i</Var>
+        </Atom>
+      </Foreach>
+      <Exists>
+        <Atom tableref="test_le_1_nl0_ce0_target_relation">
+          <Var>a</Var>
+          <Var>b</Var>
+          <Var>c</Var>
+          <Var>d</Var>
+          <Var>e</Var>
+          <Var>f</Var>
+          <Var>g</Var>
+          <Var>h</Var>
+          <Var>i</Var>
+        </Atom>
+      </Exists>
+    </Mapping>
+    <Mapping id="M11">
+      <Uses>
+        <Correspondence ref="C87"/>
+        <Correspondence ref="C88"/>
+        <Correspondence ref="C89"/>
+        <Correspondence ref="C90"/>
+        <Correspondence ref="C91"/>
+        <Correspondence ref="C92"/>
+        <Correspondence ref="C93"/>
+      </Uses>
+      <Foreach>
+        <Atom tableref="fruit_ad_3_nl0_ce0">
+          <Var>a</Var>
+          <Var>b</Var>
+          <Var>c</Var>
+          <Var>d</Var>
+          <Var>e</Var>
+          <Var>f</Var>
+          <Var>g</Var>
+        </Atom>
+      </Foreach>
+      <Exists>
+        <Atom tableref="test_le_1_nl0_ce0_target_relation">
+          <Var>a</Var>
+          <Var>b</Var>
+          <Var>c</Var>
+          <Var>d</Var>
+          <Var>e</Var>
+          <Var>f</Var>
+          <Var>g</Var>
+          <SKFunction skname="SK12">
+            <Var>a</Var>
+            <Var>b</Var>
+            <Var>c</Var>
+            <Var>d</Var>
+            <Var>e</Var>
+            <Var>f</Var>
+            <Var>g</Var>
+          </SKFunction>
+          <SKFunction skname="SK13">
+            <Var>a</Var>
+            <Var>b</Var>
+            <Var>c</Var>
+            <Var>d</Var>
+            <Var>e</Var>
+            <Var>f</Var>
+            <Var>g</Var>
+          </SKFunction>
+        </Atom>
+      </Exists>
+    </Mapping>
+    <Mapping id="M12">
+      <Uses>
+        <Correspondence ref="C94"/>
+        <Correspondence ref="C95"/>
+        <Correspondence ref="C96"/>
+        <Correspondence ref="C97"/>
+        <Correspondence ref="C98"/>
+        <Correspondence ref="C99"/>
+        <Correspondence ref="C100"/>
+        <Correspondence ref="C101"/>
+        <Correspondence ref="C102"/>
+      </Uses>
+      <Foreach>
+        <Atom tableref="involve_dl_3_nl0_ce0">
+          <Var>a</Var>
+          <Var>b</Var>
+          <Var>c</Var>
+          <Var>d</Var>
+          <Var>e</Var>
+          <Var>f</Var>
+          <Var>g</Var>
+          <Var>h</Var>
+          <Var>i</Var>
+          <Var>j</Var>
+          <Var>k</Var>
+          <Var>l</Var>
+        </Atom>
+      </Foreach>
+      <Exists>
+        <Atom tableref="test_le_1_nl0_ce0_target_relation">
+          <Var>a</Var>
+          <Var>b</Var>
+          <Var>c</Var>
+          <Var>d</Var>
+          <Var>e</Var>
+          <Var>f</Var>
+          <Var>g</Var>
+          <Var>h</Var>
+          <Var>i</Var>
+        </Atom>
+      </Exists>
+    </Mapping>
+    <Mapping id="M13">
+      <Uses>
+        <Correspondence ref="C103"/>
+        <Correspondence ref="C104"/>
+        <Correspondence ref="C105"/>
+        <Correspondence ref="C106"/>
+        <Correspondence ref="C107"/>
+        <Correspondence ref="C108"/>
+        <Correspondence ref="C109"/>
+      </Uses>
+      <Foreach>
+        <Atom tableref="hollow_adl_3_nl0_ce0">
+          <Var>a</Var>
+          <Var>b</Var>
+          <Var>c</Var>
+          <Var>d</Var>
+          <Var>e</Var>
+          <Var>f</Var>
+          <Var>g</Var>
+          <Var>h</Var>
+          <Var>i</Var>
+          <Var>j</Var>
+        </Atom>
+      </Foreach>
+      <Exists>
+        <Atom tableref="test_le_1_nl0_ce0_target_relation">
+          <Var>a</Var>
+          <Var>b</Var>
+          <Var>c</Var>
+          <Var>d</Var>
+          <Var>e</Var>
+          <Var>f</Var>
+          <Var>g</Var>
+          <SKFunction skname="SK14">
+            <Var>a</Var>
+            <Var>b</Var>
+            <Var>c</Var>
+            <Var>d</Var>
+            <Var>e</Var>
+            <Var>f</Var>
+            <Var>g</Var>
+            <Var>h</Var>
+            <Var>i</Var>
+            <Var>j</Var>
+          </SKFunction>
+          <SKFunction skname="SK15">
+            <Var>a</Var>
+            <Var>b</Var>
+            <Var>c</Var>
+            <Var>d</Var>
+            <Var>e</Var>
+            <Var>f</Var>
+            <Var>g</Var>
+            <Var>h</Var>
+            <Var>i</Var>
+            <Var>j</Var>
+          </SKFunction>
+        </Atom>
+      </Exists>
+    </Mapping>
+    <Mapping id="M14">
+      <Uses>
+        <Correspondence ref="C110"/>
+        <Correspondence ref="C111"/>
+        <Correspondence ref="C112"/>
+        <Correspondence ref="C113"/>
+        <Correspondence ref="C114"/>
+        <Correspondence ref="C115"/>
+        <Correspondence ref="C116"/>
+      </Uses>
+      <Foreach>
+        <Atom tableref="copy_ma_3_nl0_ce0">
+          <Var>a</Var>
+          <Var>b</Var>
+          <Var>c</Var>
+          <Var>d</Var>
+        </Atom>
+        <Atom tableref="feeling_ma_3_nl0_ce1">
+          <Var>e</Var>
+          <Var>f</Var>
+          <Var>g</Var>
+          <Var>d</Var>
+        </Atom>
+      </Foreach>
+      <Exists>
+        <Atom tableref="test_le_1_nl0_ce0_target_relation">
+          <Var>a</Var>
+          <Var>b</Var>
+          <Var>c</Var>
+          <Var>e</Var>
+          <Var>f</Var>
+          <Var>g</Var>
+          <Var>d</Var>
+          <SKFunction skname="SK16">
+            <Var>a</Var>
+            <Var>b</Var>
+            <Var>c</Var>
+            <Var>e</Var>
+            <Var>f</Var>
+            <Var>g</Var>
+            <Var>d</Var>
+          </SKFunction>
+          <SKFunction skname="SK17">
+            <Var>a</Var>
+            <Var>b</Var>
+            <Var>c</Var>
+            <Var>e</Var>
+            <Var>f</Var>
+            <Var>g</Var>
+            <Var>d</Var>
+          </SKFunction>
+        </Atom>
+      </Exists>
+    </Mapping>
+    <Mapping id="M15">
+      <Uses>
+        <Correspondence ref="C117"/>
+        <Correspondence ref="C118"/>
+        <Correspondence ref="C119"/>
+        <Correspondence ref="C120"/>
+        <Correspondence ref="C121"/>
+        <Correspondence ref="C122"/>
+        <Correspondence ref="C123"/>
+      </Uses>
+      <Foreach>
+        <Atom tableref="root_ma_4_nl0_ce0">
+          <Var>a</Var>
+          <Var>b</Var>
+          <Var>c</Var>
+          <Var>d</Var>
+        </Atom>
+        <Atom tableref="question_ma_4_nl0_ce1">
+          <Var>e</Var>
+          <Var>f</Var>
+          <Var>g</Var>
+          <Var>d</Var>
+        </Atom>
+      </Foreach>
+      <Exists>
+        <Atom tableref="test_le_1_nl0_ce0_target_relation">
+          <Var>a</Var>
+          <Var>b</Var>
+          <Var>c</Var>
+          <Var>e</Var>
+          <Var>f</Var>
+          <Var>g</Var>
+          <Var>d</Var>
+          <SKFunction skname="SK18">
+            <Var>a</Var>
+            <Var>b</Var>
+            <Var>c</Var>
+            <Var>e</Var>
+            <Var>f</Var>
+            <Var>g</Var>
+            <Var>d</Var>
+          </SKFunction>
+          <SKFunction skname="SK19">
+            <Var>a</Var>
+            <Var>b</Var>
+            <Var>c</Var>
+            <Var>e</Var>
+            <Var>f</Var>
+            <Var>g</Var>
+            <Var>d</Var>
+          </SKFunction>
+        </Atom>
+      </Exists>
+    </Mapping>
+  </Mappings>
+</xm:MappingScenario>

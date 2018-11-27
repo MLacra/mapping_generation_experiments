@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile-data>
+	<keyCandidates>
+		<attribute schema = "mixed_60_inds_s_cp_ad__src" relation = "great_ad_1_nl0_ce0" name = "board_ad_1_nl0_ae0ke0"/>
+		<attribute schema = "mixed_60_inds_s_cp_ad__src" relation = "past_dl_1_nl0_ce0" name = "wheel_dl_1_nl0_ae0ke0"/>
+		<attribute schema = "mixed_60_inds_s_cp_ad__src" relation = "nut_cp_1_nl0_ce0" name = "art_cp_1_nl0_ae0ke0"/>
+		<attribute schema = "mixed_60_inds_s_cp_ad__src" relation = "involve_ma_5_nl0_ce0" name = "flower_ma_5_nl0_ae0comp1_joinref_0"/>
+		<attribute schema = "mixed_60_inds_s_cp_ad__src" relation = "narrow_adl_1_nl0_ce0" name = "rest_adl_1_nl0_ae0ke0"/>
+		<attribute schema = "mixed_60_inds_s_cp_ad__src" relation = "mixed_ma_1_nl0_ce0" name = "chin_ma_1_nl0_ae0comp1_joinref_0"/>
+		<attribute schema = "mixed_60_inds_s_cp_ad__src" relation = "branch_ma_1_nl0_ce1" name = "chin_ma_1_nl0_ae0comp1_joinattr_0"/>
+		<attribute schema = "mixed_60_inds_s_cp_ad__src" relation = "blow_cp_2_nl0_ce0" name = "division_cp_2_nl0_ae0ke0"/>
+		<attribute schema = "mixed_60_inds_s_cp_ad__src" relation = "use_ad_2_nl0_ce0" name = "paint_ad_2_nl0_ae0ke0"/>
+		<attribute schema = "mixed_60_inds_s_cp_ad__src" relation = "found_ma_4_nl0_ce1" name = "start_ma_4_nl0_ae0comp1_joinattr_0"/>
+		<attribute schema = "mixed_60_inds_s_cp_ad__src" relation = "effect_adl_2_nl0_ce0" name = "slow_adl_2_nl0_ae0ke0"/>
+		<attribute schema = "mixed_60_inds_s_cp_ad__src" relation = "fruit_ma_4_nl0_ce0" name = "start_ma_4_nl0_ae0comp1_joinref_0"/>
+		<attribute schema = "mixed_60_inds_s_cp_ad__src" relation = "complete_ma_6_nl0_ce0" name = "agency_ma_6_nl0_ae0comp1_joinref_0"/>
+		<attribute schema = "mixed_60_inds_s_cp_ad__src" relation = "shake_ma_6_nl0_ce1" name = "agency_ma_6_nl0_ae0comp1_joinattr_0"/>
+		<attribute schema = "mixed_60_inds_s_cp_ad__src" relation = "collection_dl_2_nl0_ce0" name = "handle_dl_2_nl0_ae0ke0"/>
+		<attribute schema = "mixed_60_inds_s_cp_ad__src" relation = "charge_ma_2_nl0_ce0" name = "door_ma_2_nl0_ae0comp1_joinref_0"/>
+		<attribute schema = "mixed_60_inds_s_cp_ad__src" relation = "bent_ma_2_nl0_ce1" name = "door_ma_2_nl0_ae0comp1_joinattr_0"/>
+		<attribute schema = "mixed_60_inds_s_cp_ad__src" relation = "complex_ma_5_nl0_ce1" name = "flower_ma_5_nl0_ae0comp1_joinattr_0"/>
+		<attribute schema = "mixed_60_inds_s_cp_ad__src" relation = "treat_ma_3_nl0_ce0" name = "crush_ma_3_nl0_ae0comp1_joinref_0"/>
+		<attribute schema = "mixed_60_inds_s_cp_ad__src" relation = "worry_ma_3_nl0_ce1" name = "crush_ma_3_nl0_ae0comp1_joinattr_0"/>
+	</keyCandidates>
+	<inclusion-dependencies>
+		<inclusion-dependency>
+			<is-included distinct_values = "454">
+				<attribute schema = "mixed_60_inds_s_cp_ad__src" relation = "charge_ma_2_nl0_ce0" name = "door_ma_2_nl0_ae0comp1_joinref_0"/>
+			</is-included>
+			<includes>
+				<attribute schema = "mixed_60_inds_s_cp_ad__src" relation ="bent_ma_2_nl0_ce1" name = "door_ma_2_nl0_ae0comp1_joinattr_0"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "492">
+				<attribute schema = "mixed_60_inds_s_cp_ad__src" relation = "mixed_ma_1_nl0_ce0" name = "chin_ma_1_nl0_ae0comp1_joinref_0"/>
+			</is-included>
+			<includes>
+				<attribute schema = "mixed_60_inds_s_cp_ad__src" relation ="branch_ma_1_nl0_ce1" name = "chin_ma_1_nl0_ae0comp1_joinattr_0"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "537">
+				<attribute schema = "mixed_60_inds_s_cp_ad__src" relation = "worry_ma_3_nl0_ce1" name = "crush_ma_3_nl0_ae0comp1_joinattr_0"/>
+			</is-included>
+			<includes>
+				<attribute schema = "mixed_60_inds_s_cp_ad__src" relation ="treat_ma_3_nl0_ce0" name = "crush_ma_3_nl0_ae0comp1_joinref_0"/>
+			</includes>
+			<coeficient value = "0.9143389199255121"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "526">
+				<attribute schema = "mixed_60_inds_s_cp_ad__src" relation = "found_ma_4_nl0_ce1" name = "start_ma_4_nl0_ae0comp1_joinattr_0"/>
+			</is-included>
+			<includes>
+				<attribute schema = "mixed_60_inds_s_cp_ad__src" relation ="fruit_ma_4_nl0_ce0" name = "start_ma_4_nl0_ae0comp1_joinref_0"/>
+			</includes>
+			<coeficient value = "0.9201520912547528"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "546">
+				<attribute schema = "mixed_60_inds_s_cp_ad__src" relation = "complex_ma_5_nl0_ce1" name = "flower_ma_5_nl0_ae0comp1_joinattr_0"/>
+			</is-included>
+			<includes>
+				<attribute schema = "mixed_60_inds_s_cp_ad__src" relation ="involve_ma_5_nl0_ce0" name = "flower_ma_5_nl0_ae0comp1_joinref_0"/>
+			</includes>
+			<coeficient value = "0.8974358974358975"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "484">
+				<attribute schema = "mixed_60_inds_s_cp_ad__src" relation = "fruit_ma_4_nl0_ce0" name = "start_ma_4_nl0_ae0comp1_joinref_0"/>
+			</is-included>
+			<includes>
+				<attribute schema = "mixed_60_inds_s_cp_ad__src" relation ="found_ma_4_nl0_ce1" name = "start_ma_4_nl0_ae0comp1_joinattr_0"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "509">
+				<attribute schema = "mixed_60_inds_s_cp_ad__src" relation = "complete_ma_6_nl0_ce0" name = "agency_ma_6_nl0_ae0comp1_joinref_0"/>
+			</is-included>
+			<includes>
+				<attribute schema = "mixed_60_inds_s_cp_ad__src" relation ="shake_ma_6_nl0_ce1" name = "agency_ma_6_nl0_ae0comp1_joinattr_0"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "519">
+				<attribute schema = "mixed_60_inds_s_cp_ad__src" relation = "bent_ma_2_nl0_ce1" name = "door_ma_2_nl0_ae0comp1_joinattr_0"/>
+			</is-included>
+			<includes>
+				<attribute schema = "mixed_60_inds_s_cp_ad__src" relation ="charge_ma_2_nl0_ce0" name = "door_ma_2_nl0_ae0comp1_joinref_0"/>
+			</includes>
+			<coeficient value = "0.8747591522157996"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "490">
+				<attribute schema = "mixed_60_inds_s_cp_ad__src" relation = "involve_ma_5_nl0_ce0" name = "flower_ma_5_nl0_ae0comp1_joinref_0"/>
+			</is-included>
+			<includes>
+				<attribute schema = "mixed_60_inds_s_cp_ad__src" relation ="complex_ma_5_nl0_ce1" name = "flower_ma_5_nl0_ae0comp1_joinattr_0"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "535">
+				<attribute schema = "mixed_60_inds_s_cp_ad__src" relation = "shake_ma_6_nl0_ce1" name = "agency_ma_6_nl0_ae0comp1_joinattr_0"/>
+			</is-included>
+			<includes>
+				<attribute schema = "mixed_60_inds_s_cp_ad__src" relation ="complete_ma_6_nl0_ce0" name = "agency_ma_6_nl0_ae0comp1_joinref_0"/>
+			</includes>
+			<coeficient value = "0.9514018691588785"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "491">
+				<attribute schema = "mixed_60_inds_s_cp_ad__src" relation = "treat_ma_3_nl0_ce0" name = "crush_ma_3_nl0_ae0comp1_joinref_0"/>
+			</is-included>
+			<includes>
+				<attribute schema = "mixed_60_inds_s_cp_ad__src" relation ="worry_ma_3_nl0_ce1" name = "crush_ma_3_nl0_ae0comp1_joinattr_0"/>
+			</includes>
+			<coeficient value = "1.0"></coeficient>
+		</inclusion-dependency>
+		<inclusion-dependency>
+			<is-included distinct_values = "504">
+				<attribute schema = "mixed_60_inds_s_cp_ad__src" relation = "branch_ma_1_nl0_ce1" name = "chin_ma_1_nl0_ae0comp1_joinattr_0"/>
+			</is-included>
+			<includes>
+				<attribute schema = "mixed_60_inds_s_cp_ad__src" relation ="mixed_ma_1_nl0_ce0" name = "chin_ma_1_nl0_ae0comp1_joinref_0"/>
+			</includes>
+			<coeficient value = "0.9761904761904762"></coeficient>
+		</inclusion-dependency>
+	</inclusion-dependencies></profile-data>

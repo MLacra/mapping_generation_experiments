@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ASCII"?>
+<job:Job xmlns:job="http://com.ibm.clio.model/job/1.0">
+<mapping>S_CP_AD_DL_ADL_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2.xsml#/</mapping>
+</job:Job>

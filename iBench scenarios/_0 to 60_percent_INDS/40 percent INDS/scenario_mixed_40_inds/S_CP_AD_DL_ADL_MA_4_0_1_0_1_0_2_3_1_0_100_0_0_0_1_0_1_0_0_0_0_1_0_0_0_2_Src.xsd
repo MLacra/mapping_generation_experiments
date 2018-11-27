@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+<xs:element name="S_CP_AD_DL_ADL_MA_4_0_1_0_1_0_2_3_1_0_100_0_0_0_1_0_1_0_0_0_0_1_0_0_0_2_Src">
+   <xs:complexType>
+      <xs:sequence>
+         <xs:element name="nut_cp_1_nl0_ce0" minOccurs="0" maxOccurs="unbounded">
+            <xs:complexType>
+               <xs:sequence>
+                  <xs:element name="art_cp_1_nl0_ae0ke0" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="slope_cp_1_nl0_ae1" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="measure_cp_1_nl0_ae2" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="touch_cp_1_nl0_ae3" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="cheese_cp_1_nl0_ae4" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="society_cp_1_nl0_ae5" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="compare_cp_1_nl0_ae6" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="branch_cp_1_nl0_ae7" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="demand_cp_1_nl0_ae8" minOccurs="0" maxOccurs="1" type="xs:string"/>
+               </xs:sequence>
+            </xs:complexType>
+         </xs:element>
+         <xs:element name="great_ad_1_nl0_ce0" minOccurs="0" maxOccurs="unbounded">
+            <xs:complexType>
+               <xs:sequence>
+                  <xs:element name="board_ad_1_nl0_ae0ke0" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="different_ad_1_nl0_ae1" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="society_ad_1_nl0_ae2" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="warn_ad_1_nl0_ae3" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="tail_ad_1_nl0_ae4" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="red_ad_1_nl0_ae5" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="wrong_ad_1_nl0_ae6" minOccurs="0" maxOccurs="1" type="xs:string"/>
+               </xs:sequence>
+            </xs:complexType>
+         </xs:element>
+         <xs:element name="past_dl_1_nl0_ce0" minOccurs="0" maxOccurs="unbounded">
+            <xs:complexType>
+               <xs:sequence>
+                  <xs:element name="wheel_dl_1_nl0_ae0ke0" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="letter_dl_1_nl0_ae1" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="blue_dl_1_nl0_ae2" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="describe_dl_1_nl0_ae3" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="report_dl_1_nl0_ae4" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="night_dl_1_nl0_ae5" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="find_dl_1_nl0_ae6" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="attention_dl_1_nl0_ae7" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="discover_dl_1_nl0_ae8" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="different_dl_1_nl0_ae9" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="reveal_dl_1_nl0_ae10" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="oven_dl_1_nl0_ae11" minOccurs="0" maxOccurs="1" type="xs:string"/>
+               </xs:sequence>
+            </xs:complexType>
+         </xs:element>
+         <xs:element name="narrow_adl_1_nl0_ce0" minOccurs="0" maxOccurs="unbounded">
+            <xs:complexType>
+               <xs:sequence>
+                  <xs:element name="rest_adl_1_nl0_ae0ke0" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="expansion_adl_1_nl0_ae1" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="pipe_adl_1_nl0_ae2" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="indicate_adl_1_nl0_ae3" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="thank_adl_1_nl0_ae4" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="stick_adl_1_nl0_ae5" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="order_adl_1_nl0_ae6" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="twist_adl_1_nl0_ae7" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="account_adl_1_nl0_ae8" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="future_adl_1_nl0_ae9" minOccurs="0" maxOccurs="1" type="xs:string"/>
+               </xs:sequence>
+            </xs:complexType>
+         </xs:element>
+         <xs:element name="mixed_ma_1_nl0_ce0" minOccurs="0" maxOccurs="unbounded">
+            <xs:complexType>
+               <xs:sequence>
+                  <xs:element name="small_ma_1_nl0_ae0" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="broken_ma_1_nl0_ae1" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="brain_ma_1_nl0_ae2" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="chin_ma_1_nl0_ae0comp1_joinref_0" minOccurs="0" maxOccurs="1" type="xs:string"/>
+               </xs:sequence>
+            </xs:complexType>
+         </xs:element>
+         <xs:element name="branch_ma_1_nl0_ce1" minOccurs="0" maxOccurs="unbounded">
+            <xs:complexType>
+               <xs:sequence>
+                  <xs:element name="swim_ma_1_nl1_ae0" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="place_ma_1_nl1_ae1" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="approval_ma_1_nl1_ae2" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="chin_ma_1_nl0_ae0comp1_joinattr_0" minOccurs="0" maxOccurs="1" type="xs:string"/>
+               </xs:sequence>
+            </xs:complexType>
+         </xs:element>
+         <xs:element name="blow_cp_2_nl0_ce0" minOccurs="0" maxOccurs="unbounded">
+            <xs:complexType>
+               <xs:sequence>
+                  <xs:element name="division_cp_2_nl0_ae0ke0" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="ready_cp_2_nl0_ae1" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="property_cp_2_nl0_ae2" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="gun_cp_2_nl0_ae3" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="winter_cp_2_nl0_ae4" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="powder_cp_2_nl0_ae5" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="work_cp_2_nl0_ae6" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="discuss_cp_2_nl0_ae7" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="involve_cp_2_nl0_ae8" minOccurs="0" maxOccurs="1" type="xs:string"/>
+               </xs:sequence>
+            </xs:complexType>
+         </xs:element>
+         <xs:element name="use_ad_2_nl0_ce0" minOccurs="0" maxOccurs="unbounded">
+            <xs:complexType>
+               <xs:sequence>
+                  <xs:element name="paint_ad_2_nl0_ae0ke0" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="draw_ad_2_nl0_ae1" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="send_ad_2_nl0_ae2" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="regular_ad_2_nl0_ae3" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="knee_ad_2_nl0_ae4" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="leave_ad_2_nl0_ae5" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="parallel_ad_2_nl0_ae6" minOccurs="0" maxOccurs="1" type="xs:string"/>
+               </xs:sequence>
+            </xs:complexType>
+         </xs:element>
+         <xs:element name="collection_dl_2_nl0_ce0" minOccurs="0" maxOccurs="unbounded">
+            <xs:complexType>
+               <xs:sequence>
+                  <xs:element name="handle_dl_2_nl0_ae0ke0" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="die_dl_2_nl0_ae1" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="worry_dl_2_nl0_ae2" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="brown_dl_2_nl0_ae3" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="hit_dl_2_nl0_ae4" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="paint_dl_2_nl0_ae5" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="decision_dl_2_nl0_ae6" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="mind_dl_2_nl0_ae7" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="garden_dl_2_nl0_ae8" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="necessary_dl_2_nl0_ae9" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="organization_dl_2_nl0_ae10" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="stick_dl_2_nl0_ae11" minOccurs="0" maxOccurs="1" type="xs:string"/>
+               </xs:sequence>
+            </xs:complexType>
+         </xs:element>
+         <xs:element name="effect_adl_2_nl0_ce0" minOccurs="0" maxOccurs="unbounded">
+            <xs:complexType>
+               <xs:sequence>
+                  <xs:element name="slow_adl_2_nl0_ae0ke0" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="kind_adl_2_nl0_ae1" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="prove_adl_2_nl0_ae2" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="ring_adl_2_nl0_ae3" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="early_adl_2_nl0_ae4" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="violent_adl_2_nl0_ae5" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="chalk_adl_2_nl0_ae6" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="regular_adl_2_nl0_ae7" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="love_adl_2_nl0_ae8" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="mind_adl_2_nl0_ae9" minOccurs="0" maxOccurs="1" type="xs:string"/>
+               </xs:sequence>
+            </xs:complexType>
+         </xs:element>
+         <xs:element name="charge_ma_2_nl0_ce0" minOccurs="0" maxOccurs="unbounded">
+            <xs:complexType>
+               <xs:sequence>
+                  <xs:element name="certain_ma_2_nl0_ae0" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="sugar_ma_2_nl0_ae1" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="collection_ma_2_nl0_ae2" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="door_ma_2_nl0_ae0comp1_joinref_0" minOccurs="0" maxOccurs="1" type="xs:string"/>
+               </xs:sequence>
+            </xs:complexType>
+         </xs:element>
+         <xs:element name="bent_ma_2_nl0_ce1" minOccurs="0" maxOccurs="unbounded">
+            <xs:complexType>
+               <xs:sequence>
+                  <xs:element name="sweet_ma_2_nl1_ae0" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="rod_ma_2_nl1_ae1" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="silk_ma_2_nl1_ae2" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="door_ma_2_nl0_ae0comp1_joinattr_0" minOccurs="0" maxOccurs="1" type="xs:string"/>
+               </xs:sequence>
+            </xs:complexType>
+         </xs:element>
+         <xs:element name="crush_cp_3_nl0_ce0" minOccurs="0" maxOccurs="unbounded">
+            <xs:complexType>
+               <xs:sequence>
+                  <xs:element name="treat_cp_3_nl0_ae0ke0" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="farm_cp_3_nl0_ae1" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="political_cp_3_nl0_ae2" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="language_cp_3_nl0_ae3" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="worry_cp_3_nl0_ae4" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="chalk_cp_3_nl0_ae5" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="regular_cp_3_nl0_ae6" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="degree_cp_3_nl0_ae7" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="start_cp_3_nl0_ae8" minOccurs="0" maxOccurs="1" type="xs:string"/>
+               </xs:sequence>
+            </xs:complexType>
+         </xs:element>
+         <xs:element name="fruit_ad_3_nl0_ce0" minOccurs="0" maxOccurs="unbounded">
+            <xs:complexType>
+               <xs:sequence>
+                  <xs:element name="science_ad_3_nl0_ae0ke0" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="last_ad_3_nl0_ae1" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="found_ad_3_nl0_ae2" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="found_ad_3_nl0_ae3" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="sleep_ad_3_nl0_ae4" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="clean_ad_3_nl0_ae5" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="flower_ad_3_nl0_ae6" minOccurs="0" maxOccurs="1" type="xs:string"/>
+               </xs:sequence>
+            </xs:complexType>
+         </xs:element>
+         <xs:element name="involve_dl_3_nl0_ce0" minOccurs="0" maxOccurs="unbounded">
+            <xs:complexType>
+               <xs:sequence>
+                  <xs:element name="mention_dl_3_nl0_ae0ke0" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="grip_dl_3_nl0_ae1" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="complex_dl_3_nl0_ae2" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="claim_dl_3_nl0_ae3" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="state_dl_3_nl0_ae4" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="egg_dl_3_nl0_ae5" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="agency_dl_3_nl0_ae6" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="complete_dl_3_nl0_ae7" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="count_dl_3_nl0_ae8" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="amount_dl_3_nl0_ae9" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="death_dl_3_nl0_ae10" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="shake_dl_3_nl0_ae11" minOccurs="0" maxOccurs="1" type="xs:string"/>
+               </xs:sequence>
+            </xs:complexType>
+         </xs:element>
+         <xs:element name="hollow_adl_3_nl0_ce0" minOccurs="0" maxOccurs="unbounded">
+            <xs:complexType>
+               <xs:sequence>
+                  <xs:element name="hollow_adl_3_nl0_ae0ke0" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="distribution_adl_3_nl0_ae1" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="gold_adl_3_nl0_ae2" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="pain_adl_3_nl0_ae3" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="accept_adl_3_nl0_ae4" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="make_adl_3_nl0_ae5" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="prevent_adl_3_nl0_ae6" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="probable_adl_3_nl0_ae7" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="low_adl_3_nl0_ae8" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="bath_adl_3_nl0_ae9" minOccurs="0" maxOccurs="1" type="xs:string"/>
+               </xs:sequence>
+            </xs:complexType>
+         </xs:element>
+         <xs:element name="copy_ma_3_nl0_ce0" minOccurs="0" maxOccurs="unbounded">
+            <xs:complexType>
+               <xs:sequence>
+                  <xs:element name="thick_ma_3_nl0_ae0" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="close_ma_3_nl0_ae1" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="stiff_ma_3_nl0_ae2" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="butter_ma_3_nl0_ae0comp1_joinref_0" minOccurs="0" maxOccurs="1" type="xs:string"/>
+               </xs:sequence>
+            </xs:complexType>
+         </xs:element>
+         <xs:element name="feeling_ma_3_nl0_ce1" minOccurs="0" maxOccurs="unbounded">
+            <xs:complexType>
+               <xs:sequence>
+                  <xs:element name="connect_ma_3_nl1_ae0" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="disease_ma_3_nl1_ae1" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="attraction_ma_3_nl1_ae2" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="butter_ma_3_nl0_ae0comp1_joinattr_0" minOccurs="0" maxOccurs="1" type="xs:string"/>
+               </xs:sequence>
+            </xs:complexType>
+         </xs:element>
+         <xs:element name="root_ma_4_nl0_ce0" minOccurs="0" maxOccurs="unbounded">
+            <xs:complexType>
+               <xs:sequence>
+                  <xs:element name="pain_ma_4_nl0_ae0" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="straight_ma_4_nl0_ae1" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="complain_ma_4_nl0_ae2" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="sad_ma_4_nl0_ae0comp1_joinref_0" minOccurs="0" maxOccurs="1" type="xs:string"/>
+               </xs:sequence>
+            </xs:complexType>
+         </xs:element>
+         <xs:element name="question_ma_4_nl0_ce1" minOccurs="0" maxOccurs="unbounded">
+            <xs:complexType>
+               <xs:sequence>
+                  <xs:element name="walk_ma_4_nl1_ae0" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="count_ma_4_nl1_ae1" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="involve_ma_4_nl1_ae2" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                  <xs:element name="sad_ma_4_nl0_ae0comp1_joinattr_0" minOccurs="0" maxOccurs="1" type="xs:string"/>
+               </xs:sequence>
+            </xs:complexType>
+         </xs:element>
+      </xs:sequence>
+   </xs:complexType>
+<xs:key name="nut_cp_1_nl0_ce0art_cp_1_nl0_ae0ke0"><xs:selector xpath="./nut_cp_1_nl0_ce0"/><xs:field xpath="art_cp_1_nl0_ae0ke0"/></xs:key>
+<xs:key name="great_ad_1_nl0_ce0board_ad_1_nl0_ae0ke0"><xs:selector xpath="./great_ad_1_nl0_ce0"/><xs:field xpath="board_ad_1_nl0_ae0ke0"/></xs:key>
+<xs:key name="past_dl_1_nl0_ce0wheel_dl_1_nl0_ae0ke0"><xs:selector xpath="./past_dl_1_nl0_ce0"/><xs:field xpath="wheel_dl_1_nl0_ae0ke0"/></xs:key>
+<xs:key name="narrow_adl_1_nl0_ce0rest_adl_1_nl0_ae0ke0"><xs:selector xpath="./narrow_adl_1_nl0_ce0"/><xs:field xpath="rest_adl_1_nl0_ae0ke0"/></xs:key>
+<xs:key name="mixed_ma_1_nl0_ce0chin_ma_1_nl0_ae0comp1_joinref_0"><xs:selector xpath="./mixed_ma_1_nl0_ce0"/><xs:field xpath="chin_ma_1_nl0_ae0comp1_joinref_0"/></xs:key>
+<xs:key name="branch_ma_1_nl0_ce1chin_ma_1_nl0_ae0comp1_joinattr_0"><xs:selector xpath="./branch_ma_1_nl0_ce1"/><xs:field xpath="chin_ma_1_nl0_ae0comp1_joinattr_0"/></xs:key>
+<xs:key name="blow_cp_2_nl0_ce0division_cp_2_nl0_ae0ke0"><xs:selector xpath="./blow_cp_2_nl0_ce0"/><xs:field xpath="division_cp_2_nl0_ae0ke0"/></xs:key>
+<xs:key name="use_ad_2_nl0_ce0paint_ad_2_nl0_ae0ke0"><xs:selector xpath="./use_ad_2_nl0_ce0"/><xs:field xpath="paint_ad_2_nl0_ae0ke0"/></xs:key>
+<xs:key name="collection_dl_2_nl0_ce0handle_dl_2_nl0_ae0ke0"><xs:selector xpath="./collection_dl_2_nl0_ce0"/><xs:field xpath="handle_dl_2_nl0_ae0ke0"/></xs:key>
+<xs:key name="effect_adl_2_nl0_ce0slow_adl_2_nl0_ae0ke0"><xs:selector xpath="./effect_adl_2_nl0_ce0"/><xs:field xpath="slow_adl_2_nl0_ae0ke0"/></xs:key>
+<xs:key name="charge_ma_2_nl0_ce0door_ma_2_nl0_ae0comp1_joinref_0"><xs:selector xpath="./charge_ma_2_nl0_ce0"/><xs:field xpath="door_ma_2_nl0_ae0comp1_joinref_0"/></xs:key>
+<xs:key name="bent_ma_2_nl0_ce1door_ma_2_nl0_ae0comp1_joinattr_0"><xs:selector xpath="./bent_ma_2_nl0_ce1"/><xs:field xpath="door_ma_2_nl0_ae0comp1_joinattr_0"/></xs:key>
+<xs:key name="crush_cp_3_nl0_ce0treat_cp_3_nl0_ae0ke0"><xs:selector xpath="./crush_cp_3_nl0_ce0"/><xs:field xpath="treat_cp_3_nl0_ae0ke0"/></xs:key>
+<xs:key name="fruit_ad_3_nl0_ce0science_ad_3_nl0_ae0ke0"><xs:selector xpath="./fruit_ad_3_nl0_ce0"/><xs:field xpath="science_ad_3_nl0_ae0ke0"/></xs:key>
+<xs:key name="involve_dl_3_nl0_ce0mention_dl_3_nl0_ae0ke0"><xs:selector xpath="./involve_dl_3_nl0_ce0"/><xs:field xpath="mention_dl_3_nl0_ae0ke0"/></xs:key>
+<xs:key name="hollow_adl_3_nl0_ce0hollow_adl_3_nl0_ae0ke0"><xs:selector xpath="./hollow_adl_3_nl0_ce0"/><xs:field xpath="hollow_adl_3_nl0_ae0ke0"/></xs:key>
+<xs:key name="copy_ma_3_nl0_ce0butter_ma_3_nl0_ae0comp1_joinref_0"><xs:selector xpath="./copy_ma_3_nl0_ce0"/><xs:field xpath="butter_ma_3_nl0_ae0comp1_joinref_0"/></xs:key>
+<xs:key name="feeling_ma_3_nl0_ce1butter_ma_3_nl0_ae0comp1_joinattr_0"><xs:selector xpath="./feeling_ma_3_nl0_ce1"/><xs:field xpath="butter_ma_3_nl0_ae0comp1_joinattr_0"/></xs:key>
+<xs:key name="root_ma_4_nl0_ce0sad_ma_4_nl0_ae0comp1_joinref_0"><xs:selector xpath="./root_ma_4_nl0_ce0"/><xs:field xpath="sad_ma_4_nl0_ae0comp1_joinref_0"/></xs:key>
+<xs:key name="question_ma_4_nl0_ce1sad_ma_4_nl0_ae0comp1_joinattr_0"><xs:selector xpath="./question_ma_4_nl0_ce1"/><xs:field xpath="sad_ma_4_nl0_ae0comp1_joinattr_0"/></xs:key>
+<xs:keyref refer="branch_ma_1_nl0_ce1chin_ma_1_nl0_ae0comp1_joinattr_0" name="fkmixed_ma_1_nl0_ce0chin_ma_1_nl0_ae0comp1_joinref_0branch_ma_1_nl0_ce1chin_ma_1_nl0_ae0comp1_joinattr_0"><xs:selector xpath="./mixed_ma_1_nl0_ce0"/><xs:field xpath="chin_ma_1_nl0_ae0comp1_joinref_0"/></xs:keyref>
+<xs:keyref refer="bent_ma_2_nl0_ce1door_ma_2_nl0_ae0comp1_joinattr_0" name="fkcharge_ma_2_nl0_ce0door_ma_2_nl0_ae0comp1_joinref_0bent_ma_2_nl0_ce1door_ma_2_nl0_ae0comp1_joinattr_0"><xs:selector xpath="./charge_ma_2_nl0_ce0"/><xs:field xpath="door_ma_2_nl0_ae0comp1_joinref_0"/></xs:keyref>
+<xs:keyref refer="feeling_ma_3_nl0_ce1butter_ma_3_nl0_ae0comp1_joinattr_0" name="fkcopy_ma_3_nl0_ce0butter_ma_3_nl0_ae0comp1_joinref_0feeling_ma_3_nl0_ce1butter_ma_3_nl0_ae0comp1_joinattr_0"><xs:selector xpath="./copy_ma_3_nl0_ce0"/><xs:field xpath="butter_ma_3_nl0_ae0comp1_joinref_0"/></xs:keyref>
+<xs:keyref refer="question_ma_4_nl0_ce1sad_ma_4_nl0_ae0comp1_joinattr_0" name="fkroot_ma_4_nl0_ce0sad_ma_4_nl0_ae0comp1_joinref_0question_ma_4_nl0_ce1sad_ma_4_nl0_ae0comp1_joinattr_0"><xs:selector xpath="./root_ma_4_nl0_ce0"/><xs:field xpath="sad_ma_4_nl0_ae0comp1_joinref_0"/></xs:keyref>
+</xs:element>
+</xs:schema>
